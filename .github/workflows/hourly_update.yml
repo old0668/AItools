@@ -35,6 +35,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull origin main --rebase  # 先抓取遠端最新變更，避免衝突
           git add data/*.json data/*.txt
           git commit -m "🤖 自動更新：小時數據累積與信心指數 [$(date '+%Y-%m-%d %H:%M')]" || echo "沒有新數據需更新"
-          git push
+          git push origin main
