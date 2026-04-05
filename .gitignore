@@ -1,5 +1,7 @@
 .env
 __pycache__/
 *.pyc
-data/
 .DS_Store
+# 允許追蹤 data 資料夾中的數據檔案
+!data/*.json
+!data/*.txt
