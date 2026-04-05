@@ -9,7 +9,9 @@ from google.genai import types
 from dotenv import load_dotenv
 
 # Load environment variables
-load_dotenv()
+load_dotenv(override=True)
+if os.getenv("GEMINI_API_KEY"):
+    os.environ["GEMINI_API_KEY"] = os.getenv("GEMINI_API_KEY").strip().replace('"', '').replace("'", "")
 
 logger = logging.getLogger(__name__)
 
