@@ -88,5 +88,35 @@
     "timestamp": "2026-04-04T23:41:36.353318",
     "average_sentiment": 85.0,
     "news_count": 1
+  },
+  {
+    "timestamp": "2026-04-05T11:28:56.677413",
+    "average_sentiment": 25.0,
+    "news_count": 1
+  },
+  {
+    "timestamp": "2026-04-05T11:40:11.904136",
+    "average_sentiment": 25.0,
+    "news_count": 8
+  },
+  {
+    "timestamp": "2026-04-05T11:41:16.490731",
+    "average_sentiment": 25.0,
+    "news_count": 10
+  },
+  {
+    "timestamp": "2026-04-05T11:42:03.545517",
+    "average_sentiment": 25.0,
+    "news_count": 14
+  },
+  {
+    "timestamp": "2026-04-05T11:43:40.849091",
+    "average_sentiment": 32.0,
+    "news_count": 9
+  },
+  {
+    "timestamp": "2026-04-05T11:47:47.351892",
+    "average_sentiment": 32.0,
+    "news_count": 9
   }
 ]

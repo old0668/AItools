@@ -33,7 +33,8 @@ class Processor:
         if not gemini_key or gemini_key == "your_gemini_api_key":
             logger.warning("GEMINI_API_KEY is missing or is still a placeholder.")
         else:
-            logger.info("Initializing Gemini client...")
+            masked_key = f"{gemini_key[:4]}...{gemini_key[-4:]}"
+            logger.info(f"Initializing Gemini client with key: {masked_key}")
             try:
                 self.gemini_client = genai.Client(api_key=gemini_key)
                 logger.info("Gemini client initialized successfully.")
@@ -88,9 +89,15 @@ class Processor:
         """儲存當日累積的新聞"""
         try:
             today_str = datetime.now().strftime("%Y-%m-%d")
+            # 移除不可序列化的 datetime 物件
+            serializable_news = []
+            for item in self.today_news:
+                clean_item = {k: v for k, v in item.items() if k != '_dt'}
+                serializable_news.append(clean_item)
+                
             data = {
                 "date": today_str,
-                "news": self.today_news
+                "news": serializable_news
             }
             with open(self.today_news_file, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
@@ -251,7 +258,7 @@ class Processor:
         try:
             if self.gemini_client:
                 response = self.gemini_client.models.generate_content(
-                    model='gemini-2.5-flash',
+                    model='models/gemini-2.5-flash',
                     contents=prompt
                 )
                 summary = response.text

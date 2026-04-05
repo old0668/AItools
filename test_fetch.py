@@ -1,48 +1,56 @@
 import yaml
-import feedparser
-import hashlib
-import json
 import os
+import logging
 from core.ingestion import Ingestor
+from core.processing import Processor
+from dotenv import load_dotenv
 
-def test_fetch():
-    with open('config/config.yaml', 'r', encoding='utf-8') as f:
-        config = yaml.safe_load(f)
-    
-    if os.path.exists('data/history.json'):
-        with open('data/history.json', 'r', encoding='utf-8') as f:
-            history = json.load(f)
-    else:
-        history = []
+load_dotenv()
 
-    print(f"目前歷史記錄中有 {len(history)} 篇文章。")
+# Setup logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+def load_config(config_path='config/config.yaml'):
+    with open(config_path, 'r', encoding='utf-8') as f:
+        return yaml.safe_load(f)
+
+def test():
+    config = load_config()
     
+    print("\n--- Testing Ingestion ---")
     ingestor = Ingestor(config['news_sources'])
     raw_news = ingestor.fetch_all()
-    print(f"從 RSS 來源共抓取到 {len(raw_news)} 篇文章。")
+    print(f"Total raw news fetched: {len(raw_news)}")
     
-    keywords = config['keywords']
-    new_and_matched = []
-    
-    for item in raw_news:
-        url_hash = hashlib.md5(item['link'].encode('utf-8')).hexdigest()
-        content = (item['title'] + " " + item['summary']).lower()
-        
-        is_new = url_hash not in history
-        matches_keyword = any(k.lower() in content for k in keywords)
-        
-        if is_new and matches_keyword:
-            new_and_matched.append(item)
-        elif is_new:
-            # Optionally print why it was filtered
-            pass
+    if len(raw_news) > 0:
+        print(f"Example raw item: {raw_news[0]['title']} ({raw_news[0]['published']})")
 
-    print(f"經過關鍵字與去重過濾後，剩餘 {len(new_and_matched)} 篇新文章。")
-    if new_and_matched:
-        for i, item in enumerate(new_and_matched[:3]):
-            print(f"[{i+1}] {item['title']} ({item['published']})")
+    print("\n--- Testing Processing ---")
+    # Temporary check: bypass the last_pub_time filter by removing the file or using a fresh Processor
+    if os.path.exists('data/last_pub_time.txt'):
+        with open('data/last_pub_time.txt', 'r') as f:
+            print(f"Current last_pub_time: {f.read().strip()}")
+    
+    processor = Processor(config['keywords'], config['llm'])
+    
+    # We can manually inspect what's happening in filter_by_keywords
+    filtered_news = processor.filter_by_keywords(raw_news)
+    print(f"News after filtering: {len(filtered_news)}")
+    
+    if len(filtered_news) > 0:
+        for i, item in enumerate(filtered_news[:5]):
+            print(f"{i+1}. [{item.get('display_time')}] {item['title']}")
     else:
-        print("結論：目前沒有符合關鍵字的新新聞。")
+        print("No news passed the filters.")
+        # Let's see why. Check a few items against keywords.
+        print("\nChecking first 5 items against keywords:")
+        for item in raw_news[:5]:
+            content = (item.get('title', '') + " " + item.get('summary', '')).lower()
+            matches = [kw for kw in config['keywords'] if kw.lower() in content]
+            print(f"Title: {item['title']}")
+            print(f"Matches: {matches}")
+            print("-" * 20)
 
 if __name__ == "__main__":
-    test_fetch()
+    test()
