@@ -2,6 +2,4 @@
 __pycache__/
 *.pyc
 .DS_Store
-# 允許追蹤 data 資料夾中的數據檔案
-!data/*.json
-!data/*.txt
+# 移除對 data 資料夾的忽略，確保 GitHub Actions 能存取
