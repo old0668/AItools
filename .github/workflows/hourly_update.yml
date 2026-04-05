@@ -2,18 +2,20 @@ name: Hourly News Update
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小時整點執行一次 (UTC 時間)
-  workflow_dispatch:      # 允許手動點擊按鈕觸發
+    - cron: '0 * * * *'  # 每小時整點執行一次
+  workflow_dispatch:      # 允許手動觸發
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # 允許 Actions 寫入（儲存）JSON 數據
+      contents: write
     
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 抓取完整歷史紀錄以利合併
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,10 +34,9 @@ jobs:
         run: python main.py
 
       - name: Commit and Push changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git pull origin main --rebase  # 先抓取遠端最新變更，避免衝突
-          git add data/*.json data/*.txt
-          git commit -m "🤖 自動更新：小時數據累積與信心指數 [$(date '+%Y-%m-%d %H:%M')]" || echo "沒有新數據需更新"
-          git push origin main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 自動更新：小時數據累積與信心指數 [$(date '+%Y-%m-%d %H:%M')]"
+          file_pattern: 'data/*.json data/*.txt'
+          branch: main
+          push_options: '--force'  # 對於數據更新，採用強制推送以解決所有衝突
