@@ -167,13 +167,12 @@ class Processor:
             else:
                 continue # 無時間資訊的新聞不予處理以保證準確性
 
-            # --- 嚴格時間過濾邏輯 ---
-            # 1. 必須在 24 小時內
-            # 2. 必須晚於上一次抓取到的最新一筆時間 (防止回頭抓舊聞)
-            if pub_dt <= last_max_dt:
+            # --- 時間過濾邏輯 ---
+            # 1. 必須在 24 小時內 (保證時效性)
+            if pub_dt < twenty_four_hours_ago:
                 continue
             
-            # 更新本次運行看到的最高時間紀錄
+            # 2. 更新本次運行看到的最高時間紀錄 (僅作參考)
             if pub_dt > current_max_dt:
                 current_max_dt = pub_dt
 
@@ -184,7 +183,7 @@ class Processor:
             if not keyword_match:
                 continue
 
-            # 4. 去重檢查 (Link MD5)
+            # 4. 去重檢查 (Link MD5) - 這是目前最準確的唯一性檢查
             if self.is_new(item['link']):
                 filtered.append(item)
         
