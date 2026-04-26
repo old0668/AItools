@@ -1,237 +1,29 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "news": [
     {
-      "title": "川習會前出手！美國斬伊朗資金 制裁中國煉油大廠與「影子艦隊」航運商 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNU1BzVjdIWkhraTltQzJkNWFDb2FQZEI4REJoMk5BRVVqWnZ2ZHgzQ0g2OWEtUldGS2VUTzY2QlRwVU9zdXBwMjRlTVFCTkFMTE9WMU03TVdUNDZzRmc4aG9XNDBaTmNpQnRoRThKa0d2SnBBUmRKcTdfbi03R1NRelNTWG5WUFhYTEEtblNfNGRlekZ3OEZrOWE3M19OU255WG5aenh0YTVwZjdJQ0xtTXpZS3VvNHgzSDA0ZEhmdFdNbzY1ODNmR1p5cmFmajBqeTJrM2lKQzNmc0RtOGVES3ZKa3g5SXF5bE84bWdHSlZUWUxDel9MNGZiWDk5djhHMkRTWEdrbFpINlozd1pWSTBZdHFPY3IxZnNZMG1jOExPYmF3dDZXR2pkaU94UFRwTWRFeWMydnFGTkVHQlpxTDcxaGhFZUlXc3plQU9CYzNJb08yaVFKMlc2RHpPNjRPakM2dWVYQnRSNXp5MFZpQmhFNXRxUXFCRGVrbEZfV0Z2SklULTYwLXpScnF5UEFJT0p3RFhEanBSbHB4VVIxbGl4eExrX0k2MzdjM0tuX2p6eHBm?oc=5",
-      "published": "Sat, 25 Apr 2026 10:20:00 GMT",
-      "summary": "川習會前出手！美國斬伊朗資金 制裁中國煉油大廠與「影子艦隊」航運商  Yahoo新聞絞殺伊朗祕密金流！美國制裁40艘中資油輪與煉油廠，川習會前再給北京下馬威  Yahoo新聞美制裁購伊朗石油中國煉油廠 中國使館稱濫用制裁  MSN美凍結108億伊朗加密資產! 封殺石油出口施壓德黑蘭| 國際  Newtalk新聞美國重拳大規模制裁！川習會前夕加強打擊掃蕩中伊影子貿易｜發現台灣不可忽視！2007年斷交後哥斯大黎加回頭尋台半導體業者協助｜2026/04/25 中央社晚間新聞  中央社 CNA",
-      "source": "Google News Global",
-      "display_time": "04/25 18:20"
-    },
-    {
-      "title": "台積電入列！走過不要再錯過 外媒曝5家AI股潛力巨大 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vcDRnMW0tYno1bFpWcGxWeUZvLWtKemlINDlyanJYamlsV29nLWhkS2hvNnlPZDRGQjZCWUlfZldEVF9OdzlNTnJ4aldVRldzaE9hYkF5aE8ySWlJdVVV0gFkQVVfeXFMTTc1NWZ3RFhMRHAybVBIcmw1QVZmTHMyTDNjV0tGNVlSSVNXZlNjZ01jbWpiV1BJTC14Slp4X0UzVWFWakVLbW96a0VUQTR3b05pUW1SajJyUk5nOUpJaHlTN1k2NA?oc=5",
-      "published": "Sat, 25 Apr 2026 08:04:56 GMT",
-      "summary": "台積電入列！走過不要再錯過 外媒曝5家AI股潛力巨大  自由財經台積電挑戰市值全球第1！外媒給出答案  自由財經台積電大聯盟的遺珠？它EPS從4.3到5.2元，布局功率、驅動IC與嵌入式記憶體，股價打出底型本益比低嗎？  經濟日報台積電毛利率 66% 的背後，用「深度綁定」換取地緣政治下的新霸權  TechNews 科技新報雜誌精選》台積電引爆供應鏈上修潮- 上市櫃  旺得富理財網",
-      "source": "Google News Global",
-      "display_time": "04/25 16:04"
-    },
-    {
-      "title": "英特爾股價狂飆讓川普政府暴賺300% 13檔台廠供應鏈也注入活血 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQRlNaSFRvaDNmdHhkZ2ZrM0JVQWFnQ1lPeXo1VTQyMl9sV3NCZlJab2tjUThtRVU0QW9vSk1LMGxYLTktRnhTcjFDb2NuRVRrU1ZYVE41MTkyT0NCbGRQQmVKS0dGb2NhRXdpZW91U193dVc3X1pXckRNSjVQWVhWTE84REhQMUJ3NTBPYzg1TUZQdDZKS3Q0MmNNam01LWpmWGlTOUZDNy1hRWxfX3NFZVFvUkJ5dDlqcVFaeUgxODZMUFhNcVpWeWtSYkd1S2pkNmZsVGtNd1d3V2p4cW8zSXNNWkVGeFVYWGROc0o5c1AxeVZDV2MzMjZLLVJJeDNXSVpnTDBUZ2pGSkFkZWQ0bmxPWWFkZGRHUEhtb3NsRFlnR2hXNmE0c1piaW1IQnpDeFZpVG5vbHBRQXQycmxiaFEtcWxRZ2stcUY2VUxhTVI1RFhHdkdGVUhZVXZFcUFVTkZqME1zNG1EVHlFQnZNZEtZQ3BuU01NMFBxSngzc1d3a0dFcW5V?oc=5",
-      "published": "Sat, 25 Apr 2026 07:26:24 GMT",
-      "summary": "英特爾股價狂飆讓川普政府暴賺300% 13檔台廠供應鏈也注入活血  Yahoo新聞從全網笑柄到逆襲成功！他兩年前用70萬美元重押英特爾如今翻近三倍| 全球財經| 全球  聯合新聞網美股收盤》台積電ADR漲逾5％！標普那指衝新高 英特爾狂飆23.6％  自由財經英特爾寫25年新高 川普政府持股報酬率驚人 帳面獲利近300億美元  cnyes.com英特爾漲逾23％創新高　分析師潑冷水：AMD前景更有爆發力  ETtoday財經雲",
-      "source": "Google News Global",
-      "display_time": "04/25 15:26"
-    },
-    {
-      "title": "AI掀股市版圖大洗牌台灣「超英趕加」台積電躍居全球市值第七大| 全球財經| 全球 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oX2JmdmVIalBVblBhWjFlWVpBdWNKVkkzU1lHZGN3ZmF0czBUcDh4ZFNVRFNBbk1iQzhRbGtQVmxSSFlBVzJZdVpUZGhCcE9y?oc=5",
-      "published": "Sat, 25 Apr 2026 06:31:00 GMT",
-      "summary": "AI掀股市版圖大洗牌台灣「超英趕加」台積電躍居全球市值第七大| 全球財經| 全球  聯合新聞網",
+      "title": "台股創高挑戰4萬！AI族群分化加劇 法人籲拉回布局防高檔震盪 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUpodHRkNW5MbndydlJaNWZTRl9lMzhLVlFJS0ZKUk92c29lcFpwNmhOVGEzTGpnQ2lrV3JSTzZ3V0FjRzlfTTJ6LUt5WVdjaWhCRVB1S0JuWGNzRmpMNnBLaC1fT0tLVHd2WE1BN1llcTI2MzFoWXVnVGZVQXk5WkhR?oc=5",
+      "published": "Sun, 26 Apr 2026 16:05:00 GMT",
+      "summary": "台股創高挑戰4萬！AI族群分化加劇 法人籲拉回布局防高檔震盪  壹蘋新聞網",
       "source": "Google News Finance",
-      "display_time": "04/25 14:31"
+      "display_time": "04/27 00:05"
     },
     {
-      "title": "複製加薩模式！以軍在黎巴嫩南部劃「黃線」 衛星影像驚見整村遭夷平 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HX3l2R1QzWDZranZiNnhxU1BHZ3l4d1RHNmE0dUQwM1JDSHZKUGtGU3ZzWDN2aGJYWWZFaThpSW91RnVQTV9nc2RqaHUwdnVCNEJF0gFYQVVfeXFMT292N2kydGJCbzFyZDlPUHl6Rmg3dDN2QVRJRmkxSVJ2aGRMdUN3SmcwM0Focy1hTkNuVHlfRWZ5MXY0aHZiTFJUeWZjaGFHejBtSFhRekoyNA?oc=5",
-      "published": "Sat, 25 Apr 2026 04:56:47 GMT",
-      "summary": "複製加薩模式！以軍在黎巴嫩南部劃「黃線」 衛星影像驚見整村遭夷平  聯合新聞網以色列突然發動攻擊！黎巴嫩真主黨火箭首度越境 納坦雅胡：持續應對任何威脅  Yahoo股市川普會以黎代表 宣布兩國停火延長3週  中央社 CNA美延長以黎停火難降溫！真主黨開嗆「停火毫無意義」  news.cnyes.com停火期間又交火！以軍擊斃6名真主黨 總理納坦雅胡證實罹癌  TVBS新聞網",
+      "title": "原本要當「廢品晶片」竟然賣出 英特爾亮眼獲利背後意外被曝 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPMU1Hb0tUTjBiZ0gtLURNMU9idGhqRFhnT3F4bExnXzVTcmRZcnhjRk1UZ2JFeGw1Y2x6VHJsR2h4VV85R1V1NEp0TW1CcDZLaGpUelI3VVhOVFJYSDA00gFkQVVfeXFMUE5NWWo1dzJhc1lVSFkxMnpWTmpCZGdLMkg4M3hoMUFzSjI4TzZXNEIxTDBINWpFNFQ0Xy1PMXR3VkFJZnNycFJBSHZ3UXlzZ1JKdFhwTHIyNjlSa3dtQmpUUXdfQg?oc=5",
+      "published": "Sun, 26 Apr 2026 13:05:18 GMT",
+      "summary": "原本要當「廢品晶片」竟然賣出 英特爾亮眼獲利背後意外被曝  自由財經英特爾再漲23% 法人卻說這檔股票更值得看  Yahoo新聞超微股價飆漲 14% 創歷史新高 AI 與資料中心需求成主要動能  PChome Online 股市英特爾寫25年新高 川普政府持股報酬率驚人 帳面獲利近300億美元  cnyes.com那指和標普指數再創新高  MSN",
       "source": "Google News Global",
-      "display_time": "04/25 12:56"
+      "display_time": "04/26 21:05"
     },
     {
-      "title": "廣達38周年廠慶林百里喊話：去年營收破2兆、今年拚更好成績- 產業 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMLXhiSXNJd1Q1LVk0aEMxUERfeWZkcmZ1bld5d2RPbl9aWEZUM3dGc1NTNzFZdDRKMFFzRjJYXy1FRWxZeElYbzJMZWlHWEFhY0JPMTR6TVhTZ3dvN3ZN?oc=5",
-      "published": "Sat, 25 Apr 2026 03:19:00 GMT",
-      "summary": "廣達38周年廠慶林百里喊話：去年營收破2兆、今年拚更好成績- 產業  工商時報2兆營收後再拚新高！電子五哥「老大哥」再釋樂觀展望 董座激情喊話看旺全年  Yahoo股市廣達曝今年「有很大的機會」 林百里、梁次震發言一次看  自由財經〈廣達家庭日〉林百里喊話：廣達38歲正處健壯期 今年一定能勇往直前  news.cnyes.com廣達：客戶需求「更快更多」，今年拚再創佳績- 新聞  MoneyDJ理財網",
+      "title": "太閃了！台灣首富與愛妻力挺張清芳 「那魯7-11」天后也獻上唇印 - 自由娛樂",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mWHIwSHRaOXR3amRYc2taeDRkRUpHcVpybC01cXFQTzdiUExpN3pOa1ppVUdiQlh4M1N4QXFMMmUwTy03SkxVS1FFaG5PU2lkdHoxWVpzcU91cTVT0gFiQVVfeXFMTTdlUzlWTWhFX1pHS2dBV0hhWXdHemxVQlNFUjh0aHZIb2RtRHBXcDNSMkNZbkdUVHp0cDYzWllYLVhWeGlWeDRDNGdkQTF5dm96bDZQeWcxS3dSdG05cjlONlE?oc=5",
+      "published": "Sun, 26 Apr 2026 11:21:29 GMT",
+      "summary": "太閃了！台灣首富與愛妻力挺張清芳 「那魯7-11」天后也獻上唇印  自由娛樂曾馨瑩捐300萬助張清芳行善 台積電宏碁股票大王也來了  Yahoo新聞張清芳唱一半！蹲地工作人員竟是最帥星二代哈林傻眼了| 音樂  噓！星聞張清芳、林心如、楊謹華大合體！Ella過動蹦蹦跳　讓媽媽們虛累累  NOWnews今日新聞台積電、宏碁大咖全來了！　張清芳唱一半突收300萬捐款　女神身份曝光  ETtoday星光雲| ETtoday新聞雲",
       "source": "Google News Global",
-      "display_time": "04/25 11:19"
-    },
-    {
-      "title": "台股今年攻4萬？謝晨彥：台積電上看2400 小資族靠主動式ETF追「萬金股」 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SWUpJMHdQUk8ta0JMY0RNNDRKUmhqbWJKYTRwVUZoenVINHFEU2FMcjBpemRwemhmYjA0Vk9WeE81dWt6dzl4NDU2ZGJ4aGdPNDd3WlVEUVpsdHlwZWdR?oc=5",
-      "published": "Sat, 25 Apr 2026 03:11:00 GMT",
-      "summary": "台股今年攻4萬？謝晨彥：台積電上看2400 小資族靠主動式ETF追「萬金股」  工商時報台股周一達陣4萬點？內行提醒「這類型股」失血慘況：多頭沒空等你考慮！ | 李瑋萱 | 新聞  風傳媒台股短線大修正將至？AI帶動漲不停 陳鳳馨讚3大台廠如「會跳舞的大象」  Yahoo新聞台積電 ADR 突拔高大漲 台指期夜盤向 40K 衝關  經濟日報台積電、聯發科、台達電股價2千元以上比拚新高，我的小錢該買誰？台股逼進39000點，法人籌碼已露餡  今周刊",
-      "source": "Google News Global",
-      "display_time": "04/25 11:11"
-    },
-    {
-      "title": "美伊談判暗潮洶湧…伊朗拒直接對話 巴基斯坦成「關鍵中介」 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TWm5qQkVrU1RqRXdmUHRTNFVXdlhMUXBSQWRIdjJRdGRNb1MwYzZXWk5xVVFIZnpHT2N4MDR6dGF5OThURThBTkhSY0dmOTgtbjRN?oc=5",
-      "published": "Sat, 25 Apr 2026 12:01:14 GMT",
-      "summary": "美伊談判暗潮洶湧…伊朗拒直接對話 巴基斯坦成「關鍵中介」  聯合新聞網不去巴基斯坦了！川普：伊朗想談打電話就行  Yahoo新聞快訊／川普宣布「取消停火談判」！指示代表團：不用前往巴基斯坦  ETtoday新聞雲美伊談判又破局？伊朗拒與美方會面 荷姆茲海峽受阻、油價飆升16%  news.cnyes.com伊朗外長抵達巴基斯坦 稱不打算與美國特使見面  公視新聞網PNN",
-      "source": "Google News Global",
-      "display_time": "04/25 20:01"
-    },
-    {
-      "title": "3.5 億歐元太貴了！台積電宣布暫不採購 ASML 新款 High-NA EUV 曝光機 - T客邦",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ld2VqOTNyWDNRODJ3VDdXSi1VRXVKdUk0ZTV2NzJsRy1BYlpfSW92bXdBbXNXVDVCeEw1bGJFYzlpOFdWVmpPX0plc3dtQk9HRWhyTWh2Q0d0bXNkZUpoR2hHTnlmWUtmVXV6UUtFbGtaQ2ZqbnJn?oc=5",
-      "published": "Sat, 25 Apr 2026 08:15:00 GMT",
-      "summary": "3.5 億歐元太貴了！台積電宣布暫不採購 ASML 新款 High-NA EUV 曝光機  T客邦台積電2奈米吃掉毛利？海外建廠拖累獲利？拆解魏哲家「綁定客戶、逼退對手」背後盤算  數位時代CoPoS、CoWoP是什麼？魏哲家看重的晶片面板封裝概念股拆解  遠見雜誌台積埃米級製程大躍進 進度狠甩三星、英特爾  經濟日報台積電矽谷發表A13和A12製程 台股暴漲又暴跌  Yahoo股市",
-      "source": "Google News Global",
-      "display_time": "04/25 16:15"
-    },
-    {
-      "title": "台股今年攻4萬？謝晨彥：台積電上看2400 小資族靠主動式ETF追「萬金股」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOY3l5OWlvQXBtamVrYjdXM2w3blZsdk54bVBZXzBJQ2RLcnVOM2ZIdF90b3RWY05NZTlrc0M0Z2diVGh1LXlIZW1iU3V5OWV5T19LbDZIN2Y4bUxGcnk4TWt5andVcHhaTkQtVFBRa3NXQXZsUlg3OVdPMExtVmNSQVJIVEplMHBUTUZrVU92MFMxcWc2NFJDMDQxcW5aaFdhMURoZlI0WEdOcjZKU05ubjYwREU4aVJBdm1ITWt0bDZtb3BIVm5QczNXMXNMbGdmOW5aQW5WS1B0Wk5LYjF4SWNSYkRxVlFFMGNlSGhFNDdSSlZValFwaF9NOTJuMkhLY3ZUUXV5WkoyYmdPY0hsSVA2dDdsbFowM2hYaWptb3FCV2JrNDdKQldqMkc1SEZlWlpzck5waG1mS3pHRlZaNnRwOGc3ZTY2MXNITVhQMlhrQTVmUVhKMXphUzlTN2tBWWpfeEZKWU9LWGpvWUExUHZDSUo1d1o2am0tZjNRV3UtZ3dBTkk4bFdBV0xGS3gwNUZEdkU5aw?oc=5",
-      "published": "Sat, 25 Apr 2026 03:09:24 GMT",
-      "summary": "台股今年攻4萬？謝晨彥：台積電上看2400 小資族靠主動式ETF追「萬金股」  Yahoo股市台股周一達陣4萬點？內行提醒「這類型股」失血慘況：多頭沒空等你考慮！ | 李瑋萱 | 新聞  風傳媒台股短線大修正將至？AI帶動漲不停 陳鳳馨讚3大台廠如「會跳舞的大象」  Yahoo新聞台積電 ADR 突拔高大漲 台指期夜盤向 40K 衝關  經濟日報台積電、聯發科、台達電股價2千元以上比拚新高，我的小錢該買誰？台股逼進39000點，法人籌碼已露餡  今周刊",
-      "source": "Google News Global",
-      "display_time": "04/25 11:09"
-    },
-    {
-      "title": "快訊／川普宣布「取消停火談判」！指示代表團：不用前往巴基斯坦 - ETtoday新聞雲",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ON2g3NmdETWhCdzh3MGk1TGpKMFp1SXo0M25sdUJXVHBSWXpRNU9lQVdpa0E1QzJMWmpyYUtDTlZrV245QkJydTY3eXVYT2pBbGtoOVFQNFB4ZmZOc1HSAWhBVV95cUxNSm9EQ3BnNlFDWmxzNHdqOHI2M25OTTl0SkxKYk8wS3kxYnAzZkNHU2RKUG1nR2Y4bmU4dVNRWG9ldW1QOG9OaGFmNnRDYXZlU1dWTDlzc3B3cGQySjF3NHlVZGRkNlJCZw?oc=5",
-      "published": "Sat, 25 Apr 2026 16:22:00 GMT",
-      "summary": "快訊／川普宣布「取消停火談判」！指示代表團：不用前往巴基斯坦  ETtoday新聞雲不去巴基斯坦了！川普：伊朗想談打電話就行  Yahoo新聞美伊代表赴巴國全球關注 外界緊盯是否直接談判  經濟日報美伊談判又破局？伊朗拒與美方會面 荷姆茲海峽受阻、油價飆升16%  news.cnyes.com美國談判代表前往巴基斯坦伊朗稱未計畫與美方直接會談| 國際  中央社 CNA",
-      "source": "Google News Global",
-      "display_time": "04/26 00:22"
-    },
-    {
-      "title": "4表看懂》00940創高也沒用！規模腰斬為何00878、00919超熱門？達人揭關鍵：月月配在退燒- 基金 - 旺得富理財網",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeE9zMUNZSGFvNlJUWWxlSGFjUTNkTS1YaUZrOXQ4Rl9zZTNzWld5eTg0OWYxZUkwcG5feERreUQxb0NROUFvdWRCV3RvcGZRd1JPODhKYmpDd1dhYkN0SHNyR2tMVFRSalE?oc=5",
-      "published": "Fri, 24 Apr 2026 23:24:16 GMT",
-      "summary": "4表看懂》00940創高也沒用！規模腰斬為何00878、00919超熱門？達人揭關鍵：月月配在退燒- 基金  旺得富理財網00940本月漲 10% 創新高解套，月配ETF卻漸漸被更多人蛋雕？  ETtoday財經雲月配型台股ETF 績效優異- 日報  工商時報00919配息0.78元填息！股價將重返24元之上現在還能買？存股達人秀密技：做到一件事威力能更大  今周刊00919花25天填息！達人曝「用2套紀律持股」：填息很好、沒填也不怕睡公園| 存股族愛ETF | 股市  聯合新聞網",
-      "source": "Google News Global",
-      "display_time": "04/25 07:24"
-    },
-    {
-      "title": "半導體股暴走！費半連18紅點燃台股 法人示警「1投資風險」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNY1dzbVgyX2hIaXhVbGVubnhndkE2RTVfV0FZRzQwRkRXdXJHSU1VcThya2RSenpQX1lLZUI1WThsaEFDU2s0MkphU05OcDBDRWJVMEhBbktDLVRfMm1pT09oWldwQ2JlX2Y5UkRaX052Mi00VXk3U1NzWEl4VlRMZjVqYmJqX3FLOGh5d3llOWpVOEVpaktDRk5zeXA1NGVkQVphSDJxZTZ4TndsdFdPZ2tuVG8zUzN0eF82RklSRUliOW92cVFLenNLcFRKQmNUSzdsUGlQdmczT1JOakJXSDViZVpPNXRTeU5VSWFwRzRUdDVSWGVkby0xTF9tZzlwb3Jhd1h1M1dDRGhIVDZQeGVaT1FkWWFCY1FnbzdldFdTYXprRDV1WWJNNUx6M3RjY1hucXNMUVhiTk94RGtfNUdaTmVZbWpRek92U1FNWmI5RU8wbXRnQ2sxdTYwTFFMWTZvLXJ3X2RLOTA?oc=5",
-      "published": "Sat, 25 Apr 2026 10:30:00 GMT",
-      "summary": "半導體股暴走！費半連18紅點燃台股 法人示警「1投資風險」  Yahoo股市台股周一達陣4萬點？內行提醒「這類型股」失血慘況：多頭沒空等你考慮！ | 李瑋萱 | 新聞  風傳媒台股短線大修正將至?AI帶動漲不停 陳鳳馨讚3大台廠如「會跳舞的大象」  MSN台股神風特攻搶灘3萬9、台積技術論壇、外銷訂單創911億美元新高 本周大事回顧  news.cnyes.com美科技大廠超級財報周來了 台鏈看旺 法人期待利多  經濟日報",
-      "source": "Google News Global",
-      "display_time": "04/25 18:30"
-    },
-    {
-      "title": "香過中信金、台新新光金！這檔銀行股殖利率衝上5.4％ 台股高息10強1次看- 上市櫃 - 旺得富理財網",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5waFZMZG56ZmFBaHFSUDE1VkhZeVFxWGxZT2xobWM4a09Rb1pTOGV3bHZJeFhXSjZhNkJfdFc1bkttWGxMdlBvQW1XQ3g2UG8xa3BrWGFMa2VNOHROSGFhTkxMRGVZbmxOYWc?oc=5",
-      "published": "Sat, 25 Apr 2026 05:44:34 GMT",
-      "summary": "香過中信金、台新新光金！這檔銀行股殖利率衝上5.4％ 台股高息10強1次看- 上市櫃  旺得富理財網近60萬股東嗨了！中信金配息2.5元殖利率近5％ 股東會紀念品零股也能領- 日報  工商時報股利大禮包來了！中信金配息2.5元創史高 現金殖利率4.7％  Yahoo股市中信金現金股利2.5元再創新高 股東還有超貴氣紀念品可領  自由財經58萬股東注意！中信金擬配現金股利2.5元創歷史新高 現金殖利率4.7%  玩股網",
-      "source": "Google News Global",
-      "display_time": "04/25 13:44"
-    },
-    {
-      "title": "台股4月狂飆2成！主動式ETF全面噴發 三強卡位AI績效全破6成 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRXBxc2ZtZUxoNC1DX3g5VmNDZXhGMVJHdXMyX1p5VV9iRGYzWWFjWno2eTFVb09XLWhfUGpId1UxcW5tVUppQ2t5Wkxpb3V1NG1PdVItTHFqdFFLQXFpRW9kU3hHMVN6X1IycDdndHFvc0pERVYwdVpBYzdPWEdJZHFB?oc=5",
-      "published": "Sun, 26 Apr 2026 02:35:00 GMT",
-      "summary": "台股4月狂飆2成！主動式ETF全面噴發 三強卡位AI績效全破6成  壹蘋新聞網",
-      "source": "Google News Finance",
-      "display_time": "04/26 10:35"
-    },
-    {
-      "title": "川普又遇暗殺！與白宮記者晚宴竟傳槍響，美國總統與第一夫人緊急撤離 | 國際中心 | 新聞 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EcTJzSW4xcFNTQ0RKTlNDNElIZHA1dVVJMlNKNjVKMG83dDhKRlBjRjBTMzdiSm9uekRoa3NiZ1ItdVI0MDl4dEZOdW00Zw?oc=5",
-      "published": "Sun, 26 Apr 2026 01:21:00 GMT",
-      "summary": "川普又遇暗殺！與白宮記者晚宴竟傳槍響，美國總統與第一夫人緊急撤離 | 國際中心 | 新聞  風傳媒影／川普出席白宮記者晚宴傳有人開槍 與第一夫人梅蘭妮亞緊急撤離  聯合新聞網川普出席晚宴險又遇槍擊 地點正是45年前雷根遇刺飯店  Yahoo新聞特勤局證實安全無恙 川普返回白宮將召開記者會  rti.org.tw(影)槍手埋伏白宮「組長槍亂射」！川普急撤、特勤中彈壓制畫面曝| 國際  Newtalk新聞",
-      "source": "Google News Global",
-      "display_time": "04/26 09:21"
-    },
-    {
-      "title": "不走年薪早破350萬！台積電離職員工嘆「錯過人生巔峰」 網1招秒解心病 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOVzctUFBVYjVoN0x5QmFrMDBfZF84V2RINUhnX0Y3N3JiQVFQWGd4UzlRc1V4WWxZZGNaT0JwSXFtUFdYclZ6WUY0a1pRQk0wOXMwVWdiRnNLdWJRMWQ3NENfQU5CWl9XY21EaUM2NUctTU5YNTlOQ2pHWk93MWRMb1Y4Y1FXdmU0Tm1NTjZ4cWtvdGx5aTRDMzJUNTBwRmVHV1Rwd2oyVFZlTDZ2cUlnMDFZOGpORGpzbGtFamk4cWVUa3pZQnVXU3RTX000RDA0MzlfbmUwV3lfQmhsdk5Rek0zMnhncEtITTUyRGlMSGJvMjVGNC1xcy1KOW9FbnpRVlE3YzRtQWt5QUZyckZ2Z2c3RzNaYVNSMjVIZE1ueDZYeHVIZ0tJcjZpQklmbHNWQUZCZ1FRSVBfU2YyWHdFVFkzQi1tODdUSUdaSUROTFByYlpVR0dRS0w4MjhaOFJtc3hvZWh4ZUpYVmpuZFE4LUhTenhmaXR2LUI3Q2RpVF9qWmVkZGRvNlh2RWxHcFlHeVNILVRkbG04aVE4NDZTbg?oc=5",
-      "published": "Sat, 25 Apr 2026 21:50:09 GMT",
-      "summary": "不走年薪早破350萬！台積電離職員工嘆「錯過人生巔峰」 網1招秒解心病  Yahoo新聞台積雙喜！員工年度調薪3-5% 股價再寫2185元歷史新高  聯合新聞網台積電猛爆性調薪！「S+資深工程師」能加 9%、平均 3-5%、分紅人均 264 萬  動區動趨台積電年度調薪定案確定！平均調薪 3%~5%，績優資深工程師上看 9%  TechNews 科技新報台積電平均年薪破400萬!前員工嘆「錯過人生巔峰」 好失落  MSN",
-      "source": "Google News Global",
-      "display_time": "04/26 05:50"
-    },
-    {
-      "title": "川普取消美伊會談後稱收到新提案、內容更好| 美以轟炸伊朗| 全球 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aMzFPbjg5MURnWFRXcHlQVlZ0dkJSTjAtYU5OZW9IdFFtdnhFLVJYZ1pGUkR4cHV3ckxoeEFXNGd2TjE1S2M0Ujlsc3NxOEFwRE9B?oc=5",
-      "published": "Sat, 25 Apr 2026 20:48:18 GMT",
-      "summary": "川普取消美伊會談後稱收到新提案、內容更好| 美以轟炸伊朗| 全球  聯合新聞網取消代表團赴巴二輪談判 川普：拒無意義遠航  公視新聞網PNN川普取消美伊停火第二輪談判 指責伊朗「內鬥」所影響  Yahoo新聞美伊會談破局！川普突撤美方代表團 狠批德黑蘭高層內鬥混亂  自由時報美伊談判恐無突破？共和黨眾議員：荷姆茲海峽衝突短期難解、信任仍是最大障礙  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "04/26 04:48"
-    },
-    {
-      "title": "川普白宮槍擊案懶人包》晚宴驚變大屠殺！槍手埋伏死角「慢慢組槍」沒人管？「他」 肉身擋彈傷勢曝 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FbHRsUE8yRnJHencta2t1SXZjN3hZX3Y2U3NVQmRBdkRXbFBMLUFtc28wdTROa2F5c25wbkJ6S2h5ejNmUERKWVBiQ0lmbnU3?oc=5",
-      "published": "Sun, 26 Apr 2026 02:55:00 GMT",
-      "summary": "川普白宮槍擊案懶人包》晚宴驚變大屠殺！槍手埋伏死角「慢慢組槍」沒人管？「他」 肉身擋彈傷勢曝  風傳媒白宮記者晚宴槍擊嫌犯細節曝！為教師兼遊戲開發者、曾向賀錦麗總統競選捐款  news.cnyes.com連環圖曝「孤狼」衝刺4秒突破封鎖線 川普：他看起來很邪惡  Yahoo新聞再遭遇槍擊 川普：有影響力、做最多的人才會被開槍  聯合新聞網川普出席白宮記者晚宴突槍響 槍手第一時間遭逮捕  公視新聞網PNN",
-      "source": "Google News Global",
-      "display_time": "04/26 10:55"
-    },
-    {
-      "title": "美軍攔截伊朗「影子艦隊」 命其掉頭返航 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yRlhsWFlaQnhCLXdMdHNmVXlMSXNCcl9BUUk2bV9BaF9FVEdzeVIzcjFvdXZUWFhBd1o4d0w0YlV4d1NBUGNLTW5rb1pjNTRqV1NqTUZGVVRMQTF6V2FrVTM4bFV3UdIBa0FVX3lxTE1Dc0s5LXlacjdIcHNvb2xjb1ZZNS1lU1RhNXB5dFZULXJmU3Ffb0F5VWhodXhJaWluMlNFa1dFLUlqM2VkM3pBTUNraVdfdG90WVB3OFE2R2ctRzF0ZmJkQUdzMGpIUEc5YWtv?oc=5",
-      "published": "Sun, 26 Apr 2026 02:43:07 GMT",
-      "summary": "美軍攔截伊朗「影子艦隊」 命其掉頭返航  自由時報伊朗載石油影子商船闖關 美軍阿拉伯海攔截  經濟日報川普強硬失靈？CNN：伊朗在「膽小鬼博弈」中占上風- 國際  中時新聞網【錯誤】伊朗公佈美國黑鷹直升機被擊中起火的影片？2020年敘利亞政府軍遭擊落舊畫面  客新聞 HakkaNews美媒辣評美伊消耗戰：伊朗纔是最能扛的一方  capitalfutures.com.tw",
-      "source": "Google News Global",
-      "display_time": "04/26 10:43"
-    },
-    {
-      "title": "台積電Q1毛利率超神 12檔供應鏈全解析！弘塑、萬潤、中砂… 誰是下一檔隱形飆股？ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TSVZzdzNTb0tjclNnUkk1WHNDNzgxUnN0VENWcUVTekw2eTRNZkJfTzlmZWs4Yk1XUTkyU1M4UHhBS0FubFJGbmVSUHFJdldyWEt5b0dudnlEcGNPek5J?oc=5",
-      "published": "Sat, 25 Apr 2026 23:57:00 GMT",
-      "summary": "台積電Q1毛利率超神 12檔供應鏈全解析！弘塑、萬潤、中砂… 誰是下一檔隱形飆股？  工商時報會計師看好台積電毛利率第二季再上攻！漲價紅利還沒反映  TechNews 科技新報台積電挑戰市值全球第1！外媒給出答案  自由財經台積電大聯盟的遺珠？它EPS從4.3到5.2元，布局功率、驅動IC與嵌入式記憶體，股價打出底型本益比低嗎？  經濟日報雜誌精選》台積電引爆供應鏈上修潮- 上市櫃  旺得富理財網",
-      "source": "Google News Global",
-      "display_time": "04/26 07:57"
-    },
-    {
-      "title": "策略奏效！ 取消會談10分鐘後收到伊朗新提案 川普：比原本更好 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55VHpNdGxOQmI1YkxYU21Hd3RobEYzZ2ViLUY3T0JvczZidF9nd0p6eEh3aWdKQ1FROU9tMTRwLWgtS3hJZ2JueVcxaERMZ0VudlFMSVVmNE5XMkxJc0l2a25KaVFkUdIBa0FVX3lxTE1XbEpZbTlaZHg1STVwV0lUME5JSHozd0RndUVSS25EdFkxc3VYNThQdmxnSnhxTkx6aUdyZ0hPSF9PNk0yN1U5dEpxdWdvMVpZWnYwSXAtOGdBa3UxcVd6NVQ2YWtncEFxejVF?oc=5",
-      "published": "Sat, 25 Apr 2026 23:37:51 GMT",
-      "summary": "策略奏效！ 取消會談10分鐘後收到伊朗新提案 川普：比原本更好  自由時報美國中止與伊朗談判行程！伊朗最高領袖、以色列總理納坦雅胡發聲  news.cnyes.com伊朗戰爭：特朗普取消美國特使赴巴基斯坦會談行程  Yahoo新聞川普閃電取消特使談判，全球石油「需求毀滅」風暴倒數  天下雜誌中東戰爭第57天》川普稱和談取消後收到新提案最新發展一次看| 國際  中央社 CNA",
-      "source": "Google News Global",
-      "display_time": "04/26 07:37"
-    },
-    {
-      "title": "台積電ADR暴漲 台股明挑戰4萬點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFlSWWVwYVozaVNuR2FPek1BT2ptcWxjdFY2d2FhS0VMMVVRZW5EeGctckhqZzl4ZEUwQ3A3MzlpamFGNUFWTE51QU1xYWtoUEhHbXZYd2ptLXZWQzAwNnpFbVQ3N05POXEzSzJyMktZVVVNamI0M2taQXJsMEFvR3N4eExJcHRSZ3JCb2lqQmxGME1GVm01Z1llbXZBM2Q5UW1YZzBEeUJscHA0QllKQW9GeGRDQ2tndDFWVFJWWmV3NG0yamI2cFc1dDhqaGR1VTNqOUtaallOU2dyNUdWRk1tQjM4anRCYkE?oc=5",
-      "published": "Sat, 25 Apr 2026 20:10:00 GMT",
-      "summary": "台積電ADR暴漲 台股明挑戰4萬點  Yahoo新聞連5天刷新天花板！這波台股在漲什麼？「當大象跳完最後一支舞...」這2大訊號亮燈就快逃別在4萬點前淪為最後一棒- 上市櫃  旺得富理財網台股太狂週線狂飆逾2000點 法人看本週挑戰四萬大關  自由財經天花板當地板踩！台股爆天量直球對決多頭 專家警示「拉大殺小」風險  工商時報台股短線大修正將至？AI帶動漲不停 陳鳳馨讚3大台廠如「會跳舞的大象」  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "04/26 04:10"
-    },
-    {
-      "title": "台股狂漲「快衝4萬點」擔心重演日本泡沫慘況！網曝2原因搖頭 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCSTE1aGhtN1hjR19kYWNRNFdUam5CQmhweTRMRGdTM0U3MldKMFY5VkVWV0pPQW5QLVNjWk5zdV9odDVNSzlyYmRZeVUtNHFFSmfSAW5BVV95cUxNaEFULTRoR3ZXZWFOUDFJV29ZSTBQdVRUamlkbkt5bG13RlBQamJaWlFyVzFPS0FnTno0LUgxN2VxX1d4SFJvanJyMTBtZWxYY1c4dkk1SzhQRjVnUGVJemd0Z21BZk9xUGtzYzd2UQ?oc=5",
-      "published": "Sun, 26 Apr 2026 05:44:00 GMT",
-      "summary": "台股狂漲「快衝4萬點」擔心重演日本泡沫慘況！網曝2原因搖頭  ETtoday財經雲高空進場真的得在空手魯蛇、送頭韭菜2選1？手握200萬0050、00981A選誰？過來人解答- 基金  旺得富理財網存款200萬「0持股」！她看「台股3萬8」擔心進場當韭菜　老手笑噴：還沒開戶的更韭  mirrormedia.mg00910 第一金太空衛星- 這個我也存好多-16888-不知道買什麼就交給專業吧- - 股市爆料同學會  CMoney台股高點怕爆？ 他見一堆敢死隊「秒砍95%持股」內行人笑：別擔心  Yahoo股市",
-      "source": "Google News Global",
-      "display_time": "04/26 13:44"
-    },
-    {
-      "title": "林漢偉︱AI仍是主力 台股劍指4萬 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jakxlb3BsdS1pbE5lYTVuT1hSV2JwMjBVNVNLUXdFcUM5aFM0d1l5U0t2SzRGMHc4NEpucTlmUVlwbG5jbk55Y19ZcXp4Yzc4RWpod3d3bUNGNk1LVk5j?oc=5",
-      "published": "Sat, 25 Apr 2026 19:00:00 GMT",
-      "summary": "林漢偉︱AI仍是主力 台股劍指4萬  工商時報連5天刷新天花板！這波台股在漲什麼？「當大象跳完最後一支舞...」這2大訊號亮燈就快逃別在4萬點前淪為最後一棒- 上市櫃  旺得富理財網台股強勢多頭、熱門股誰該買進、誰忌過度追價？  Yahoo新聞聯發科、緯創、廣達...三大法人買超哪15檔？大盤短線熱過頭，分析師給操作心法！7類股可優先布局  今周刊天花板當地板踩！台股爆天量直球對決多頭 專家警示「拉大殺小」風險  工商時報",
-      "source": "Google News Global",
-      "display_time": "04/26 03:00"
-    },
-    {
-      "title": "偷用輝達AI晶片？DeepSeek新模型V4曝光 遭吐槽不敢提中製晶片 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xVHBMbW54Ni1XVVZxVFA3NGxsUVZkYnVlNmVVNHBtUV9KRzduY3MwZWJYcGsyWW5zYUdjRzVmSkpuSDdhRHBtdVYycHYxdlY2N3Jra3YwTVExODZzWXUw0gFkQVVfeXFMTU5tNGFqQTNBdXM1MGYyRHNPdzJ6RXd6SWMybC1hQXVRdGY0REtkajRxamFwNzF2ZlcyVWZfTlhoTGVzSG14THRLYTEyb0ZYNWRUclZzTVNaOHNKZXpKNmlJSVpZTw?oc=5",
-      "published": "Sun, 26 Apr 2026 07:12:57 GMT",
-      "summary": "偷用輝達AI晶片？DeepSeek新模型V4曝光 遭吐槽不敢提中製晶片  自由財經DeepSeek新模型V4未能縮小美AI領先優勢  大纪元DeepSeek-V4模型上線功能僅次Gemini - 國際  旺得富理財網OpenAI 走米其林路線、DeepSeek 拚預製菜戰略，中美 AI 定價權之爭升溫  動區動趨DeepSeek V4延後藏戰略？玉淵譚天指向本土算力、高盛看好成本與商業化  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "04/26 15:12"
-    },
-    {
-      "title": "《大賣空》貝瑞看空AI晶片？最新布局曝：豪砸重金開半導體、輝達空單 加碼軟體股 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xODBRb29nY04zbjktTlB5aXVQT29hU3U2Y3F2SzkzUTRnSlhSRC1xTkhQQ0Q0b0prZm9YTUZMdDA5c05kR0FaR0NFSnJoTkk?oc=5",
-      "published": "Sun, 26 Apr 2026 07:00:07 GMT",
-      "summary": "《大賣空》貝瑞看空AI晶片？最新布局曝：豪砸重金開半導體、輝達空單 加碼軟體股  news.cnyes.com「大賣空」本尊再出手！貝瑞重金放空半導體：神山群被高估6成  Yahoo新聞輝達挫咧等？《大賣空》本尊重押半導體「這時間」崩盤  ETtoday財經雲「大賣空」貝瑞重押半導體崩盤 稱費半終將「跌回原形」  聯合新聞網麥可貝瑞建倉微軟新部位並唱衰晶片股、放空SOXX  MoneyDJ理財網",
-      "source": "Google News Global",
-      "display_time": "04/26 15:00"
-    },
-    {
-      "title": "天花板當地板踩！台股爆天量直球對決多頭 專家警示「拉大殺小」風險 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05RmxUUFNRZTVRalVQZzhldl9OcDFvdEZ0XzV4TlRfenZQYURJSGhhWXV1bF9tV2V4T1g2RHAzT0RKWkdNbDg3VF9XQ1RzNmxHc1U3ODlabVhBSUk3ckVN?oc=5",
-      "published": "Sun, 26 Apr 2026 02:47:00 GMT",
-      "summary": "天花板當地板踩！台股爆天量直球對決多頭 專家警示「拉大殺小」風險  工商時報台股挑戰40K 緊盯兩亮點  Yahoo股市台股強勢多頭、熱門股誰該買進、誰忌過度追價？  Newtalk新聞台股太狂週線狂飆逾2000點 法人看本週挑戰四萬大關  自由財經連5天刷新天花板！這波台股在漲什麼？「當大象跳完最後一支舞...」這2大訊號亮燈就快逃別在4萬點前淪為最後一棒- 上市櫃  旺得富理財網",
-      "source": "Google News Global",
-      "display_time": "04/26 10:47"
-    },
-    {
-      "title": "美國海上封鎖釀危機！伊朗「石油命脈」哈格島儲油槽快滿載 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUFRZSjVkOC0wZFQxS2tZV2pyaGMyNEtDam9fOEdJeHUyMm96emtueWpFMmczS3JiMF9KcTdUVVhHc1NlOGtWMUhfaS1GVHRyZ1FEd05PbGMtV29TbWFjWG1ZN3BweHlxNjNzQ3B3Y0VFcW04cl9ZT2xGdDZGUE5IdHdJbkgzNldNa2FhWGwyVlR4X3p6MFV6QVJiODlfWV9hT2J3eTlseE1qSlFlTUQ3VWplQmZzNHV5eS0zWXV5Y1dfZXpUcldGc3Q5REM0QkduUEJZM1N1X3Q5OTJqYnRTdWNWUEdnRmdpNVFsU2pjVXNQOEV4MTc3V3d1MzFqV1EtdERDTnRydk9VNWhRSUl3RTZ5NXNfM3lnMlB3RktwZ0hzMjV5YzdlV0E1TlJHM0FCTU5ZN1NTdlRFQV9sbzFfcEZQaDRZbkpWX1o0cmFLNFRiR3JDcnYxUXZlaVJRVHMwZFNEOHZPMmYyMjFrTE5tbFhwU2RjV1E?oc=5",
-      "published": "Sun, 26 Apr 2026 06:29:54 GMT",
-      "summary": "美國海上封鎖釀危機！伊朗「石油命脈」哈格島儲油槽快滿載  Yahoo新聞美國重拳大規模制裁！川習會前夕加強打擊掃蕩中伊影子貿易｜發現台灣不可忽視！2007年斷交後哥斯大黎加回頭尋台半導體業者協助｜2026/04/25 中央社晚間新聞  中央社 CNA哈格島儲油滿載 伊急調老舊油輪疏散 美封鎖海峽似奏效  聯合新聞網美凍結108億伊朗加密資產! 封殺石油出口施壓德黑蘭| 國際  Newtalk新聞絞殺伊朗祕密金流！美國制裁40艘中資油輪與煉油廠，川習會前再給北京下馬威  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "04/26 14:29"
+      "display_time": "04/26 19:21"
     },
     {
       "title": "美股重點一次看》美股延續強勢 AI鏈偏多個股名單曝光 - Yahoo股市",
@@ -245,7 +37,7 @@
       "title": "受困船員高達2萬人...荷莫茲海峽雙重封鎖航運危機加深| 美以轟炸伊朗| 全球 - 聯合新聞網",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54R18yYU56clpYdUNzcWJzZThRQjRkT3NxRjZpY0NaVEpsNFBzbm9DOW8xdU9mcHpMelB3cDdvYWZndEdrREhNV3plNWxlRnBpeE9B?oc=5",
       "published": "Sun, 26 Apr 2026 09:47:17 GMT",
-      "summary": "受困船員高達2萬人...荷莫茲海峽雙重封鎖航運危機加深| 美以轟炸伊朗| 全球  聯合新聞網荷姆茲海峽封鎖逾50天 船員困「漂浮監獄」航運大亂 - 國際新聞 - PChome Online 新聞  PChome Online 新聞中國船員困霍爾木茲海峽53天 有人已精神崩潰  大纪元影音／滯留荷姆茲逾50天！每天一桶淡水洗漱、喝空調冷凝水 船員崩潰 | TVBS  LINE TODAY荷莫茲海峽航運轉向 專家指馬來西亞港口效率為關鍵  商傳媒",
+      "summary": "受困船員高達2萬人...荷莫茲海峽雙重封鎖航運危機加深| 美以轟炸伊朗| 全球  聯合新聞網荷莫茲海峽雙重封鎖 航運危機加深  經濟日報荷莫茲海峽航運轉向 專家指馬來西亞港口效率為關鍵  PChome Online 股市荷姆茲海峽封鎖逾50天 船員困「漂浮監獄」航運大亂 - 國際新聞 - PChome Online 新聞  PChome Online 新聞中東局勢動盪擾亂全球航運 馬六甲海峽面臨「雙重咽喉點」壓力  蕃新聞",
       "source": "Google News Global",
       "display_time": "04/26 17:47"
     },
@@ -253,65 +45,41 @@
       "title": "大賣空本尊最新押注！ 唱衰前景做空半導體 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPbTJ3VHZfTVhyZEM3cE9XUzBfT1pxNXktX0drMk55VW9CblNPa1JBdzVlOWlzcV9sZ1hMUmJrdmZVSDhlVGJxc1k5RGpoZzQxU3F1bHNjdm94aFM4U21XSnlMYVV5TUg0N3BnRmZOZEhHVVZHRXlINDN3cWd0WkJoN0RlSHpURDFlZFdXS0s2OURubGprYkQtcXh1Y0Y1V3NzX1R0R1BmWTR6QUd2aTZzU01aWC0yYVBFWHNoQVdEOEIwc0FaZnpMMzlBSk5aU2JXUkNERXJ4Q251cHB1VXZWN29jVHdaNmU5X0hITFozWTJkLWpkaGJyM0I4VkhENVVBbFV2Q2ZwTUJjTERJdFRmUVF1WDluWGVXTVN1Zm5PNUFiTk42aWJJekQxUVE?oc=5",
       "published": "Sun, 26 Apr 2026 08:02:21 GMT",
-      "summary": "大賣空本尊最新押注！ 唱衰前景做空半導體  Yahoo新聞半導體漲太兇？大賣空本尊看空輝達、SOXX  Yahoo新聞《大賣空》貝瑞看空AI晶片？最新布局曝：豪砸重金開半導體、輝達空單 加碼軟體股  news.cnyes.com輝達挫咧等？《大賣空》本尊重押半導體「這時間」崩盤  ETtoday財經雲「大賣空」貝瑞重押半導體崩盤 稱費半終將「跌回原形」  聯合新聞網",
+      "summary": "大賣空本尊最新押注！ 唱衰前景做空半導體  Yahoo新聞費半「連18連漲」破紀錄！ 《大賣空》本尊再砸豪賭：半導體「這時」跌回原形  Yahoo新聞《大賣空》貝瑞看空AI晶片？最新布局曝：豪砸重金開半導體、輝達空單 加碼軟體股  news.cnyes.com輝達挫咧等？《大賣空》本尊重押半導體「這時間」崩盤  ETtoday財經雲「大賣空」本尊再出手！貝瑞重金放空半導體：神山群被高估6成  三立新聞網SETN.com",
       "source": "Google News Global",
       "display_time": "04/26 16:02"
-    },
-    {
-      "title": "黃仁勳預言災難成真？DeepSeek V4捨棄輝達 導入「華為晶片」 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DNmQ3R0ZvcU9IZ2s1emdkTi1mR3IxdHJTendPOWtQcUVzQ1psUl91SkI3SDN5WmdZV1dOZ3FITExWSG9qbHVORDNMdkdkbnJZS1RSY2hGaV81VkgtT0RsaW9DU3o5WjJjUHVPQWxR?oc=5",
-      "published": "Sun, 26 Apr 2026 07:58:51 GMT",
-      "summary": "黃仁勳預言災難成真？DeepSeek V4捨棄輝達 導入「華為晶片」  中時新聞網偷用輝達AI晶片？DeepSeek新模型V4曝光 遭吐槽不敢提中製晶片  自由財經DeepSeek-V4模型上線功能僅次Gemini - 國際  旺得富理財網DeepSeek-V4 正式公測：100 萬超長上下文與DSA 稀疏注意機制，程式開發能力直逼Sonnet 4.5  T客邦黃仁勳最擔心的事預言成真？DeepSeek V4轉搭華為晶片  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "04/26 15:58"
-    },
-    {
-      "title": "原本要當「廢品晶片」竟然賣出 英特爾亮眼獲利背後意外被曝 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPMU1Hb0tUTjBiZ0gtLURNMU9idGhqRFhnT3F4bExnXzVTcmRZcnhjRk1UZ2JFeGw1Y2x6VHJsR2h4VV85R1V1NEp0TW1CcDZLaGpUelI3VVhOVFJYSDA00gFkQVVfeXFMUE5NWWo1dzJhc1lVSFkxMnpWTmpCZGdLMkg4M3hoMUFzSjI4TzZXNEIxTDBINWpFNFQ0Xy1PMXR3VkFJZnNycFJBSHZ3UXlzZ1JKdFhwTHIyNjlSa3dtQmpUUXdfQg?oc=5",
-      "published": "Sun, 26 Apr 2026 13:05:18 GMT",
-      "summary": "原本要當「廢品晶片」竟然賣出 英特爾亮眼獲利背後意外被曝  自由財經從全網笑柄到逆襲成功 他兩年前用70萬美元重押英特爾 如今翻近三倍  經濟日報超微股價飆漲 14% 創歷史新高 AI 與資料中心需求成主要動能  PChome Online 股市英特爾寫25年新高 川普政府持股報酬率驚人 帳面獲利近300億美元  news.cnyes.com那指和標普指數再創新高  MSN",
-      "source": "Google News Global",
-      "display_time": "04/26 21:05"
-    },
-    {
-      "title": "力挺張清芳募款8億 「台灣首富」郭台銘、曾馨瑩甜蜜放閃 - 噓！星聞",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDaXZQa3BCTnlPLTg0SC1hcGpMOTNCdlNTZ1RyTTBtaWdxakVZM2ZmQ0NWMWpMN20tczNQd1pnUk1hRmlnTmZ5SzdQZEF6R2tLTzQ4Tk5JN1ZRZ9IBX0FVX3lxTE1YdmtQSHhOMmtFUG1vNmdyT2VfZTVCNmgtaFlfYjBHZHN1aDRhZjVwM09xUlViTWVGZE5fdVZDMXh1bDZwXzNFUF9TeUthbDJFY3hSZmlNS3h5Z0NwTDlr?oc=5",
-      "published": "Sun, 26 Apr 2026 10:49:54 GMT",
-      "summary": "力挺張清芳募款8億 「台灣首富」郭台銘、曾馨瑩甜蜜放閃  噓！星聞直擊／張艾嘉談99歲母親揭「老人家真實晚年」 巫啟賢豪捐百萬挺長照  Yahoo新聞台積電、宏碁大咖全來了！　張清芳唱一半突收300萬捐款　女神身份曝光  ETtoday星光雲| ETtoday新聞雲好心有好報！巫啟賢爆料向張清芳借百萬 她打麻將二話不說答應結局更暖  自由娛樂張清芳、林心如、楊謹華大合體！Ella過動蹦蹦跳　讓媽媽們虛累累  NOWnews今日新聞",
-      "source": "Google News Global",
-      "display_time": "04/26 18:49"
-    },
-    {
-      "title": "(影)白宮晚宴傳槍響！川普險遇刺怒公開31歲槍手長相：神情很邪惡| 國際 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UblJWRDJna1hsN19lQVp3dGVneU1CUGY1akowd25SYm0zODJnWVlvWjlPVU91ZDV4TkpxLUE3S0wwTHBGNEJvbjJUUkdZSHJRSWozYkYwblZNd2s?oc=5",
-      "published": "Sun, 26 Apr 2026 03:34:25 GMT",
-      "summary": "(影)白宮晚宴傳槍響！川普險遇刺怒公開31歲槍手長相：神情很邪惡| 國際  Newtalk新聞白宮記者晚宴槍響 美司法部：槍手目標為川普政府高層官員  Yahoo新聞討論牆 | 川普出席晚宴遇槍擊！林右昌直擊警笛大響  LINE TODAY白宮記協晚宴遇槍響目擊者：嫌犯藏臨時空間組武器| 國際  中央社 CNA為什麼先救副總統？白宮記協晚宴槍擊事件發生後 范斯比川普先撤離引發質疑  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "04/26 11:34"
-    },
-    {
-      "title": "台積電、宏碁大咖全來了！　張清芳唱一半突收300萬捐款　女神身份曝光 - ETtoday星光雲| ETtoday新聞雲",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLVHk2Z25lVS1xNTJJeS1VaHVDUENuNl9aR2JEc1ZKcGZsa0xqVlZJNXE5RmtEN2JSMXQtenhEenNDV1RBMHQtcFBUcjE5UdIBakFVX3lxTE9VcXVoUjNRR0JjRTRBZTRKRlJXWUVOZno5XzF1MVZoVk4wX0NqUnpCYUZwaFZBTzh2TUhNLV91dTVKLURlSDEyYU1ELUpUOFlpUFRXbzlUbXdJcWFldUhSMzQ1OTZfdmlRYlE?oc=5",
-      "published": "Sun, 26 Apr 2026 14:01:00 GMT",
-      "summary": "台積電、宏碁大咖全來了！　張清芳唱一半突收300萬捐款　女神身份曝光  ETtoday星光雲| ETtoday新聞雲力挺張清芳募款8億 「台灣首富」郭台銘、曾馨瑩甜蜜放閃  噓！星聞曾馨瑩捐300萬助張清芳行善 台積電宏碁股票大王也來了  自由娛樂張清芳慈善開唱星光爆棚！郭台銘夫妻愛心花籃搶鏡 A-Lin那魯灣哏成彩蛋  Yahoo新聞巫啟賢自爆欠張清芳100萬！　「超狂金援內幕」曝光：想再借500萬  ETtoday星光雲| ETtoday新聞雲",
-      "source": "Google News Global",
-      "display_time": "04/26 22:01"
-    },
-    {
-      "title": "黃仁勳預言災難成真？DeepSeek V4捨棄輝達 導入「華為晶片」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdWk2eDJPQk1MNDJoVEV1X3ZlUS15Qm5BXzZpeFRETFVUREdITmNxc0ZFLUJFUUhvUDV2VkZzTk9Zd3QwLUxNSHIycnpqVEc1NjQyWkY0c2dRdk5zeGFPZmdFSU1HSGVEOGxLajhRNU5kcXJPLThJOEp4ajdZckt0NTlld04zXzZHSHZLcm53LTlpSHhDT1VNVmhyN25LM3g3YUR1cjJkUW5yckVIUVFOZjJHRGpGVGFZMVNoWmpMcDlJRWxJUW1Va2xPOG1hUlFXSE0tZndfajhyT2NhTzRQQk1OdHJsQWFQcERSbnp1S290R25EX3VsY0xvSmdXWm1pMXRPeFZ0SUE1RFZaVExQaEw4TXl5VzJUemg1NklIaUFGMEpkUnQ2aUtPT1dTZUpVaWpmSXoycDdNSEI0WEZnLUVBSDlILTBkNUtLR1NzSFZ3QQ?oc=5",
-      "published": "Sun, 26 Apr 2026 08:03:51 GMT",
-      "summary": "黃仁勳預言災難成真？DeepSeek V4捨棄輝達 導入「華為晶片」  Yahoo股市黃仁勳「美國糟糕了」預言成真？DeepSeek V4獨家合作華為 分析師揭市場反應  Yahoo新聞偷用輝達AI晶片？DeepSeek新模型V4曝光 遭吐槽不敢提中製晶片  自由財經DeepSeek-V4模型上線功能僅次Gemini - 國際  旺得富理財網DeepSeek-V4 正式公測：100 萬超長上下文與DSA 稀疏注意機制，程式開發能力直逼Sonnet 4.5  T客邦",
-      "source": "Google News Global",
-      "display_time": "04/26 16:03"
     },
     {
       "title": "白宮記者晚宴槍手曾是優良教師擁加州理工學位| 國際 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBUTY4Z0tlMm50VEZjNGZCdm93anpnVlNkU1hNM2FQTzR5cl93bklKZ19pUF85ckF3WUp6VlVlcXM1dFJROVFlZ0lqYi1yVFFndGU2RC15cHdDWG9qM013?oc=5",
       "published": "Sun, 26 Apr 2026 05:57:00 GMT",
-      "summary": "白宮記者晚宴槍手曾是優良教師擁加州理工學位| 國際  中央社 CNA優等生為何變槍手？揭秘白宮槍擊案主謀：加州理工畢業學霸師 鄰居眼中的模範青年  news.cnyes.com白宮記協晚宴遇襲代理司法部長：槍手目標可能含川普| 國際  Newtalk新聞川普談槍擊案 原以為托盤掉地上 否認襲擊與伊朗戰爭有關  Yahoo股市川普兩年三次遇刺！槍手背景曝光：高學歷且曾是模範教師  遠見雜誌",
+      "summary": "白宮記者晚宴槍手曾是優良教師擁加州理工學位| 國際  中央社 CNA川普遇槍擊踉蹌跌倒 范斯跑得比他快  Yahoo新聞白宮槍擊案全球民主警訊| 民意論壇| 評論  聯合新聞網優等生為何變槍手？揭秘白宮槍擊案主謀：加州理工畢業學霸師 鄰居眼中的模範青年  news.cnyes.com白宮晚宴槍擊案 美司法部長：槍手目標可能包括川普  自由時報",
       "source": "Google News Global",
       "display_time": "04/26 13:57"
+    },
+    {
+      "title": "天花板當地板踩！台股爆天量直球對決多頭 專家警示「拉大殺小」風險 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05RmxUUFNRZTVRalVQZzhldl9OcDFvdEZ0XzV4TlRfenZQYURJSGhhWXV1bF9tV2V4T1g2RHAzT0RKWkdNbDg3VF9XQ1RzNmxHc1U3ODlabVhBSUk3ckVN?oc=5",
+      "published": "Sun, 26 Apr 2026 02:47:00 GMT",
+      "summary": "天花板當地板踩！台股爆天量直球對決多頭 專家警示「拉大殺小」風險  工商時報台股飆漲直逼4萬！法人警告3訊號不對勁：大的要來了…下週小心  Yahoo新聞連5天刷新天花板！這波台股在漲什麼？「當大象跳完最後一支舞...」這2大訊號亮燈就快逃別在4萬點前淪為最後一棒- 上市櫃  旺得富理財網散戶狂買、外資卻在偷賣？台積電破 2 千還能追？達人揪出台股攻 4 萬點「3 大致命隱憂」！  LINE TODAY台股短線大修正將至?AI帶動漲不停 陳鳳馨讚3大台廠如「會跳舞的大象」  MSN",
+      "source": "Google News Global",
+      "display_time": "04/26 10:47"
+    },
+    {
+      "title": "台股4月狂飆2成！主動式ETF全面噴發 三強卡位AI績效全破6成 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRXBxc2ZtZUxoNC1DX3g5VmNDZXhGMVJHdXMyX1p5VV9iRGYzWWFjWno2eTFVb09XLWhfUGpId1UxcW5tVUppQ2t5Wkxpb3V1NG1PdVItTHFqdFFLQXFpRW9kU3hHMVN6X1IycDdndHFvc0pERVYwdVpBYzdPWEdJZHFB?oc=5",
+      "published": "Sun, 26 Apr 2026 02:35:00 GMT",
+      "summary": "台股4月狂飆2成！主動式ETF全面噴發 三強卡位AI績效全破6成  壹蘋新聞網",
+      "source": "Google News Finance",
+      "display_time": "04/26 10:35"
+    },
+    {
+      "title": "策略奏效！ 取消會談10分鐘後收到伊朗新提案 川普：比原本更好 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55VHpNdGxOQmI1YkxYU21Hd3RobEYzZ2ViLUY3T0JvczZidF9nd0p6eEh3aWdKQ1FROU9tMTRwLWgtS3hJZ2JueVcxaERMZ0VudlFMSVVmNE5XMkxJc0l2a25KaVFkUdIBa0FVX3lxTE1XbEpZbTlaZHg1STVwV0lUME5JSHozd0RndUVSS25EdFkxc3VYNThQdmxnSnhxTkx6aUdyZ0hPSF9PNk0yN1U5dEpxdWdvMVpZWnYwSXAtOGdBa3UxcVd6NVQ2YWtncEFxejVF?oc=5",
+      "published": "Sat, 25 Apr 2026 23:37:51 GMT",
+      "summary": "策略奏效！ 取消會談10分鐘後收到伊朗新提案 川普：比原本更好  自由時報川普閃電取消特使談判，全球石油「需求毀滅」風暴倒數  天下雜誌美國中止與伊朗談判行程！伊朗最高領袖、以色列總理納坦雅胡發聲  news.cnyes.com中東戰爭第57天》川普稱和談取消後收到新提案最新發展一次看| 國際  中央社 CNA20260426 公視晚間新聞 完整版｜川普取消美伊二輪談判 稱一暫停就收到伊朗更好提案 ｜ 公視新聞網 PNN  公視新聞網PNN",
+      "source": "Google News Global",
+      "display_time": "04/26 07:37"
     }
   ]
 }
