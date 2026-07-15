@@ -1,317 +1,53 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "news": [
     {
-      "title": "〈美股早盤〉CPI降溫助攻主要指數開高 油價大漲成攔路虎 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00LXFYaFg5a3RiS2ppTExfSWVfN3ljaFZXd0N1T0hIUWpHZnFqbjc0X1VWZkJPaUpiRjJkRkVTZ05na3NnLVJicUJIWGtsUUk?oc=5",
-      "published": "Tue, 14 Jul 2026 13:41:21 GMT",
-      "summary": "〈美股早盤〉CPI降溫助攻主要指數開高 油價大漲成攔路虎  news.cnyes.com通膨降溫超預期！美股4大指數齊揚 美光股價回神、台積電ADR同步上攻  Yahoo股市油價大跌送大禮！美6月CPI意外全面降溫 Fed本月升息壓力減輕  news.cnyes.com【直播】美聯儲主席沃什就貨幣政策在眾院作證  大纪元美股早盤／美通膨降溫...指數齊揚 費半漲3%、IBM重挫23%  UDN",
+      "title": "美股開盤三大指數上漲！費半指數下挫2.32% 台積電ADR跌0.10% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObzBXZnVHbTdQRWFYbmhFZXdlSmg4YllLQ3c1UkpnVFNLdzhqTDF5ZkdULWQ0MVNPclFJdG4wRFFmVkFad05ySU1CdE5SVWlaaGQta2s1TFF3U1ZUZTd5ZUtqRGlXNGNJX2kzbmJFM2VUMGdmbTdYTnNIYm5ubUgzQ1dEcUh6V0lqdV93MDA2T0s0cjVvbkVFTjdVNlVJZl9oTDdrc1NWME1nbWRQaEtHcEt4YlhYcXNmVkhnU292TU5SWXJRekkzeThtY0w0b3ZiMTU0bEpHejlxTlhUN0JScVFBOU1oOUpFMWJhY3BqQ09LTXRqM2hjWFc3amF2VGlxem43MFJTQTluRHJxc0p3R0QyQjVXMmQzQmE5TjBtLUUzaVBoRDN4d1l2UWNxVDhhR00wLUVFTXF2ZGZCZm9lOUtMMUhGam1ONW5rSGF6YUhRN3g3?oc=5",
+      "published": "Wed, 15 Jul 2026 14:43:24 GMT",
+      "summary": "美股開盤三大指數上漲！費半指數下挫2.32% 台積電ADR跌0.10%  Yahoo新聞通膨降溫難救火！費半指數翻黑跌逾2% 台積電ADR再度回落  Yahoo股市美國6月PPI數據優於預期 台指期夜盤直線拉升翻紅  UDN通膨又降溫！美國6月PPI意外下滑 Fed本月升息機率降至個位數  news.cnyes.comMoneyDJ新聞 2026-07-15 12:55:50 新聞中心 發佈  MoneyDJ",
       "source": "Google News Global",
-      "display_time": "07/14 21:41"
+      "display_time": "07/15 22:43"
     },
     {
-      "title": "闖樂器行砍死連襟老闆！ 陽明交大教授學歷驚人專攻半導體曾獲教學獎| 焦點事件| 社會 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UWWRyU0p5QnpncnJrTzRONTdNY0NqcnFYVnpnelNrTE5kd2J0ZnEtZXdRZXBSSHVEa2F0Y3J6QnpoaXlRMDZScjkwVVUyOGp3?oc=5",
-      "published": "Tue, 14 Jul 2026 11:48:47 GMT",
-      "summary": "闖樂器行砍死連襟老闆！ 陽明交大教授學歷驚人專攻半導體曾獲教學獎| 焦點事件| 社會  UDN陽明交大教授持刀砍死妹婿 高虹安沉痛發聲：依法究辦、家屬節哀  Yahoo新聞新竹音樂教室命案 大學教授持刀闖入砍死連襟  公視新聞網PNN竹市樂器行命案10人受困警制伏嫌犯依殺人罪送辦| 社會  Newtalk新聞陽明交大教授砍死妹夫！學霸背景超驚人 校方：配合調查  Yahoo新聞",
+      "title": "美軍續轟伊朗！德黑蘭驚見川普躺棺木看板 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQelBrUlB2ZXM4YVBFTVUzSi1wTVZlR0M2VkdjWmRnMzNDN1lpUVVobVMxQkNoMjdEZXJ3QjJTOExxUW1zN1piQXg5RFlCaDVIdklXdXFsLUNSaVY4bm1yQzhQM1JsZHAtN1otNUNPc3R1WFZPZHgyWUlCUTNueko0MENYQ3FNNUhMc3F4US1yRVdsY3JEd0cxSE1oSTVaVldwVmgwZ0pBS19Bd1BoRTl1RlJHbUpWU0hkQzF0TXI3czdjUXg2MlB3QlY3SVo2Q2lCMzZJa1BvaWRETjJHT0N0OGkwbnFkS0NIeWhNZ0NSVkhtVlJ6MXViczYyZHRIekw2MXNqV1AyS2hMZGhBQy1fbWJvQW5rZ2NoaWtHRkJVVVBCX2w5OVN1SUVydlc?oc=5",
+      "published": "Wed, 15 Jul 2026 13:26:20 GMT",
+      "summary": "美軍續轟伊朗！德黑蘭驚見川普躺棺木看板  Yahoo新聞天下晨間新聞：川普要收海峽保護費20%｜韓國記憶體為何慘變「失憶體」？  天下雜誌美軍：對伊朗90分鐘精準打擊 鎖定大通布島防禦系統  rti.org.tw克魯曼評美伊「永遠的戰爭」：進入恐怖階段恐危及美國民主選舉| 中東戰火連綿| 全球  UDN伊朗揚言斷絕中東所有能源出口！若「這地」被封鎖 油價恐飆升至200美元  工商時報",
       "source": "Google News Global",
-      "display_time": "07/14 19:48"
+      "display_time": "07/15 21:26"
     },
     {
-      "title": "川普喊收荷姆茲過路費 全球航道恐大洗牌！「台灣海峽」身價曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tbFN2cmtxeklhRkUzZ0R2Qmo1ZGZkNDl0OVRIMXd5MFRIeXZ0ZVBZN2pneXh2Z2dXX0oxa3lGdC1oZlhkVjN5bklXZ056RzR1LTBMZzJ5dFJuVVVJZjdV0gFkQVVfeXFMUGQ2Ul9KNTRWVl9xQ1p6RVFWV0c3QVlqbzlBLXBVTGRnVFV5UUZ3cXpWWUo3Q0QxbTltMWRpeU9XcW5EcHZoZ2dhR1prZmZKRUUtTHJqU2RtTGl5cndxamRlWWRnUQ?oc=5",
-      "published": "Tue, 14 Jul 2026 10:53:21 GMT",
-      "summary": "川普喊收荷姆茲過路費 全球航道恐大洗牌！「台灣海峽」身價曝光  自由財經川普下出荷姆茲通航費的「臭棋」  日經中文網川普揚言荷莫茲海峽收20%過路費！全球10大戰略水道「收費」一次看  Yahoo新聞天下晨間新聞：川普要收海峽保護費20%｜韓國記憶體為何慘變「失憶體」？  天下雜誌美軍再度空襲伊朗 川普稱荷莫茲海峽對所有船隻開放「伊朗除外」  UDN",
+      "title": "NVIDIA 與 SEGA 慶祝合作 30 年 將《擬真格鬥 命運交鋒》與其他經典 SEGA 遊戲導入RTX Spark - GNN 新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rM0ZCVHlmcVZoMHNtVDYycnlPdXI2ZGh4d0JRa0Vrc3lDWWFiQXk5R25EVkg1alIwZHdIaS01N3BhVlNLSXpic1ByRTl2VzZKcGtYOUlmYUY?oc=5",
+      "published": "Wed, 15 Jul 2026 12:08:16 GMT",
+      "summary": "NVIDIA 與 SEGA 慶祝合作 30 年 將《擬真格鬥 命運交鋒》與其他經典 SEGA 遊戲導入RTX Spark  GNN 新聞網不忘30年前救命恩！黃仁勳現身秋葉原謝SEGA：沒有他們沒輝達  Yahoo新聞黃仁勳訪日拚商機 傳與三菱重工結盟、爭取日本國家隊Noetra  DIGITIMES這次不談AI晶片、記憶體！黃仁勳抵日本 外媒揭重點洽談「這產業」：會是AI新時代 | 張大任 | 新聞  Storm.mg台韓跑透透卻遲遲不進日本 黃仁勳秋葉原現身被解讀為「破冰之旅」  放言Fount Media",
       "source": "Google News Global",
-      "display_time": "07/14 18:53"
+      "display_time": "07/15 20:08"
     },
     {
-      "title": "韓股七次熔斷引爆史上最大斷頭潮！貝萊德投信剖析台股兩大隱藏危機 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZT1FaUWQwblU0bHc2TDQ3OE16SURqdFZMQ1V6eUY4UElsNmtxMENVYS1kLVo0a280YzN2d3gtbUNLUm9teHdoWXQ1cEdsWWo4YVdiSm9zblZZZS1BQ2FUaWsxSQ?oc=5",
-      "published": "Tue, 14 Jul 2026 06:19:22 GMT",
-      "summary": "韓股七次熔斷引爆史上最大斷頭潮！貝萊德投信剖析台股兩大隱藏危機  TechNews 科技新報2千萬⭢3億再歸零！ 男大生嘆「哪知跌也2倍速」 外媒揭韓股走空內幕  Yahoo股市「彈藥庫」一個月減少34兆韓元 ! 南韓散戶還能扛多久 市場「這樣說」  自由財經全世界陪韓股去槓桿 進度到哪了？最新數據顯示約四分之一  news.cnyes.com海力士、三星槓桿折斷了！謝金河談槓桿ETF殺傷力「一天下跌可能一槍斃命」…示警台股兩族群壓力不小  今周刊",
+      "title": "《台北股市》三大法人15日買超前十大 力積電領銜電子 台塑集團2家 - 旺得富理財網",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yRHktWHpVQWtTeHZRWUk3LW13bTFXZmJ2Y2pvUksyLWEyckpQQWViT25vS1ktRGUzSEJMX1J6enJaQUJpNjA0dTNwakJ1eVRiNTNpTXpMN2J6em1lcXdaVm95TDFpOW43RHc?oc=5",
+      "published": "Wed, 15 Jul 2026 08:31:32 GMT",
+      "summary": "《台北股市》三大法人15日買超前十大 力積電領銜電子 台塑集團2家  旺得富理財網【Follow法人】外資連9賣！國巨慘遭倒貨近8千張 「面板雙虎」淪最大苦主  Yahoo股市外資連9賣減碼縮至14億元 期貨空單7月以來首見跌破8萬口  news.cnyes.com力積電終於亮燈！最大金主回來了 36萬股東又可開心吃大餐  自由財經外資連9賣台股加碼主動型ETF 台指期淨空單低於8萬口| 股市要聞| 股市  UDN",
       "source": "Google News Global",
-      "display_time": "07/14 14:19"
-    },
-    {
-      "title": "台積電法說來了！寫下最強上半年，毛利率能拚7字頭？ 中國DRAM搶市！長鑫科技啟動IPO｜今周重磅 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPMFhKa2U3R2swRFRHeExodjFDZ1g5YTVsR0V1Um5NNkJYMDc4N3YycVcxQnNJbVdOck9aRWxxckYwckszcUctU3V3LW9PVzBhcklSbmNDLWZ1N2pkcVI5VG1LYUUtQjVfdm1aSlg3WE5oNjBxcndZMlBNemtqX05GaGxpQ0JwcEstWjQzZHdkbFV0NnJPUXFYaWt5Rk1uMzdUZGlIbXdmNGZxZmhkaGdFbGpGVTJyXzVzZXpqWUY0TnhuSGFkdVR5TlRBd1UzSVBaclJQNy1jOVc5RFlyWEd3UlV1MjNjRDZkRXBndS1FbEFHckxtV19jWE96cVl3QlhQMldEZWFDZW0zTGxOY2FnY2NhVkdiMk9uNG8tM3NyTzVWYUFvNmVCMkExTUcyMG92WHhzcG5XOHdNRTlLcnhCRVNuUUw2ZnVyR0pnNjFyQS0tUUcwYTBWMEkzMDAzNHdDQVgzUXA1OEViakc2aFh0ZDF4UHc3blpiajJRbnNMcFMzWFEzSlc3em1heWhLV01XcE1MT3BLNm1rS1RJSlpPRDhyQUYteU9SdGVFT3AxZ3JnWnlGcUhYS2RTNExvVm9ucTFnVjk3U1dNVUNiSHNLa1M1X25lYTQ?oc=5",
-      "published": "Tue, 14 Jul 2026 06:10:45 GMT",
-      "summary": "台積電法說來了！寫下最強上半年，毛利率能拚7字頭？ 中國DRAM搶市！長鑫科技啟動IPO｜今周重磅  Yahoo新聞台積電營收史上最強只「符合預期」？專家曝原因：爆表也不好  Yahoo股市台積電法說會前該不該買進？外媒分析師揭「布局策略」  自由財經台積電營收創新高 為何仍未提振AI股行情？  news.cnyes.com台積電（2330）只要下跌就是「珍珠」！陳重銘：資本支出不斷上修其實是好戲剛開始| 台股雜談| 股市  UDN",
-      "source": "Google News Global",
-      "display_time": "07/14 14:10"
-    },
-    {
-      "title": "美軍伊朗戰爭7月首傳死亡！海軍飛行員墜機不治 開戰累計14死414傷 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWN1ZTeDRLVldwVnV1bVhYSS02anZ1MEYtQzFuRGg2VFV4aHJUaG5GdUlmUzlnWk5OWG5sRVU2WXRhV1BBQ1d5VDJhTEMzelY1NnB30gFYQVVfeXFMUHNfUnJKcGdwekZYeExVTEVNRnFrVGltR2lIS3FDRllweXhQc1FSWGhkZkVUOVRhVTI2aGhLWGxVbmNtcWZXWUlSRlVXUG16N2VCTE5hMDRUTQ?oc=5",
-      "published": "Tue, 14 Jul 2026 06:00:12 GMT",
-      "summary": "美軍伊朗戰爭7月首傳死亡！海軍飛行員墜機不治 開戰累計14死414傷  UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "source": "Google News Global",
-      "display_time": "07/14 14:00"
-    },
-    {
-      "title": "韓股熔斷免驚？法人：記憶體供不應求態勢未變 00735除息前卡位行情 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRVMwRFF3aVktOXFNY1NNZUJhZlRwa3pmb3RmT2pRVXMxV1NkYkhRWE9iY1RzYUpsanpwN1Z5MGlJNFJMZTFiN1BFa2M4Nk1aeHgtcXNXaDczelFkM0xMbVdSVk5XX2FhcDFqLVQ1TjJGLWFhbktpUWdLYVB4NzhDZkdn?oc=5",
-      "published": "Tue, 14 Jul 2026 17:21:00 GMT",
-      "summary": "韓股熔斷免驚？法人：記憶體供不應求態勢未變 00735除息前卡位行情  壹蘋新聞網",
-      "source": "Google News Finance",
-      "display_time": "07/15 01:21"
-    },
-    {
-      "title": "川普取消海峽通行費！改要海灣國家投資美國 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPSUkxZEdXTXQ3R2FZOTVHVlUxcG9xcUw3Z3hXVUhCWWpRZzBldDVIbVFmQkhGRUtEaU9LT1VmaEtJT0pRV1h1aVhsb3FPbUlPSlFsLVZSdmJWOTRHSk1oVmc5Q05PN2JDcUlkc1JGOXVtMHNxOVNLYkJ6RjZfdkgxTFdpRDF6TU5sQkx4bW9vbExyR2JjQ21LekN5cGFHYnpibGx2MlFPZnU0NTJ2N19xZzdFTklYeHFER0E0end0U3NZenBWUExvSV8xRXZ0SDNOTE5wMXZnNFlCbU1qaHBqNzZoY2VMTWNCTzFpclZGMFJSbHNHcWRNb0owTWFQNnZET0x3X1M5VEpJZS1Mbzc1RHpJdkg3Zk9UOFhhbDM3U1pqQThCMldaYWRuQUdGUXRkU0JucGJ5YXc?oc=5",
-      "published": "Tue, 14 Jul 2026 15:15:55 GMT",
-      "summary": "川普取消海峽通行費！改要海灣國家投資美國  Yahoo新聞才過一天又改口！川普：將以貿易和投資協議取代荷莫茲海峽通行費| 中東戰火連綿| 全球  UDN川普想對荷姆茲貨物收20%費用！德國航運巨擘怒批：完全不合理  news.cnyes.com與波灣國家達成投資協議！川普取消荷姆茲通行費 持續封鎖伊朗  自由時報英國反對在海峽收費！英媒酸川普夢遊式外交  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "07/14 23:15"
-    },
-    {
-      "title": "陽明交大教授砍死音樂老師！警開4槍壓制 校方發聲了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQb1pVWjJYcjI0aVRmdmpEVDlSUW4zN2JvSmpZTDlkNldlXzdqMGJOTDB0UE95ZENzT05QWnBHWGFpQnBhOFFjU2lka1J3X3RpaFBGT0M1c2NWTjRvaUZCMmxXOUZXVlJRb0Y4R2ZseUhIMFVjV3ZHMC1lOTl5VVZvUGg5Q3dJdlRVR2pTMkRqQjFJcjRGQmhwU2xmSXg5SmJvMTlrTXpRSkFickFyYmh4ZEFPd2lPaHlQTW8zMUNSWHVYMnU0ajdYUDU3em1TUHhNb0pQNXNLai1uRWg2M0RDM1RGaG5HZFRxTmlsUHIzRFVvTzlCSG1jVkd4VUxvQjlzOXVMY3MweHgtcl93cHJ4bVFtWEM5YnphM3pHcWQwR1NSLWZQTWtKX1JIc05MUXVwUVFKeExxUjI4NDBCa2g4SWM1ZjgxaThqcmRHTU9MVnBWeUN4MVo0a3R1MFo1OWs?oc=5",
-      "published": "Tue, 14 Jul 2026 14:45:07 GMT",
-      "summary": "陽明交大教授砍死音樂老師！警開4槍壓制 校方發聲了  Yahoo新聞闖樂器行砍死連襟老闆！ 陽明交大教授學歷驚人專攻半導體曾獲教學獎| 焦點事件| 社會  UDN新竹音樂教室命案 大學教授持刀闖入砍死連襟  公視新聞網PNN竹市樂器行命案10人受困警制伏嫌犯依殺人罪送辦| 社會  Newtalk新聞竹市三民路驚傳持刀行兇 警方立即逮捕持刀殺人嫌犯移送法辦 | 勁報  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "07/14 22:45"
-    },
-    {
-      "title": "三星電子評估赴美發行ADR，SK海力士上市效應引發跟進想像 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNRHJBZzZpM1pRZTBiV3ZiRnBSU1pPWXVCX0c5M2NWeGNyeHhYOGNJM2txWDhYaV9pN0ZWczFZTE84TUpyVzRJZ3ctSDdyWmxoZ3J6TEtyU0x4NWUyZHdfaF9GOUFGMk00czMyM0d3SDhqb1RFTkZ2ZEtnRm85akM2clR4VC1ZWTFwcW9JLVNZckgtQ1hDVmcyWlFDMlBtcXdaMVJPaWhMMVptdG5iWWQtLVFaTGVKMkZNYXJ3R2dWa0pyVko3Rm4ya013bEcwcllOTmhQczl6azlZOVVyYldKN2tUcFNNdU9vQkhWQXI5aEtpN1hGS2F2Q3FwdUpFeFQ1QUVtaDlKVXAyQTVwNEt4Z3pfelFZQ29jM1JMVEc1ZFpkby0zVE01ZkVvUGQ2ZW9Oelp2VGdVdzZyTFJDMFhmUW1uSkRROWZ4a3FXNGpOenpJVnhjTlJudWZuVGhid3hjTkF1NFNyN2RaRTBjQWkwR3dXU0FqNnc?oc=5",
-      "published": "Tue, 14 Jul 2026 07:37:03 GMT",
-      "summary": "三星電子評估赴美發行ADR，SK海力士上市效應引發跟進想像  Yahoo股市SK海力士ADR大溢價、恐續跌？美韓股連動漸深- 新聞  MoneyDJSK 海力士重挫，專家：AI 前景、HBM 擴產成兩大壓力  TechNews 科技新報海力士赴美竟成催命符？台韓記憶體無差別慘跌「南亞科、旺宏竟逆風反彈」專家驚爆真正大反轉在後頭  旺得富理財網彭博披露評估赴美發行ADR 三星電子否認  rti.org.tw",
-      "source": "Google News Global",
-      "display_time": "07/14 15:37"
-    },
-    {
-      "title": "台積電（2330）只要下跌就是「珍珠」！陳重銘：資本支出不斷上修其實是好戲剛開始| 台股雜談| 股市 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01ak40LTJWM2gzSmN3RG1WYjhrV2dMalB1d2lGT21YWUVPdkphbEJnRkdCRDVGX0NfWmVpS0xRWmc2UWNJYmxId2pCeFlRRkR4Qnc?oc=5",
-      "published": "Tue, 14 Jul 2026 04:09:14 GMT",
-      "summary": "台積電（2330）只要下跌就是「珍珠」！陳重銘：資本支出不斷上修其實是好戲剛開始| 台股雜談| 股市  UDN台積電營收史上最強只「符合預期」？專家曝原因：爆表也不好  Yahoo股市台積電 兩檔亮眼  經濟日報台積電法說會前該不該買進？外媒分析師揭「布局策略」  自由財經基金-FundDJ基智網  MoneyDJ",
-      "source": "Google News Global",
-      "display_time": "07/14 12:09"
-    },
-    {
-      "title": "《The Sims 4》7月21日更新加入自動存檔功能 深度優化記憶體降低閃退風險 - Ludens Media",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsQl9VRDhjak1pVWcxTEJsUnp2SnFTdnFwYlRjM3RoN3h0bGFZc05xNVdOb3FId1VTcHg0ZUJ5RGFHdkFRekFfcEduZjdrSm1mdFRBREdOMVZ4UXlMN1NsdUVkZw?oc=5",
-      "published": "Tue, 14 Jul 2026 19:46:59 GMT",
-      "summary": "《The Sims 4》7月21日更新加入自動存檔功能 深度優化記憶體降低閃退風險  Ludens Media",
-      "source": "Google News Global",
-      "display_time": "07/15 03:46"
-    },
-    {
-      "title": "與波灣國家達成投資協議！川普取消荷姆茲通行費 持續封鎖伊朗 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tU29DTG51eGhqMG4yREJUWkF2TjBaUmZYYV81MjB2M1dBZmJBeVE5M1htUnMwYWdTdm03UE5iUktaeGk1dFpBU3JGdVBDdENpOGZVMUVmbng3eDUxUWh1ZENHQl9vZ9IBa0FVX3lxTE9RR0FJNlc0dWhWY1Q5RG5yOGJsMVd4NTNwckZNcm5VVWwyMnZ3LVRKazk5eVdtOVlTeG5TYWZUN1FZQURNdDMtUUNPYUU4cnhmTDdHQUpEdzltbDRxNm95a1loRmFVZWptd2Fv?oc=5",
-      "published": "Tue, 14 Jul 2026 15:52:42 GMT",
-      "summary": "與波灣國家達成投資協議！川普取消荷姆茲通行費 持續封鎖伊朗  自由時報才過一天又改口！川普：將以貿易和投資協議取代荷莫茲海峽通行費| 中東戰火連綿| 全球  UDN川普想對荷姆茲貨物收20%費用！德國航運巨擘怒批：完全不合理  news.cnyes.com英國反對在海峽收費！英媒酸川普夢遊式外交  Yahoo新聞川普又TACO！宣布取消荷莫茲海峽20%過路費，改由海灣國家投資協議替代 | 林彥呈 | 財經  Storm.mg",
-      "source": "Google News Global",
-      "display_time": "07/14 23:52"
-    },
-    {
-      "title": "「說得完全正確」！伊朗外長贊同川普收荷莫茲保護費 證明伊收費合理 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GSzVMV1dPVG1TQ3JxZFJUZ0JTR2lsUHVIU3lRUldZU19hUjZQYjNIT3MxZFV1dDZGODl2OWJvMVZPLVRrNkNLNDd2T0w5bjRWc2k40gFYQVVfeXFMTkhNXzYzXzJOcnhlUldaTmVNSVJqa19SZkZuX016dW13Nl9MdkFzZXcxSm5ZTWFScC1jM0dlYXVJNi1fMUJBR25GVkpXODZYSHdDalJockg4dQ?oc=5",
-      "published": "Tue, 14 Jul 2026 00:34:16 GMT",
-      "summary": "「說得完全正確」！伊朗外長贊同川普收荷莫茲保護費 證明伊收費合理  UDN川普下出荷姆茲通航費的「臭棋」  日經中文網聯合國：荷莫茲海峽再遭封鎖恐衝擊區域以外人權| 中東戰火連綿| 全球  UDN天下晨間新聞：川普要收海峽保護費20%｜韓國記憶體為何慘變「失憶體」？  天下雜誌全球海峽收費一次看！台灣海峽身價曝光 唯一收費天然航道在土耳其  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "07/14 08:34"
-    },
-    {
-      "title": "在荷莫茲海峽收費？川普改口不收了：更喜歡中東國家投資 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aLUwzeGpobFJrYk1xN01yejJjZkNEZ1A1ekNLZkh4VDVCZDBtcmNHeXBDYnJsdHM3YS1XVF9Od3UzQWd0U3VyNHVmZE82SnFD0gFWQVVfeXFMT2tBMmlMZzV5V2tKbDYycC1VRHhXeGgxU0Z4aTRFM2NMcGFiT21rRFFHUXRuSTNRYTdxMlcxcWhMcnlrUS05aGhIQm12ZHlqNWwxNnNCeXc?oc=5",
-      "published": "Tue, 14 Jul 2026 17:24:22 GMT",
-      "summary": "在荷莫茲海峽收費？川普改口不收了：更喜歡中東國家投資  UDN川普急轉彎 荷莫茲仍對全球開放  中時新聞網川普想對荷姆茲貨物收20%費用！德國航運巨擘怒批：完全不合理  news.cnyes.com英國反對在海峽收費！英媒酸川普夢遊式外交  Yahoo新聞與波灣國家達成投資協議！川普取消荷姆茲通行費 持續封鎖伊朗  自由時報",
-      "source": "Google News Global",
-      "display_time": "07/15 01:24"
-    },
-    {
-      "title": "台股震盪千點失月線被動元件殺無赦無人機多檔逆風高飛- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubV9XTDlNZlJxbURkV2x6X0lhSlVBVGZIUTJORThxSmhhMGcxbW1wYVZuZmNCV3ByekdhUjhOTzd5NzNPMUl4dVZRWHZVTV9aU0M4Y2JYTjE2ZlFFTXA0?oc=5",
-      "published": "Tue, 14 Jul 2026 06:21:00 GMT",
-      "summary": "台股震盪千點失月線被動元件殺無赦無人機多檔逆風高飛- 證券  工商時報台股大跌原因？狂殺逾1700點史上第6大，聯發科、國巨、環球晶…股海老手：無關基本面，中期支撐看這關卡  Yahoo新聞台股震盪…法人喊快觸底了 短線反彈有望先看46K  UDN今日台股》台股尾盤買盤挹注！終場跌點收斂至642點 台積電收2420元  卡優新聞網台股狂瀉1500點!阮慕驊：股市獲利想轉買房，「2大斷頭風險」 小心全賠光  MSN",
-      "source": "Google News Global",
-      "display_time": "07/14 14:21"
-    },
-    {
-      "title": "史上第6大跌點！台股重摔血流成河 專家示警：台積電很難大漲 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQVFlycmExV3hpb1ptZVJGbWtmQy11T1h0S19oOU9qVHJZUTcxaDlWdi1VWXVUUVhQeHIzNFNoNTQyMlVQMjg0LWZ3NGRNdF9SX3doQkJJSVJyN3B4Z29aVHItOG1CcHdubXl6UEdnVFpNR0dVSUxLWUl6c29BUUszM1dCOEo2NTNHRTJDaURSTEZ2NTkxWGpKR2pXMENUNVpYZDdWcF85RUZyTjA1bEpRMWVtdlF3Q3VGMFRPYUdWU3Byb3YyWnM1blBfMThYNm0wcE5zUXkxNmhrSmFVeEF5NGpfNHBTLXN6VWlqbWNtSV93V1FZb2QxTW1HZ1NTdXpkdzg4aVNYazdJQURwUXVBdzllRGRyNmZMLWxueFZoSmJhSU5fSDBaN0JiYzlXMm1JWDRuaXRWMHVxMV9rSFVVZXVzc21xcVFvZ3ZmZk0tTnlBY2dDdWZJTmgwV0VYNU1vU21iT2ZvcjBoLTVrVkUtSGpYMmk5NlMzZUVScUZQaHROZUJI?oc=5",
-      "published": "Tue, 14 Jul 2026 21:26:00 GMT",
-      "summary": "史上第6大跌點！台股重摔血流成河 專家示警：台積電很難大漲  Yahoo新聞台股跌破44000點關卡！他憂「台股要掰掰了嗎」 網：不要跌一點就受不了  Yahoo股市台股崩跌資金大逃殺！分析師揭止穩關鍵 點名「1類股」快減碼  Yahoo新聞台股狂瀉1500點!阮慕驊：股市獲利想轉買房，「2大斷頭風險」 小心全賠光  MSN加權指數重挫千點，川湖百容逆勢創高 機器人選股怎麼看？  蕃新聞",
-      "source": "Google News Global",
-      "display_time": "07/15 05:26"
-    },
-    {
-      "title": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5",
-      "published": "Tue, 14 Jul 2026 21:23:04 GMT",
-      "summary": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25%  news.cnyes.com美股收盤》通膨降溫、晶片股反彈！道瓊收紅 台積電ADR下跌  自由財經美CPI數據報喜釀美股收紅 惟IBM暴跌25%  Yahoo新聞〈紐約匯市〉美元下跌 美6月消費者通膨降溫 Fed升息押注減弱  news.cnyes.com美國6月CPI年增3.5% 放緩速度超乎預期| 國際  中央社 CNA",
-      "source": "Google News Global",
-      "display_time": "07/15 05:23"
-    },
-    {
-      "title": "伊朗雙線反擊！飛彈襲美軍基地衛星影像曝 國會提「荷莫茲戰略法案」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWHc4ZWQ1aHZHU0I3MlJrRkljZ1dsdGJDMUlmenh6SHFmb28yRWpnVW1nWldpUFVqTzRLTUpyVW1jWUd6eWJMVzNiV0lfdUx5RENv0gFYQVVfeXFMUERQajQwckRKUkREVnZmMnFKcHhKR1gyT1U0RVF3ZjBvNjBBdFpwQ1BhckNFaDBId2NzMEJoTW9sejFJMGhEUDdGV1N1QnQ4UHk2WGoyM05DbA?oc=5",
-      "published": "Tue, 14 Jul 2026 06:50:15 GMT",
-      "summary": "伊朗雙線反擊！飛彈襲美軍基地衛星影像曝 國會提「荷莫茲戰略法案」  UDN報復反擊 伊朗轟炸美第五艦隊總部  UDN川普五個月內三度改變戰略 華爾街日報：美伊恐陷入持久消耗戰  自由時報伊襲美釀6死內幕 華郵：指揮官先逃命 未死士兵泣控長官阻救人  世界新聞網反擊美軍 伊朗怒襲科威特、第五艦隊司令部  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "07/14 14:50"
-    },
-    {
-      "title": "SK海力士ADR大溢價、恐續跌？美韓股連動漸深- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGVTRERzMm1xTFNpcGthMnVKOU9qY3NLNWJCTk5nVWM1a2ZDRHo1T0tZNFNDZE92WjNFOU43bU1BbV9KUGNhRnd6MVVubDBwTmx3T0REWVNYR29rcW1WakNJRmQzTmRnOWlfTkNYdmgxZUFhUGgxblo1dF9mN0xsZndfSTdhWlRzaC1mU0lSekdaQQ?oc=5",
-      "published": "Tue, 14 Jul 2026 01:03:00 GMT",
-      "summary": "SK海力士ADR大溢價、恐續跌？美韓股連動漸深- 新聞  MoneyDJSK海力士ADR掛牌才3天 對南韓普通股溢價竟飆近50%  news.cnyes.com海力士赴美竟成催命符？台韓記憶體無差別慘跌「南亞科、旺宏竟逆風反彈」專家驚爆真正大反轉在後頭  旺得富理財網SK海力士在首爾股價震盪 AI 記憶體股先前在美國遭到拋售 | 國際焦點 | 國際  經濟日報彭博披露評估赴美發行ADR 三星電子否認  rti.org.tw",
-      "source": "Google News Global",
-      "display_time": "07/14 09:03"
-    },
-    {
-      "title": "台積電法說會前夕！盤中漲15元至2435元 分析師：買黑不買紅 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPTUNNdTRyblJLX2d2LUdNOVVqbS1sdWpRUHhNd1dfZU00bzJBOTB5UEs5UXJQZFJZMXZNbmxIbTdqc1Y2RmEwMmNRVHprSXZRZ080SEctOHlFU2pxekhZeno4SlQ3ZzlBYldTNGk3Y0wzM2J1c24ybDg3ZUh0b1U4WExQaThCdXRwbzNIZDFUNVhzMlYzOXA3Q0d2T0tMNzE4SmxjNGxjUGlwOXdETU4yOUtSUWhUbld6WHNmVHJ3bnYtTkU0dms1UXdFWTNxVVo3OGFtTnJ6NnRUb0YwbTdBUG43WlBpQ3dZaWJtcFE4eUUyNTcwN0xfaHlKYmc1SGJZUXh4SjZjdE9jVTQtS1UwbjV1TDYtZG15T2hXN0Zqd0M2RTB6R0xSWVlsSVpEb18tUkRib3Y1dUdGRVhTNS1PMl9wdDVzcUpDYTdvbWZCaklIQ1A3V01TTFFUMUJqV1dIV1dsY1lrNEJBSnpGMVpxMmdGbldjUVBUTk1xdkJVWExjdzJ1?oc=5",
-      "published": "Wed, 15 Jul 2026 01:22:33 GMT",
-      "summary": "台積電法說會前夕！盤中漲15元至2435元 分析師：買黑不買紅  Yahoo股市【Yahoo早盤】台積電法說前卡位！台股盤中漲逾800點重返4萬5 分析師王兆立：汰弱留強  Yahoo股市台積電法說前回神！記憶體強彈助陣 台股開高一度勁揚550點挑戰5日線  UDN開盤／神秘大戶昨狂拉 台積電今開漲！帶動大盤漲517點  三立新聞美股週二收高激勵！台股開盤大漲逾400點 站回4萬5  TVBS新聞網",
-      "source": "Google News Global",
-      "display_time": "07/15 09:22"
-    },
-    {
-      "title": "南韓槓桿股民遭血洗！10天逾92億元被斷頭 網：不斷怎麼V - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9admVnaWRMSnUyWXhZVDZWaW5nMW9BNFhpbUNWaTRLbTl4Q01SRFJubmMtZl8yczJpNmFSR1RISXA2dXZtVWxMNDJOT3E4dkktcnfSAVdBVV95cUxNTkVqR1ljLVJtTmJJYlNQUTd3QzdrSWdyQjU2eEpJRnowM2tMNDRPeTF5M3ItZmhrZnZuUlNrMUcwX1RYTFZlQXBtUjQ1SlFBMUgtQ0J3T28?oc=5",
-      "published": "Wed, 15 Jul 2026 00:06:04 GMT",
-      "summary": "南韓槓桿股民遭血洗！10天逾92億元被斷頭 網：不斷怎麼V  UDN別笑！韓國人不會炒股？貝萊德示警台股「2」大危機  Yahoo新聞全世界陪韓股去槓桿 進度到哪了？最新數據顯示約四分之一  news.cnyes.comSK海力士暴漲暴跌撕裂韓股　2倍槓桿ETF逼南韓急召「金融F4」開會  ETtoday財經雲南韓股市從全球最強變熊市 AI狂潮後的急速修正  自由財經",
-      "source": "Google News Global",
-      "display_time": "07/15 08:06"
-    },
-    {
-      "title": "快訊／川普大轉彎！取消荷莫茲20％過路費　改以海灣國家投資取代 - ETtoday新聞雲",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbFlhVWdqNV90NW14bVFYLUVRS1pCb083a25NNnNnQ1lZS01BT2Z3N2ZjU21sSENKakFNQzl0b1lzdjU2Z1A3RHZWbWlURjNMQ29LWjFXVnVNeUpHYXfSAWhBVV95cUxQN2cwQWVrR2FGZ2lXMXBzbFlMUGV2MnZXbTJWeTFEdHVFM1pWUE5xZVduUnVDQWtFakEzVmNxX0V5NkhEOTFobTkzb1llRnQtckJqV2JJZ1NNOG9aR2dRZXJSdy10ZjU1eg?oc=5",
-      "published": "Tue, 14 Jul 2026 15:57:00 GMT",
-      "summary": "快訊／川普大轉彎！取消荷莫茲20％過路費　改以海灣國家投資取代  ETtoday新聞雲不收20%海峽通行費了！川普：任何人都不應該收費 波灣國將大舉投資美國  Yahoo新聞在荷莫茲海峽收費？川普改口不收了：更喜歡中東國家投資  UDN川普撤回荷莫茲收費計畫稱波灣國家將大幅投資美國| 國際  中央社 CNA與波灣國家喬好了！川普取消荷姆茲通行費 持續封鎖伊朗  自由時報",
-      "source": "Google News Global",
-      "display_time": "07/14 23:57"
-    },
-    {
-      "title": "闖樂器行砍死連襟老闆！ 陽明交大教授學歷驚人 專攻半導體曾獲教學獎 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UWWRyU0p5QnpncnJrTzRONTdNY0NqcnFYVnpnelNrTE5kd2J0ZnEtZXdRZXBSSHVEa2F0Y3J6QnpoaXlRMDZScjkwVVUyOGp30gFWQVVfeXFMTTFPVlpPLXlyQlNiai15aW0xYjlsYzNYd3hEVEpkdHZacldtUTN3SEdkaEVoR0NWM0J4UENxNXRHRjJ3cGxtN0tCVjQ2c0VsY3pKNFpzbVE?oc=5",
-      "published": "Tue, 14 Jul 2026 11:48:47 GMT",
-      "summary": "闖樂器行砍死連襟老闆！ 陽明交大教授學歷驚人 專攻半導體曾獲教學獎  UDN近距離開槍畫面曝！陽明交大教授砍死連襟 疑為爭產奪命  東森新聞新竹三民路驚悚凶殺案 檢警成立專案小組追查真相  Yahoo新聞20260715 公視手語新聞 完整版｜新竹音樂教室命案 嫌犯遭開槍制伏 當時10人受困 被害人傷重不治 ｜ 公視新聞網 PNN  公視新聞網PNN獨家／和善教授成殺人犯! 背景起底 曾獲全額獎學金+ 優良教學獎  MSN",
-      "source": "Google News Global",
-      "display_time": "07/14 19:48"
-    },
-    {
-      "title": "台積電法說會倒數全球緊盯！《路透》先曝關鍵預測 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SWkVDYkFLYWRhSWhsQzA1SEJKX19hdTJFRDZrempwNlV4a0tjV1k5R1pmaElwT1NMU3VBSXZyVHhrSTIxZXgyOC1jX1N6ZlU1S0FiazFjR0NCTHVVbHlJ0gFkQVVfeXFMT2Y4bDlfc0V6bXBMZHpNTDZ3bVc0UnEwNGI0TGs1S0pIMEtfRHQ0eGhfcXZEdFk5cG9pcFlQaE90cUJHSnRYT0x6ZU45aEkyRWFXbC1ycGtyRTZGblgtSF95OGQtSQ?oc=5",
-      "published": "Wed, 15 Jul 2026 02:13:22 GMT",
-      "summary": "台積電法說會倒數全球緊盯！《路透》先曝關鍵預測  自由財經買台積電成「必選題」？外媒罕見發出「高度信心買進」訊號 原因曝光  自由財經台積6月營收太威 明法說重頭戲！美媒疾呼：「這日」前無腦買進  Yahoo新聞台積法說倒數大摩推演3劇本樂看強漲5％ 加碼就是現在- 日報  工商時報AI推升需求 台積電財報前台灣半導體鏈全線飆漲  PChome Online 股市",
-      "source": "Google News Global",
-      "display_time": "07/15 10:13"
-    },
-    {
-      "title": "美恢復封鎖伊朗港口 川普撤回荷莫茲20%過路費 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOU3NFc2xWcWVybGVlbWxOdklVVlZrTW1odjRITEdQUTc0XzZaaXFjN1phUHpDMV83aVNxa1JhcDdCYjhVRjVuTk9EU0xmOXJTUjNMUnFnbkpiR1FhMFRwazVOS0xFRm1wOVZrQUNscloxYWVZdVdNejhMalRFcWgwekNoNTNmR1Bfa2tEdFV6QUl2UWJWMkJRWkdTcnVJaHFmS3J6YmFCMmZXZ0pJa2gwVEpvZ084LXlnbDM3cHZzVVdQUUQxN2xma2xVOFgzUnZaOG1uTndPNFZUTHp4NVJCVGRNLVhjZ2UxMWh4RkZXNS1HRUxVXzhockR3VWFWV28tSm5GQ1F3RWpicVp2SEZyZzhwVVZsalVzMWNLZmpBYkdoV19DdnBfXzdGSk9Bb1ZsTVJQTVBqNjhsUXpI?oc=5",
-      "published": "Tue, 14 Jul 2026 21:57:59 GMT",
-      "summary": "美恢復封鎖伊朗港口 川普撤回荷莫茲20%過路費  Yahoo新聞川普撤回荷莫茲收費計畫稱波灣國家將大幅投資美國| 國際  中央社 CNA荷莫茲海峽保護費日賺80億，川普改口要別的！學者提4點擔憂：台灣要超前部署  Yahoo新聞20％補償費用不收了！ 川普曝內幕：很多波灣國家打給我  自由時報川普喊收海峽保護費髮夾彎學者剖析「4個擔心」：台灣要超前部署- 政治  中時新聞網",
-      "source": "Google News Global",
-      "display_time": "07/15 05:57"
-    },
-    {
-      "title": "影／美軍7小時狂轟伊朗數十目標 川普傳戰情室密謀發動「大攻勢」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2OFNSOXdiY19lOEU5U25rd3ZkU2JvNXdQQnAxS2FJSkdkMDNMTlhITWZvMkYwRGNVRl9GMWVfS0dOMUd3OE1PSFNDRG5sYVZudnpr0gFYQVVfeXFMT0ZyUkYxa3pCT2g0eWRVUXZROHRaRjBfNEV2SGN4Mk5fX1YyanRvUXp4S3o3Ymtmc0JjaVFwekk0MXVTZ2dXU05aM1hKdHQzemFWeGxJSXZiag?oc=5",
-      "published": "Wed, 15 Jul 2026 07:18:05 GMT",
-      "summary": "影／美軍7小時狂轟伊朗數十目標 川普傳戰情室密謀發動「大攻勢」  UDN同歸於盡？被川普封鎖港口氣炸 伊朗回嗆：中斷中東石油出口  Yahoo新聞美擴大對伊朗石油制裁 凍結1.3億美元數位資產  自由財經天下晨間新聞：川普要收海峽保護費20%｜韓國記憶體為何慘變「失憶體」？  天下雜誌中東戰火再升級！白宮戰情室緊急會議 川普揚言狂炸伊朗橋樑、電廠  工商時報",
-      "source": "Google News Global",
-      "display_time": "07/15 15:18"
-    },
-    {
-      "title": "台塑四寶、電子權值股領漲，加權指數站回5日均線之上 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNUEdpcEpLbUlBUnNObjFaalEyUlRnREVPNGNnQmstZHZ2TVgtVW1JcUUyeWo2cHhrMEZYTTdQTlFLMUxLRXJaYXNhM1haS2RscHhjdmM1eUd0R2NEUkRMSkRoeEdWNFBiWk1KMnhnT3ZRanhoZ21OckE5WjN5dUJ6aXBVTGVQOFlkVjRHRENIMndfYXhQUmJWdElIVUtOWUNCRkRNdU1zVWc2aEV5cUJhUmJyZkY0UXNodmE2ZGxxOEtEdHQwbFhzWkttcHM5WFp4V09QZzRVNWU1Y21yRUljTGctNzQwRDVHUVg1anVsa2VjeWFvYkhXVGVZTmpQSWVjMjdtMk9QX2R0QTdmSEtJT0NQUFNWb3dVVlpKSVEwcGRtcEE5cnNEMTF1bHkxZ0laNUNYZEN2elNJVnJrQS15a21qQ0JiXzRtbF83VU8tT3RCZkNOdDNxejhSay1vMkJLNmozZVNvTQ?oc=5",
-      "published": "Wed, 15 Jul 2026 05:58:16 GMT",
-      "summary": "台塑四寶、電子權值股領漲，加權指數站回5日均線之上  Yahoo股市【Follow法人】投信百億買盤力挺！外資縮手觀望...分析師：靜待2大變數  Yahoo股市《台股盤後》開高走高、收漲893點，收復5日線-新聞內容-基金  MoneyDJ〈台股盤後〉股王、權王雙拳出擊 大漲893點收45631點站回5日線  news.cnyes.com台股大反彈漲893.64點、收45631.59點 00403A減碼國巨後不再賣出 | 信傳媒  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "07/15 13:58"
-    },
-    {
-      "title": "林口長庚年賺37億連九年蟬聯最賺錢醫院 中國附醫本業奪冠 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNTGFkOU9taU9LcEhOYllPMXpLTHhieS15cTdPbWdHT1FIdmVEMGk4ZzMxU3BDMU9rSUtiUTc4c21HVERNVVJLRlFndkNfeWU4eEhXWWFIemF6TXU3NGZoek5UYzhYMUpibXMzUHNrUnl1d2tmMUlSd1o4WWdrSFB0NXMtWHlHeW5mZmc2VFBuTlVMNW9TSWphZ1VmVGFVVFFGa1pkT0ltbGJ5LUJjVmstZ2hCeGZLbkVOSzJaYVpFTko0RmJyQmJlbnJOY2hyRWlQS2w3NHdEdEVnRHN1MDJNRTE4WDJSTUZxeWFYSU9LZEpScENKcEFOR2p2MmdmWmNVcl9nQ0txMjhaSHNYV2VEQTIwendwZ3p1bzRuZFlaUTJEbmdQM01aQ2ZaTjFJSjltYy1oMWtoUW5QT3loajlhb2piVl9QTFEtWXJLay1nWXlYUENlRXlOdmE2VGhZeXlNT1l3a1BhRDFqa0h3VXcyMmFIajVLSGkybmVRNVVld05wN0E?oc=5",
-      "published": "Wed, 15 Jul 2026 04:59:51 GMT",
-      "summary": "林口長庚年賺37億連九年蟬聯最賺錢醫院 中國附醫本業奪冠  Yahoo新聞健保署公布醫院財報！醫改會批「資訊公開更倒退」 提5改善方向  自由健康網醫院人事費增加81億醫改會憂仍加薪不加人| 生活  中央社 CNA林口長庚奪冠「本業僅賺4億」專家嘆：醫療不能再靠股利、美食街養正業  三立新聞林口長庚蟬聯9年最賺錢醫院 醫務收入中國附醫連11年奪冠  rti.org.tw",
-      "source": "Google News Global",
-      "display_time": "07/15 12:59"
-    },
-    {
-      "title": "美股收盤／四大指數收紅 通膨降溫 晶片股領漲 SK海力士ADR狂飆27% | 美股動態 | 國際 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2OVVmeFJJN3k0UHFiYVFDV2dHZDFBb3UxQ2VQSkxpREY4NUY3NkRyNTRjdHBPSnNsLUpQdG1CQXFFdHBPcFliSFpBUkYxc1c1R3dGRS1WS3lPZElU?oc=5",
-      "published": "Tue, 14 Jul 2026 23:09:54 GMT",
-      "summary": "美股收盤／四大指數收紅 通膨降溫 晶片股領漲 SK海力士ADR狂飆27% | 美股動態 | 國際  經濟日報美CPI降溫提振股市 新台幣反彈受限、續在32.2元附近震盪  自由財經股匯不同調 台幣早盤貶值2.4分  Yahoo股市美國通膨降溫 聯準會暫不預告下一步  中央社 CNA美股｜通膨降溫、升息預期消退 4大指數齊紅 SK海力士ADR狂飆27％ IBM崩逾25％  工商時報",
-      "source": "Google News Global",
-      "display_time": "07/15 07:09"
-    },
-    {
-      "title": "台股強彈893點 三大法人買超201億、外資續提款 台積電末盤遭拋7617張 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVXBEM1ViM0phMjZVRDZ1SVVHSF82VEdSWU5TczQ0eW9OX1o0ck95dHR4aURQeWpXdXc0a3MyeUlaUi1IeXlpWFJjODhBa00xcHY1MktxeHVSQmFPY1JZSTVSNURaeWp2MlFMSW95U3JQQ3VmLTFhYkdWMkk0d3dXbVJFQWZjdXlKVVNiYVdOR0JLU21sXzlvaXdhZUs0OTZmYVdYbm1CWjZwQjFjMGw4TjJqbXdiSDlqNjA4a2lWR1U3elN4TDNod1FQVWFmSmxPWWNsWFh0MWdRS21Ub0R3LWhpVnJ5MjNiakpCQUtuYzlEcWJYc2tSc1F3dUc2UWVKSnRUSlloNDRyRUtoOXFXUHFLbm90NmVEM242Z1MyTXhkajU2eU5PTk56WnhnQ1pQZ1JPV1QzM3hvb1pOY3FQcWp4LUZVRktlMU4yeXJjSnZQbEQyUnptWl9TR01kYmFMVGJScjlLZFFGczF0S2VQVU9vNnZuZlpobUFXZzVwZGZnQXVvd2F6SFM5eVh0ZWkt?oc=5",
-      "published": "Wed, 15 Jul 2026 07:43:42 GMT",
-      "summary": "台股強彈893點 三大法人買超201億、外資續提款 台積電末盤遭拋7617張  Yahoo新聞台股收漲893點 網見1數字驚：散戶又跳了?  Yahoo股市台股逐洞賽｜美股記憶體回血＋台積法說帶動電子類股回神- 證券  工商時報〈台股盤後〉股王、權王雙拳出擊 大漲893點收45631點站回5日線  news.cnyes.com《台股盤後》開高走高、收漲893點，收復5日線 | MoneyDJ理財網  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "07/15 15:43"
-    },
-    {
-      "title": "同歸於盡？被川普封鎖港口氣炸 伊朗回嗆：中斷中東石油出口 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPM3Z6WFJ6bmwwd1lVZEJudlE5WEk3dl9aUXVNLVdmWi1DLWZRaHNOTnE0WkpQV1kyRUxxN005MzRkUXhCQmdBbWNob1lPVFhYcXRjMFV5MFFjSDU1YWJSVEVlbkx2ajM0SEoxU1dPQm44NWViQzh2TWg0YjZ2YkI0YnBFLWZCWC1rYUgwUTktMkxZYVUtb3ZKMjl3LTJGZWNoNl9aT005Mnk5SE1ta1BSdV8tUWJMaVQzN1Q4bFZqcDV2NGtISDBkOHhkczVvdUx5eVd2VndpUC1mb1FuREhRNHZKUnpVZlA2M3NsVXpUeU04cHBWRzVhRjZWMmdOcHRtS0xRUThoN0dIU0wxcnlJOE12UjdOLWZDLVpCaWN0MzZPUzhMZ3hvNUZlQ1lWSERIdGFYVHdxVlQ1YXhpZFQ0Y2ZEQTg5WHFoYmlCZ04yVDh3c2VDWEtsdDdabC1Ea2hXSzAza09hSHhxcVU2d2xsYVBodmpEVlVKUWo2b3BiUWlZNk0?oc=5",
-      "published": "Wed, 15 Jul 2026 07:33:00 GMT",
-      "summary": "同歸於盡？被川普封鎖港口氣炸 伊朗回嗆：中斷中東石油出口  Yahoo新聞天下晨間新聞：川普要收海峽保護費20%｜韓國記憶體為何慘變「失憶體」？  天下雜誌川普擬收荷姆茲通行費 盟友24hr遊說勸退  Yahoo新聞逾20艘艦艇、上百架軍機出動！美軍正式重啟對伊朗海上封鎖｜反制中國「民族團結法」！美跨黨派議員提「停止跨境鎮壓法案」｜2026/07/15 中央社全球晚間新聞  中央社 CNA白宮戰情室緊急開會！川普討論對伊朗發動大規模攻擊計劃  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "07/15 15:33"
+      "display_time": "07/15 16:31"
     },
     {
       "title": "伊朗「不肯親吻戒指」！川普對伊朗開戰20周陷泥沼 軍事外交雙迷航 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xeWMzMGlmdTlNenQ0YWZPcnFLYU1FN2VWUVNjczlvS085MF9Ib3Z5ckQwZ2d1Tk9RNE5uWExFQjc3dlJaY2szcDlXazZTODhoX1Y00gFYQVVfeXFMTzhnZHR2bmp6WUdkcmZFTW5QV01GUkFiU2psZXV4TTNaQ0w1TGRrVVB6R0szQTNEakhzbUhKcjI4OUFtOXJNSWFiVG1OdnY1TjNBTGtqRHU4eA?oc=5",
       "published": "Wed, 15 Jul 2026 07:01:10 GMT",
-      "summary": "伊朗「不肯親吻戒指」！川普對伊朗開戰20周陷泥沼 軍事外交雙迷航  UDN伊朗看破美軍三軟肋！張延廷曝美軍最強神話已破滅  Yahoo新聞川普撤回荷莫茲收費計畫 稱波灣國家將大幅投資美國  rti.org.tw川普「海峽過路費」24小時髮夾彎：從開徵20%到改談投資協議，國際法學界怎麼看？  TNL The News Lens 關鍵評論網川普喊收海峽保護費髮夾彎學者剖析「4個擔心」：台灣要超前部署- 政治  中時新聞網",
+      "summary": "伊朗「不肯親吻戒指」！川普對伊朗開戰20周陷泥沼 軍事外交雙迷航  UDN全球航道身價曝！台灣海峽年運80兆貨物 「1原因」禁收過路費  Yahoo新聞荷莫茲海峽收費？波灣盟友砲轟 川普髮夾彎改口喊卡  UDN川普又TACO！宣布取消荷莫茲海峽20%過路費，改由海灣國家投資協議替代 | 林彥呈 | 財經  Storm.mg川普取消荷莫茲收費 改推貿易協議  中華新聞雲／中華日報",
       "source": "Google News Global",
       "display_time": "07/15 15:01"
     },
     {
-      "title": "美股收盤／四大指數收紅 通膨降溫 晶片股領漲 SK海力士ADR狂飆27% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2OVVmeFJJN3k0UHFiYVFDV2dHZDFBb3UxQ2VQSkxpREY4NUY3NkRyNTRjdHBPSnNsLUpQdG1CQXFFdHBPcFliSFpBUkYxc1c1R3dGRS1WS3lPZElU0gFiQVVfeXFMTlpZV0NKcUctcFNTLVFoY2FZeTBjclVITFZwd2c2d0JBcUphblVGcHd2UC1jWUItT01oMTZBT1BBdEtTeUNyMWRMano2NXNVY3RwT2NscFN6THFoWUZ4NTdLb1E?oc=5",
-      "published": "Tue, 14 Jul 2026 23:09:54 GMT",
-      "summary": "美股收盤／四大指數收紅 通膨降溫 晶片股領漲 SK海力士ADR狂飆27%  經濟日報通膨降溫美股收紅！輝達強噴4%、台積電ADR卻走跌 台指期夜盤強漲225點  Yahoo股市美CPI降溫提振股市 新台幣反彈受限、續在32.2元附近震盪  自由財經MoneyDJ新聞 2026-07-15 12:55:50 新聞中心 發佈  MoneyDJ《美股》收盤速報：IBM的痛、記憶體狂喜SK海力士暴漲逾27% - 國際  旺得富理財網",
+      "title": "林口長庚年賺37億連九年蟬聯最賺錢醫院 中國附醫本業奪冠 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNTGFkOU9taU9LcEhOYllPMXpLTHhieS15cTdPbWdHT1FIdmVEMGk4ZzMxU3BDMU9rSUtiUTc4c21HVERNVVJLRlFndkNfeWU4eEhXWWFIemF6TXU3NGZoek5UYzhYMUpibXMzUHNrUnl1d2tmMUlSd1o4WWdrSFB0NXMtWHlHeW5mZmc2VFBuTlVMNW9TSWphZ1VmVGFVVFFGa1pkT0ltbGJ5LUJjVmstZ2hCeGZLbkVOSzJaYVpFTko0RmJyQmJlbnJOY2hyRWlQS2w3NHdEdEVnRHN1MDJNRTE4WDJSTUZxeWFYSU9LZEpScENKcEFOR2p2MmdmWmNVcl9nQ0txMjhaSHNYV2VEQTIwendwZ3p1bzRuZFlaUTJEbmdQM01aQ2ZaTjFJSjltYy1oMWtoUW5QT3loajlhb2piVl9QTFEtWXJLay1nWXlYUENlRXlOdmE2VGhZeXlNT1l3a1BhRDFqa0h3VXcyMmFIajVLSGkybmVRNVVld05wN0E?oc=5",
+      "published": "Wed, 15 Jul 2026 04:59:51 GMT",
+      "summary": "林口長庚年賺37億連九年蟬聯最賺錢醫院 中國附醫本業奪冠  Yahoo新聞觀察站／自費醫療高漲 未替民眾荷包把關  UDN台大只排第7！全台「最賺錢醫院」排名出爐，它連9年霸榜、比去年少19億仍奪冠...這家慘虧近7億墊底  今周刊健保署公布醫院財報！醫改會批「資訊公開更倒退」 提5改善方向  自由健康網醫院人事費增加81億醫改會憂仍加薪不加人| 生活  中央社 CNA",
       "source": "Google News Global",
-      "display_time": "07/15 07:09"
-    },
-    {
-      "title": "「最賺錢醫院」林口長庚結餘少19億仍連9年霸榜 高醫岡山最虧錢 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByYmJfREw3eWNIUjBiUkNsSURSd0FISEdTbVRYM3hYYVBKX3hWUmxzWW54dzRJZlcxTWJlc3FtSWpRZ0MxLVZ0R25iTGlnZ0410gFWQVVfeXFMUElvQndCQzlGMW5FVTJlV0Jma2RGUlhvTy1WeF9OcFFqNVk3dnB2ZjRqYXVQakFJTUJZblU1Mnp1ZFhlNHgybkpGOGdvWnlKclRoMm5JTkE?oc=5",
-      "published": "Wed, 15 Jul 2026 04:23:30 GMT",
-      "summary": "「最賺錢醫院」林口長庚結餘少19億仍連9年霸榜 高醫岡山最虧錢  UDN林口長庚年賺37億連九年蟬聯最賺錢醫院 中國附醫本業奪冠  Yahoo新聞醫院財報公布⋯4分之1醫院虧損 專家嘆結構失衡：救愈多人、虧損愈多  UDN醫院人事費增加81億醫改會憂仍加薪不加人| 生活  中央社 CNA台灣240家醫院中最賺錢的是它 蟬聯9連霸  自由財經",
-      "source": "Google News Global",
-      "display_time": "07/15 12:23"
-    },
-    {
-      "title": "國巨短線急跌近4成後反彈 少年股神違約交割危機解除了嗎？ - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8taEJWd3NGZVE4Z2NKTUl3X21reENBV3pUdzFJOTcyNDFHUmM1WlQ3ZWQ4SndTaV9oUWhDZjR4MUJfYWNvQm1oM1ZRMWFXM0RSRHFFSU00c25ZZ9IBX0FVX3lxTE5ROGRrU2pvYXJXZ1puaGhOTzlqU2EyQlQ2aWI3eFlJZzNESDQ5Y0hOczNVZEI4TkdLM21aZERQTXVHMnFZQXRrTzV5eWtUNG9FS1JnUkt1bjR2QXVEZHhZ?oc=5",
-      "published": "Wed, 15 Jul 2026 03:14:24 GMT",
-      "summary": "國巨短線急跌近4成後反彈 少年股神違約交割危機解除了嗎？  經濟日報國巨9天市值蒸發破兆元！今止跌重返800元大關 能抄底嗎？分析師這麼說  Yahoo股市新／14萬股民注意！台股2大廠爆鉅額違約交割  東森新聞禾伸堂、台燿雙爆違約交割 7月已4檔翻車  自由財經違約交割慘案又一樁！被動元件股王單日遭10家券商通報翻車的還有它- 證券  工商時報",
-      "source": "Google News Global",
-      "display_time": "07/15 11:14"
-    },
-    {
-      "title": "快訊／川普政策突轉彎！美股開盤4大指數暫漲 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ0lYOTNPa1YzNWVSRWgweWxZXy1ZTTItUnFHWTVlZG9zd25nXzhDd1hVQlJxeFNTdTl0SkJxOU80aHVpUldkdGJpV2tTR1kwWFJra3lWQ21URnNta05vQWx5SzRkSXBEU19fMzVHWHZnay1ZU180ZkVyWG5PUDFSTV9YWHJGNlAtODBwVHNXeVp5c2RQcU5XLUdqcGI3aXFtSjZYR0xkbGxIQTZ0Sk96OHdUSmdkZG5oMzRlMVltRVE3RzRPTGF5SEViVng0VGRxb1FCaU9wenBtOXpoOUdMZmlJWGpXWGsyRkhLVGhvT3BXUWlKRTZSc291Q1M4aUZQcXF5ZFFqdmszLXd5OGdoQXVBM1dvTEprQVYtcU8zZjhHaThSTmdZTzd3WFJpMk0?oc=5",
-      "published": "Wed, 15 Jul 2026 13:44:00 GMT",
-      "summary": "快訊／川普政策突轉彎！美股開盤4大指數暫漲  Yahoo新聞通膨又降溫！美國6月PPI意外下滑 Fed本月升息機率降至個位數  news.cnyes.com美CPI降溫提振股市 新台幣反彈受限、續在32.2元附近震盪  自由財經CPI優於預期 川普再次TACO  華冠投顧美國6月 PPI 數據優於預期 台指期夜盤直線拉升翻紅  UDN",
-      "source": "Google News Global",
-      "display_time": "07/15 21:44"
-    },
-    {
-      "title": "美軍攻伊朗水廠、穀倉還沒完 傳川普計畫大規模毀滅攻勢 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQZ0o5UE10UmtUVUY3MGVwcExrZTZKSHBJbWRmTjRPcFVibnhDUllRNTYyN2tKVnR1ZHh2UVJ0RXhKS2dJekUtUG1WdzRaYV9QNVg2RWNuUFZDOUhwVVJVOWxJQ0dKSlFZSFNqV1pUaVBwQmhWLXBybTMzUml3em1IVy1fSEUwM0d1ZFpMaUQzYmRnamZHa3QzOUVWLWtMRjFsUS1KWmJNZjRRS2RDVWxCU0JvLTZQN2s2ck5UWjNwbXNaWmszOHNmTVktdFpPSUFCQjlmejlZVWJCNVp4ZU9McG9KS3FzaHlxRnNCVTFlbmFWdTZRV0NIYjdKWEo0dXk3TVdmMFkwOC05Y0pfT1c3dXlBWHdqaVBieWdEc1c4UklTNlNHMEVOd01xaTE1YUM3YWhMbExHcFN3d0h6SXd0UkY3cWp0TkJkMGdYYkpfWjZKQ1haQkU5VUJNcldXWFh6LVR5TTlRSWZSenpxdHFZZ0RnSk5Tdw?oc=5",
-      "published": "Wed, 15 Jul 2026 12:27:00 GMT",
-      "summary": "美軍攻伊朗水廠、穀倉還沒完 傳川普計畫大規模毀滅攻勢  Yahoo新聞連攻第5天影片曝！美軍：對伊朗90分鐘精準打擊鎖定大通布島防禦系統| 中東戰火連綿| 全球  UDN美軍續轟伊朗！德黑蘭驚見川普躺棺木看板  Yahoo新聞天下晨間新聞：川普要收海峽保護費20%｜韓國記憶體為何慘變「失憶體」？  天下雜誌伊朗揚言斷絕中東所有能源出口！若「這地」被封鎖 油價恐飆升至200美元  工商時報",
-      "source": "Google News Global",
-      "display_time": "07/15 20:27"
-    },
-    {
-      "title": "亞股滿血復活！韓股飆逾6％一度又熔斷 日經收漲逾千點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92cVFKOUFULVRqaHpIcWFvUFRyM3RDRGRTSEJWMUFNWERwNmdXajIwNTRLZDk3NmVOa0hVanJVNVVXeVpJRzcyX3R2N0s3cmhxVnFsbzBDdEFYakkzTzlr0gFkQVVfeXFMTWUydjhNNGMtSWNOU0FzLWVlMjlwU0tqd3FOT1FDZVJxWU1DQmFtYWgyTFNHdkZramZFYWVub0dMLXZ3ZzR5UlAzSXdpQXN2N3VFeHNRS1E0U3UwdGhkTXdvd2pQVw?oc=5",
-      "published": "Wed, 15 Jul 2026 07:16:00 GMT",
-      "summary": "亞股滿血復活！韓股飆逾6％一度又熔斷 日經收漲逾千點  自由財經美股盤前SK海力士ADR又墜海 投行增持看好  Yahoo新聞海力士的算帳時刻  今周刊SK 海力士 ADR 又飆 27% 散戶跟進 AI 大神瘋狂湧入  TechNews 科技新報SK海力士ADR暴漲27% HBM價格看漲 巴克萊喊買 目標價上看330美元  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "07/15 15:16"
+      "display_time": "07/15 12:59"
     }
   ]
 }
