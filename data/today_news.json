@@ -1,341 +1,53 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "news": [
     {
-      "title": "記憶體佔用元凶確認！微軟將為「8G 記憶體」開發 Windows 11 優化版本，最快 2026 年底登場 - XFastest News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOamxyT0g1c1dzSXdOSG5LQldrdGdVc182SE81SnNqcEJhTVVfaHpGNk0ySjNxOXpSWWxqZmdvSTdsSWtkTEpOY1FYeF8tTk1neFhYM1FoUGN6SU1qZEZybUVJOS1EM3UycHcxS0FQeURBRWF6UGd1SjVNYURURmRtalFHQlFSZWloUzljU2gwQlFWeXExN2xhMGFaT3FDVWdjN1Rpa0U2YzRraE1CQlhwNG1DdFZOcWNlcHJsOGxhS3RnV0VGZDdrSjk0dWRPbnZMMnJmNFhKRDFIWWs?oc=5",
-      "published": "Mon, 03 Aug 2026 11:02:10 GMT",
-      "summary": "記憶體佔用元凶確認！微軟將為「8G 記憶體」開發 Windows 11 優化版本，最快 2026 年底登場  XFastest News微軟Windows 11瘦身改版 記憶體降至8GB因應供給缺口  DIGITIMES筆電搭載 8GB 記憶體也能順跑，Windows 11 重點改善記憶體占用  TechNews 科技新報微軟終於承認 Windows 11 太吃記憶體！承諾 2026 年前全面最佳化 8GB RAM 電腦  Yahoo新聞Windows 11換機潮真相曝光！微軟首度認了不是AI PC帶動  自由電子報3C科技",
+      "title": "貝森特曝美伊協議露曙光！道瓊飆700點、台指期大漲 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOU0ZCQ2pBZmJkcGd4ZVE4UWtVNnVPdDVNRVdnaWh2bGl0ZkZ0bFBjYktjdlh3T3NON1B1cVBSTUFyNmkzekl5MDRXNHJhNTMyRVdYOHhDNlFka2QyUGQ3clBCZFN2Y2RodkttOEhSdENfejMtRE9zMnJjV1p4blRsaFl5QzZwdVFWZk5PZDBiWGlFczg1dERHcnpZVEV2bk5LTGVyYno4cVpkcnpyVzNaaEpmSUNjN1hsbEhhT2hOdnhNUXlTMFlIZlZPcHNadWFvUGtPS2h3My1SdU1YQnFNOWZJOXBYaVEzWV85SGh4UmpaclhfcW9PS2twaVJnazBpTC1VaUVFXzBzSWtINE5jeVhEWGlkV1dhR3JfZ1VQWUNsYjFYZlBEN05hZm9CTFNwcjN3WWZtQUxnZ1JfUGVadG1jZHZSLXNGdnc?oc=5",
+      "published": "Tue, 04 Aug 2026 14:35:10 GMT",
+      "summary": "貝森特曝美伊協議露曙光！道瓊飆700點、台指期大漲  Yahoo新聞貝森特：荷姆茲海峽自由通行在望 美國油價跌破77美元  ec.ltn.com.tw昏招頻出的川普面對伊朗唯一沒犯的錯| 中東戰火連綿| 全球  UDN美伊協議見曙光油價跌破80美元美股開漲標普創新高| 證券  中央社 CNA川普喊停對伊發動毀滅性攻擊 伊朗半官媒否認開放荷姆茲海峽｜20260803 公視午間新聞  公視新聞網PNN",
       "source": "Google News Global",
-      "display_time": "08/03 19:02"
+      "display_time": "08/04 22:35"
     },
     {
-      "title": "證交所「關禁閉」3新制 傳奇交易員巨人傑回應了：針對聯發科！不是下跌股 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNbERHb1NPX3BLYmVYbkdMMHpKdHVmcWcyTFFEVXJNZXBMNFlsTTRSeHpnZjZqRHZ1ZGs4VWJ3Qzd0Ym9oNWpyRnFSVFNkSEduVVhoOXRqMVVRTGROYmNSVGxITGZNd183cjllclppanBUNXJTV0JZSHVFbmZOei04dmxNdm9Ja2N6YllRMkxUZHB3SzhxYWhGQWo4cWlRczNiMDNyWDBoVDI5NWppZWhQam5nUmN0MzQ4R1pNT0ZiRnhkN2sxMTFGM0VtZGNzV2wwX3hudHdoS2pqZjdzeVJJU213cW1RYjlha2pqZEQzZ1BlOEIxWTl0cnpIMUJlVHhUdXpzVDdFQmVkLTRiUDhnQk5WbXRLeThlb0t1R2c1R2otOEFGdnY0S2dRSUFERmpBQWlQQTlyQ1pmUExocHotLXdlMXYxQTY5dkhGSHAtajg0UnAydnl1R0stXzVEeHN6SW5TZGhJZ1VEcUJHVk9MZTV3UFBuSUtTYjMtWUJDT3FpNExmUkZUajhWOG1LWnJyZTFkUE12TVpRaVlydWVkLWpSZVRQUkJtUkxzZGhRRHhYa2RJT1BqT1pnM2lOOUpqSWc5LWpFeTVpM3dyZ2MyLWkteld3SkRsbFJEVk9PRlpTOERWWVVtTlhB?oc=5",
-      "published": "Mon, 03 Aug 2026 10:45:10 GMT",
-      "summary": "證交所「關禁閉」3新制 傳奇交易員巨人傑回應了：針對聯發科！不是下跌股  Yahoo股市「關禁閉時間縮短！」證交所公布調整處置3大新制 8/10上路  Yahoo股市證交所「注意、處置股」新制8月10日上路！處置天數縮短、撮合改2分鐘  經濟日報上市櫃處置股票將縮至5日、每2分鐘撮合 8/10實施新制  自由財經20260803 公視晚間新聞完整版（無網路版權內容除外）｜有價證券縮短處置期、撮合時間新制8/10起上路  公視新聞網PNN",
+      "title": "聯電ADR暴漲8%！美伊協議有望四大指數齊揚「那指、標普寫史高」 台指期夜盤強漲800點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNNW1EeUE1TmgyN2tjQ0g5XzhONE5SU3JsM0dmSW5HaU92U05NNE1JZ2hPUHV0UmRvTkpWSlktdXBqY0gxSDdqeFRJc1Fxbm9Ga2FBMUlkZjZFdE5xYlRObEhEaE5VaWdMYWFxQXpkSDBuWmszMlpGTzltZFdHY18zazdRVURGZmNldnVjaUo0YW0tVHFnMmVxd0ZYaFhKTjFvZHFQbTlTQTgtaXBTYjlaU2t4anJpSF9oM1RWMEVrQWR2cXBQWTFDemw4QUdyOWxuMU56ZnpqRDRRQnBmY2ExT1RzY1V6Rml2OXMtWmNBZmhDbmhnZXRBMTdNVlptbjJwQXpGaEFLak0tREZHY3lGT2REeFh0SWF2TlZ0N3JSM1U4clhrTHJjd2JWdDdZZUswdGpFVDRrNzVWdlVGbVdSajZWRENsT2ZLV0lBM2RXWkk1N2FuOFdtNWFrdnpvSW1jV0xvQ1VRdW8xOGlHOTJKQzRmTWFUX3dmMXlpaUktMDJhakxxajdjdWc5R01vVVdHZEJOS2JGZmZQOXFvdEtSaGNzVHd5dzIweEdIc3hHVUU5WWJiOUY4cHBfcGlFNFpiMlU0OVBkR1F2UUxWVnpFRWh3aExIUHRFY3c3QXVB?oc=5",
+      "published": "Tue, 04 Aug 2026 14:23:00 GMT",
+      "summary": "聯電ADR暴漲8%！美伊協議有望四大指數齊揚「那指、標普寫史高」 台指期夜盤強漲800點  Yahoo股市〈美股早盤〉AI財報報喜、美伊協議露曙光！主要指數開高 道瓊狂飆700點  news.cnyes.com快訊／美股狂飆道瓊漲900點創新高 台指期夜噴逾1100點攻克44000點大關  Yahoo新聞荷姆茲海峽今明兩天有望重新開放！台指期急拉上漲逾700點  ec.ltn.com.tw新聞內容-F2F2B72F-50D4-4970-8694-FBF569429109台股  MoneyDJ",
       "source": "Google News Global",
-      "display_time": "08/03 18:45"
+      "display_time": "08/04 22:23"
     },
     {
-      "title": "外資賣超191億元！聯電被賣最多 但投信開始轉買了 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50RlRfUVlSQm5pSkpjR3VYSGdEeE9JckVBNHY0R1hJU3c5NFF4LTh5alFqU1p1VVNtUzdObEZqY1ZJYzhvdXcyaEZBUEgzWERG0gFWQVVfeXFMTjhhRnFCSE94MkVabmM0NS1mV2ZKR1g0blRZR1Fld3VpRzNjUnp0WHZ1X0ZFeEJQQnZOT3JDbklxNXB6LVRFaEd6ekRkLTRQX2R0U2dBcFE?oc=5",
-      "published": "Mon, 03 Aug 2026 08:56:07 GMT",
-      "summary": "外資賣超191億元！聯電被賣最多 但投信開始轉買了  UDN【Follow法人】外資再砍聯電近9萬張 同步倒貨3萬張力積電卻反手敲進華邦電  Yahoo股市外資暴力加空期貨！外資期貨淨空單衝9萬口創新高  自由財經台股收漲266點 外資大舉倒貨2檔晶圓代工廠、面板雙雄和金融股 | 太報  LINE TODAY外資買了一天又跑了、投信加碼210億 三大法人賣超187.76億元  news.cnyes.com",
+      "title": "懶人包／告別20分鐘窒息量！處置股票減至5天、2分鐘撮合 新舊制對比圖解 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xSjJra2xOMndJY25aMjBoQWllUXNVQzJlMkp3MGNPOEdJOU1DS0NJcTd4SFI1MTNYcHFxeWJOeVM4MjJ6RDdJUjR2T0NvSlZt0gFWQVVfeXFMUHN4NlpfWVFid1JyQWliR2pnME9pcFluYzlpT1ZSQWVqRVRBQnU3X05yb1RjNnhOSWxyLTRlM3FWMUlyQk5NeHZERnB0bjFFRmRFN3h0T1E?oc=5",
+      "published": "Tue, 04 Aug 2026 07:59:05 GMT",
+      "summary": "懶人包／告別20分鐘窒息量！處置股票減至5天、2分鐘撮合 新舊制對比圖解  UDN處置股新制上路後，哪些股票有機會成為「最強飆股」？專家點名3大族群  Yahoo新聞處置股新制下週上路！專家分析利弊「三好兩壞」示警散戶1件事千萬別做  Yahoo新聞20260803 公視晚間新聞完整版（無網路版權內容除外）｜有價證券縮短處置期、撮合時間新制8/10起上路  公視新聞網PNN矽光子股先進光「抓去關」　明起處置到8／13  ETtoday財經雲",
       "source": "Google News Global",
-      "display_time": "08/03 16:56"
-    },
-    {
-      "title": "華南投顧看Q4台股再攻前高！AI供應鏈擴散 點名這些題材接棒 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDRuT3R5cjVReVhRU2k3c0dINVF0MWhIQi10WlRST25WTDBMTmJaeEdaOTlxaC1QQ0c4SU93VjRuMDlyRXZ3SGZaM2lkRTgzY1pWLUYzYTh6bUxGV2FsbFBwZGZITzFsd0t6WWtNQnc4UUZmRUdZNEt6OG0tTWcwQnlB?oc=5",
-      "published": "Mon, 03 Aug 2026 08:11:00 GMT",
-      "summary": "華南投顧看Q4台股再攻前高！AI供應鏈擴散 點名這些題材接棒  壹蘋新聞網",
-      "source": "Google News Finance",
-      "display_time": "08/03 16:11"
-    },
-    {
-      "title": "AI下一波浪潮在推論、機器人！專家點名4大受惠供應鏈 概念股出列 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDRQdkVIcDBwcXZKR2R2U01MLXVHZjJpMUJTTVVSQ3dRSG9nOWxpc1MwV3NUdUl0bVFDeW9aY044TC0ydjFMUTRIM3BTa3BGQzRaZUJiQVc4OXh4dldQM2tGTzBmZTZhb1IxNDB6V003ZmhSY2F6RDhfV1Y1UXBzOGV3?oc=5",
-      "published": "Mon, 03 Aug 2026 07:35:00 GMT",
-      "summary": "AI下一波浪潮在推論、機器人！專家點名4大受惠供應鏈 概念股出列  壹蘋新聞網",
-      "source": "Google News Finance",
-      "display_time": "08/03 15:35"
-    },
-    {
-      "title": "主動式台股ETF再添新兵！00410A今掛牌上市 聚焦AI供應鏈商機 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTFhGVzUycGxuUjI1NTc4MnlMSnd5VGd2WVFJNXptSW5MS09pamk2T25HaWpacng5SS15VFZ4WlkzSFkwT2lhLXFFVzFrX0JtTnl4SmQxa09LNHJHQlM4RnI1NGdRY2F0WmxDbW11WUkwSnFoMmtwcFpEdzRCM3ZLallR?oc=5",
-      "published": "Mon, 03 Aug 2026 03:37:00 GMT",
-      "summary": "主動式台股ETF再添新兵！00410A今掛牌上市 聚焦AI供應鏈商機  壹蘋新聞網",
-      "source": "Google News Finance",
-      "display_time": "08/03 11:37"
-    },
-    {
-      "title": "台股早盤一度衝43700點！18檔千金股亮燈漲停 AI股噴發領軍攻高 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNME81OWxnRUdxZXVXU2o5Y3FJcWttdEZhdGN3Z0tPSldHR0JxZ21IMnpCNlVmc2NtVWo4Z3lZZjl0Ql9oVjZEVExwX2tKa2NELTdxTms5Y1prTTdEQ1ExTGJNUEN1WXhaMW1wX1plc2JKUEVyeTUtWmdPbXJXT0RkbmxB?oc=5",
-      "published": "Mon, 03 Aug 2026 03:14:00 GMT",
-      "summary": "台股早盤一度衝43700點！18檔千金股亮燈漲停 AI股噴發領軍攻高  壹蘋新聞網",
-      "source": "Google News Finance",
-      "display_time": "08/03 11:14"
-    },
-    {
-      "title": "急轉彎取消轟炸伊朗！川普稱「中東盟友求情才喊停」　證實3日重啟談判 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GLW9KVWZsSERLazRfRWVmczJtcHU3NmYzM3ZYWHd1NXVpMFR1ZW96MDZLVHJ1ci1TejEyWFJ5blg1NXQtaUlTWNIBTEFVX3lxTE1pelppRlEwWFlzRnl5c3V4dmZfNnVHcFRrX1FIRi1xZWZROWpMRDB0QUJ6YUVnLUlaTjNzSTBaUEN6dVl5UVZvck96LWM?oc=5",
-      "published": "Mon, 03 Aug 2026 00:08:00 GMT",
-      "summary": "急轉彎取消轟炸伊朗！川普稱「中東盟友求情才喊停」　證實3日重啟談判  三立新聞川普的惡夢！伊朗新戰略「漸進式升高衝突」跟美國耗不正面硬槓| 中東戰火連綿| 全球  UDN美伊談判陷羅生門！伊朗全面否認接觸 川普怒批表裡不一  Yahoo股市二戰來最大規模攻擊喊卡 美伊8/3展開新談判  rti.org.tw川普又TACO突喊卡！ 美伊大戰轉折與三方立場一次看- 國際  自由時報",
-      "source": "Google News Global",
-      "display_time": "08/03 08:08"
-    },
-    {
-      "title": "熊本AEON專櫃員工「回去放錢」慘被炸死！公司負責人終於道歉　母慟喊：我女兒回不來了啊 - 鏡週刊Mirror Media",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfUFY2ejFjN2FZOFFfX0t2cWF0Z0VIekFtX2tNZHhraHBFcDc4VlN5eGcxR193emEzWDFoRTNWUTk4RzVUT2tnUFNIYkx3R21iMUx4aXhCSVNwWU3SAWBBVV95cUxQcDJteE1NSnNvYzFXcEQ1eTVWRXI4Y1dEVjlwRGxxY3hneXVTX083OV9kT204Uk5OZWFGSW9ZZ0w1alhrd3pKMjdMcE5zSzBFS0tUS1FQX2QwRnE1QlhJUHA?oc=5",
-      "published": "Sun, 02 Aug 2026 22:59:55 GMT",
-      "summary": "熊本AEON專櫃員工「回去放錢」慘被炸死！公司負責人終於道歉　母慟喊：我女兒回不來了啊  鏡週刊Mirror Media熊本強震！22歲女員工喪命 社長認了「要員工把錢放回金庫」  Yahoo新聞熊本地震AEON商場2員工折返身亡店家承認曾要求將營收存入金庫| 國際  中央社 CNA3分鐘通話成永別…永旺商場爆炸痛失愛妻丈夫自責：怎沒叫她別回去| 日本熊本7.1強震 | 全球  UDN公司董事認了「下令把錢放金庫」　22歲女員工5分鐘後被炸死！家屬悲慟擬告  鏡週刊Mirror Media",
-      "source": "Google News Global",
-      "display_time": "08/03 06:59"
-    },
-    {
-      "title": "安聯00412A獲准募！瞄準亞洲半導體商機 鎖定AI、HPC三大成長趨勢 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaE5HTnA1ZGhTVG5rYldrMDNJcFNXVnpLMDdmZy10NDZUNkI2OUpFY3pRQ29xWWVlZFVfcm1ZSmtFRGtmTXgzU3NNc0xvWXFnNy1NVWduYWlGZzBIM0s0cVVBVDhCX3lIelBWT21IcGhYODVtanMzcVFac0h1bDFnUTFn?oc=5",
-      "published": "Mon, 03 Aug 2026 17:25:00 GMT",
-      "summary": "安聯00412A獲准募！瞄準亞洲半導體商機 鎖定AI、HPC三大成長趨勢  壹蘋新聞網",
-      "source": "Google News Finance",
-      "display_time": "08/04 01:25"
-    },
-    {
-      "title": "美股開盤3大指數齊漲「只有費半跌」　聯電ADR狂瀉7.25％ - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nalE4WHVKX25LN2tVekFYZEg0RmdXR1liSEZ3MlBRM1lHSVFoS2tjSHA2RmMySmdZS2xYLW5CQkVIWnZFSGNKQXpMOUpTam9ubWfSAVBBVV95cUxNcFN1dWR0c1UtRXgzRENZelB1RXZwVmt2dzZtaUtiQzZYMFNSUkowUzlWbElkdTQwTTBqb2pDZ1laMFRaTHJLN29LZGZ5TkRYTA?oc=5",
-      "published": "Mon, 03 Aug 2026 13:54:00 GMT",
-      "summary": "美股開盤3大指數齊漲「只有費半跌」　聯電ADR狂瀉7.25％  ETtoday財經雲美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球  UDN2303 聯電 - 空仔今天玩123木頭人嗎？ - 股市爆料同學會  CMoney聯電ADR週四收18.94美元，上漲1.83美元或10.7%，折合台幣每股約122.93元  富聯網【美股開盤3大指數齊漲「只有費半跌」 聯電ADR狂瀉7.25％】 （#大表哥）  facebook.com",
-      "source": "Google News Global",
-      "display_time": "08/03 21:54"
-    },
-    {
-      "title": "美債創歷史新高之際 貝森特藉由干預日元市場應對危機 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0MTNoOGVWQ0c1Y1k3Sm5KX1VKd0FCdGFGdUtJTVNwYWRWLVdTNG1EeTlrZHdQd284V0tsNUY3RFVSRXByN0dkUzZMMExldWs?oc=5",
-      "published": "Mon, 03 Aug 2026 12:30:30 GMT",
-      "summary": "美債創歷史新高之際 貝森特藉由干預日元市場應對危機  news.cnyes.com日圓大漲，這次干預不一樣 接下來會漲到哪？  天下雜誌美日15年首度干匯！川普罕見挺日圓 外媒揭3原因  Yahoo新聞美日本合作出手拉抬日圓匯率 力道比日本單打強得多  聯合報數位版日美為何時隔15年再度協調干預匯率？  日經中文網",
-      "source": "Google News Global",
-      "display_time": "08/03 20:30"
-    },
-    {
-      "title": "目標價最高看750元！大摩、花旗點讚「這封測大廠」上調資本支出達105億美元Q2獲利寫歷史次高 - FTNN 新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SNEVjN2lJeUNReXlEUUwtYTloUmMwSHlGaEtvNjA3ckkzSVJEOUdUd3c0VUJmUTVQMnc1WFhiUWtHc3BSSGwycG54bw?oc=5",
-      "published": "Mon, 03 Aug 2026 11:15:00 GMT",
-      "summary": "目標價最高看750元！大摩、花旗點讚「這封測大廠」上調資本支出達105億美元Q2獲利寫歷史次高  FTNN 新聞網狂砸105億鎂搶先進封裝！「這大廠」Q2獲利年增180% 目標價上看685元  Yahoo新聞日月光揭示 AI 先進封裝藍圖，VIPack、面板級封裝與矽光子成突圍關鍵  TechNews 科技新報目標價628元！「封測廠」EPS估賺41.3元 輝達CPU大單＋台積電外包挹注業績看俏  FTNN 新聞網AI晶片愈做愈大，封裝下一步轉向面板與光互連！日月光揭CPO、玻璃基板最新時程| 魏鑫陽 | 財經  風傳媒",
-      "source": "Google News Global",
-      "display_time": "08/03 19:15"
-    },
-    {
-      "title": "熊本AEON女店員聽公司指示喪命！母企業切割 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVU85aHRmLWc2aXZLNXAzRG9IR08zWEpQcUI1VDhJM1VPTkgwZF8tRHN2ME1ISWtzc2VQa3BmQ2g0V1U1MjRCZ3kzV2hmdFhYdndaOE5DVExFNkpoV2NaUThtQUlUTThSLWtxZVdENllXcC1pbExsNmRoUE5fXzRrcFluSEV6Z084Slp5Z2tPTjhHUGpKb3pPbk9YOWJsQmNmZVFxeGpiaF9ZRkNsS2N6ejJFVFpSblpHRTd5RE1jbHRoU0c5Ungwd0RTLUpfaFRDbUtxV3Yxb0NOd1RZcWNVM2M0Z0ZWUzRnWW4wZjMybXhRcFNOUmhrNFhxS3J4bXFRTFhlSElDWERpTDBvOFUxUzgyTTBWLS1TbmNLNWI5bXA0b0NIR3c?oc=5",
-      "published": "Mon, 03 Aug 2026 08:02:37 GMT",
-      "summary": "熊本AEON女店員聽公司指示喪命！母企業切割  Yahoo新聞熊本強震！22歲女員工喪命 社長認了「要員工把錢放回金庫」  Yahoo新聞熊本地震AEON商場2員工折返身亡店家承認曾要求將營收存入金庫| 國際  中央社 CNA3分鐘通話成永別…永旺商場爆炸痛失愛妻丈夫自責：怎沒叫她別回去| 日本熊本7.1強震 | 全球  UDN公司董事認了「下令把錢放金庫」　22歲女員工5分鐘後被炸死！家屬悲慟擬告  鏡週刊Mirror Media",
-      "source": "Google News Global",
-      "display_time": "08/03 16:02"
-    },
-    {
-      "title": "韓股7月重挫22%！散戶追高全套牢「積蓄全沒了」 怒批：政府把股市變賭場 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPQ3BYTFJNQS1xTkh2ZGR3WS1tdWVBT2wtN0tYcnI1WUY1NlRBa1hqWUhyZGpGNEtNOHFPNDVsd2hTOGIxTHh4aDVfcC1FTktxX2VzVmIwc1M2OElwVXNNakRwNEUzaTBhSjU3ajBKNnpaRTFBV1I5a0VyY1JnSS1wbEdiQ2lteVBib0toOEVlVHNOMXlCZzZtdlJzV0FwdXFSX2pLbVpYMTBpTzZpNThvVENOekRMZDdISE5FMS1veDNCRld6RjBmVnZYc1NPY2UwOGVDalNDTndKN2kzcUx0MEtaRGxoRFlyQjY1RjR5bl9QXzlpMzBkdC1SSlQzb0didEJ4cTQ2ckZGQ2llaVhDOHFCTlMzNHQxajlmZlNGT2VwLWVpdWNmQnJ0dWpOTUdGaDcxcG41TXVWTFhXb3NOZm13Q2ZHSFB4ZEhGSDRqYmlJT1NDUWJVZlpHQ3NWRTlDU0tFTy1icW52aWFDN2ZMa2ZDd2twUVlzNVpJRHdHZmVRcjJkcTRieUxjRkpHa3N6VTJhdk54YmdWbW5YQ2VUQ2JScUdiR0w5?oc=5",
-      "published": "Mon, 03 Aug 2026 10:10:00 GMT",
-      "summary": "韓股7月重挫22%！散戶追高全套牢「積蓄全沒了」 怒批：政府把股市變賭場  Yahoo股市投資人獲利了結首爾股市收挫逾5%、半導體股熄火| 全球財經| 全球  UDN南韓總統府政策室長金容範遭刑事舉報 被指倉促強推槓桿ETF  玩股網韓股槓桿ETF提高保證金措施 上路2天成交額大幅減少  rti.org.tw韓股大跌是買點？大摩升評「增持」：KOSPI還有36%上漲空間  鉅亨網",
-      "source": "Google News Global",
-      "display_time": "08/03 18:10"
-    },
-    {
-      "title": "證交所「注意、處置股」新制8月10日上路！處置天數縮短、撮合改2分鐘 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81VXNBLXAwLUF2d05KcktsNlQ1SlA1SWFPbVVPcFdiWkJCQTN6SUlkZmhIS3o5LVMzTzdPN2lKdG43ZmxHY3EzR0prYl9HckQ3Z0dzZ1ljR01td9IBX0FVX3lxTE5LY2NLWnByekJKQ2hjSWJvUmtVRXJlVGlfdXp1YlJlVUhXMHQ1R3o3UlYzMTdJSVhIbVF4MFk4SGtsTDVDclZUdmRVY0tQVkFjQmplbHoydnktQ2ZPQVVJ?oc=5",
-      "published": "Mon, 03 Aug 2026 09:43:24 GMT",
-      "summary": "證交所「注意、處置股」新制8月10日上路！處置天數縮短、撮合改2分鐘  經濟日報「關禁閉時間縮短！」證交所公布調整處置3大新制 8/10上路  Yahoo股市證交所宣布調整處置新機制！天數減半、撮合改2分鐘 8月10日上路  UDN上市櫃處置股票將縮至5日、每2分鐘撮合 8/10實施新制  ec.ltn.com.tw證交所注意股、處置股規定修正8／10上路處置天數及撮合時間縮短- 證券  工商時報",
-      "source": "Google News Global",
-      "display_time": "08/03 17:43"
-    },
-    {
-      "title": "〈美股盤後〉川普給伊朗「最後一次機會」道瓊飆近700點創新猷 亞馬遜市值破3兆美元 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaGIzM2J4Ym9Ea1FMaV85SWJZc2wwQTU2cXcxbVlyOWtWSzVTQThTZTUzc0dTdGtZYXE0bXRjNFRmM19rbGJRRDNlN3FXM0E?oc=5",
-      "published": "Mon, 03 Aug 2026 21:21:12 GMT",
-      "summary": "〈美股盤後〉川普給伊朗「最後一次機會」道瓊飆近700點創新猷 亞馬遜市值破3兆美元  news.cnyes.com美股收盤》美伊局勢降溫使美股收高 台積電ADR上漲0.46％  自由財經台股盤前／油價重挫道瓊飆史高！台指夜盤小跌67點 台股有望延續反彈  三立新聞美股8月第一個交易日大漲 道瓊創歷史收盤新高 Amazon市值首破3兆美元  鉅亨網美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球  UDN",
-      "source": "Google News Global",
-      "display_time": "08/04 05:21"
-    },
-    {
-      "title": "王世堅喊設台股熔斷！證交所：已有冷卻機制「現階段沒必要」 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wMU5NOHZEMGZUWUw0YVNxVmN6NWRPUzRZNTZ5bFRhSnRnX3pTaVBmYzRYdWVvRUppLS15d1BKVEEzM3RLb2xRRVNzbUlxZERrU2fSAVBBVV95cUxNcUNWQVIyOTRxeGJoanZkRmt5S3hfSkhfU3o3bmE2RzV1Y1RfUTV5VjBfRTlnZUd5X1Q5WEVPWjdZdXNBNEt6ZVQxNWJqWVBtRg?oc=5",
-      "published": "Mon, 03 Aug 2026 12:56:00 GMT",
-      "summary": "王世堅喊設台股熔斷！證交所：已有冷卻機制「現階段沒必要」  ETtoday財經雲跌逾40%遭抓去關！它成「刑期減半」首檔受惠股 關到8月10日  Yahoo新聞〈台股盤前要聞〉處置股大改制、外資期貨空單突破9萬口、台股震盪瘋買0050  news.cnyes.com台股「關禁閉」規定鬆綁 新制三變革10日上路  UDN上市櫃處置股票將縮至5日、每2分鐘撮合 8/10實施新制  自由時報",
-      "source": "Google News Global",
-      "display_time": "08/03 20:56"
-    },
-    {
-      "title": "華邦電連2根漲停攻143元 股民嘆「無感」盼解套 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1za3dSekJ3TTR0U2dZRkhQbUk1bmU1N3pSRTRWbEwtN0dWekhIQWRselJXSHNSUnhwNHhiM3Qyemk1STA0UDBRWFduWDdwQk1rRm5lNFhvQ3U3NWc3cno0?oc=5",
-      "published": "Mon, 03 Aug 2026 04:14:50 GMT",
-      "summary": "華邦電連2根漲停攻143元 股民嘆「無感」盼解套  自由財經華邦電(2344)、南亞科(2408)、旺宏(2337)第二根漲停穩了？記憶體股只能挑一檔挑誰，杜金龍2理由喊選它  今周刊56萬股東笑了！華邦電強彈築底 最大功臣是「它」  自由財經記憶體股迎關鍵分歧點強者將更強！分析師點名3檔可關注它股價被低估- 證券  工商時報AI 啟動記憶體超級周期 外資暴漲式喊多這兩檔指標股  經濟日報",
-      "source": "Google News Global",
-      "display_time": "08/03 12:14"
-    },
-    {
-      "title": "Microsoft 啟動 Win 11 最佳化計劃！確保 8GB RAM 仍可運行流暢 - dcfever.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BUkhobHgzbjNTb19hWUkwNWxxc2l6dnZid0VpVi1HVlVidFRxdTJ0X18tRWl1eWh1cnJSSGJyMHNBVGtBSDRIZ0xPZXp3eU9kNHFFWm9URElYNGNfZEYw?oc=5",
-      "published": "Tue, 04 Aug 2026 01:51:00 GMT",
-      "summary": "Microsoft 啟動 Win 11 最佳化計劃！確保 8GB RAM 仍可運行流暢  dcfever.com微軟終於承認 Windows 11 太吃記憶體！承諾 2026 年前全面最佳化 8GB RAM 電腦  Yahoo新聞微軟Windows 11瘦身改版 記憶體降至8GB因應供給缺口  DIGITIMES記憶體佔用元凶確認！微軟將為「8G 記憶體」開發 Windows 11 優化版本，最快 2026 年底登場  XFastest NewsWindows 11換機潮真相曝光！微軟首度認了不是AI PC帶動  自由電子報3C科技",
-      "source": "Google News Global",
-      "display_time": "08/04 09:51"
-    },
-    {
-      "title": "台積電跌35元至2335　台股跌近300點43K岌岌可危 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVWgzdHBrMUxFMmdzRnRHQTZOcS1OTXJKZjdSSzY0ZnBKUXVwbUhTNlhxMlZtVzhaUXRWSUl4RkpNaEhwSnBXdVd4NTJxNjY1dWfSAVBBVV95cUxOMUVzUnF5SFdoV1FVSmI3bkM0VHJyZHRpc05VREFhWGZ1ZFRuZVJVUTFvc2pYTzl0a2ZSOUZNSkRWX2Y1RVVnR0o5WWhaVEprVw?oc=5",
-      "published": "Tue, 04 Aug 2026 01:02:00 GMT",
-      "summary": "台積電跌35元至2335　台股跌近300點43K岌岌可危  ETtoday財經雲【Yahoo早盤】台積電熄火...台股震盪力守4萬3 分析師張家豪揭外資攻防點位  Yahoo股市台股開盤下跌近500點台積電續挫記憶體、被動元件走強- 證券  工商時報融資券擔保維持率 整戶管理  經濟日報〈台股開盤〉權值股反彈續航弱 月線反壓下4萬3再啟攻防戰  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "08/04 09:02"
-    },
-    {
-      "title": "霸氣！台積電宣布捐款熊本 大手筆金額曝 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUURDNjVHZ1lyRGc4TFVqS0xydjZuNFQzWVh0U0t2ZjdncWEzREoyN3QwOW5kMTZodV8tM25mMDlWcEVBeU5ReVk4OXF0M2FDWC1Pc0IxSUh5VDJnV1BJRFlzYmlPR0VLa0hoZFRqc3QwNjJfQXo5dEt6Zk9HME4tLUJWeHF2VHhYbXc?oc=5",
-      "published": "Mon, 03 Aug 2026 23:30:00 GMT",
-      "summary": "霸氣！台積電宣布捐款熊本 大手筆金額曝  壹蘋新聞網熊本遭地震重創！台積電宣布捐2.5億 員工募款助重建  Yahoo新聞台積電捐2.5億日圓熊本賑災JASM晶圓廠全面復原| 產經  中央社 CNA熊本地震衝擊九州物流 半導體原材料供應鏈尋求替代運輸路線  DIGITIMES熊本地震災情慘！台積電宣布「捐2.5億日圓賑災」　號召員工募款  ETtoday財經雲",
-      "source": "Google News Global",
-      "display_time": "08/04 07:30"
-    },
-    {
-      "title": "川普301關稅又挨告 逾20州控強迫勞動調查是「騙局」 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNUpnQVE3Q2YxdlFMSlN4UU9PZXJWSmV4c0l1cjVyY09Bb19pYzBXZktISWt6bkpWQllvd3FsYXBUcWhMTi1abWQwSHkzVmYx?oc=5",
-      "published": "Mon, 03 Aug 2026 23:28:29 GMT",
-      "summary": "川普301關稅又挨告 逾20州控強迫勞動調查是「騙局」  udn民主黨25州聯手控告川普政府濫用301條款 要求撤銷關稅退還款項  Yahoo新聞美國25州政府提起聯合訴訟 挑戰川普最新全球關稅政策  DIGITIMES川普新關稅再遇挑戰！美25州提告控濫權要求停止執行、退還關稅- 國際  工商時報川普新關稅又被告了！全美25州聯手怒告政府「違憲越權」  stock.ltn.com.tw",
-      "source": "Google News Global",
-      "display_time": "08/04 07:28"
-    },
-    {
-      "title": "台股新制 證交所鬆綁股票「關禁閉」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN09nZVJwNEU5WGRCRm9raFpwc2gzdkM3X1pMR3NnYXFVTkZscVlQakdsSlVscVpSNmtrVEQwRFhtVk9EenJVdTNRMXEtU21IQjVfRnkzOEN4UmQxblUySnJhNFV0RnhYanVQcDBoR01HVXhRWlhuVlNrbm9hT2o0T2FGRGpvOG1VZ0FmaTlvcVAtN0dxWlU5bUN2TmRvYjVkZG1mdWhnaFJ0R1RyaFR6Z1E2UkNkRHRTUlZRSG1nWXk4YVpiU0N4enZqOXMxWURKTlBnRjVmS09qOEdudHJQUE5aWmI4eDFDN1hsV0F2MkZfZ2RrS2lESFozdTRTUQ?oc=5",
-      "published": "Mon, 03 Aug 2026 22:43:19 GMT",
-      "summary": "台股新制 證交所鬆綁股票「關禁閉」  Yahoo新聞台股「關禁閉」規定鬆綁 提升流動性三變革 新制10日上路  經濟日報處置股新制下周上路！空頭「吃豆腐」策略失效 衝擊一次看  Yahoo股市台股「處置股」10天變5天　重大變革一次看  ETtoday財經雲跌逾40%遭抓去關！它成「刑期減半」首檔受惠股 關到8月10日  三立新聞",
-      "source": "Google News Global",
-      "display_time": "08/04 06:43"
-    },
-    {
-      "title": "日圓、中東情勢多空夾擊 台指期上半場一度大跌近千點 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pUDZkWnFvYjFYREhPclJpcVB0aEZuaDc5SjRtbUNobkUybVhaV1ZCNndKUFRKMjZtM1VibmRnQXFZNHlGNzctcFF3ZnhmNlZH0gFWQVVfeXFMTnlNNDVaaTNqZzR1RVdUdm5JVTVNYzZNZE9MVWNHbTM1YVJfSVVHSmtHQklpNTVnVjhETnNkWWh3bmM4TlhHYUtXMlQ5dVVhQ2NKRTZIbUE?oc=5",
-      "published": "Mon, 03 Aug 2026 13:06:25 GMT",
-      "summary": "日圓、中東情勢多空夾擊 台指期上半場一度大跌近千點  udn台股明天慘兮兮？台指期夜盤失守4.3萬點大關「一度大跌近千點」  Yahoo股市早盤快訊》權值股熄火也不怕！台股守4.3萬點，景碩、大立光、全新同步漲停 | 下班經濟學 | 財經  風傳媒《台股盤後》收漲266點、日K連二紅，10日線失而復得 - 頭條新聞 - 新聞  MoneyDJ台股逆轉再漲266點多頭回來了？分析師：真正考驗才剛開始- 證券  工商時報",
-      "source": "Google News Global",
-      "display_time": "08/03 21:06"
-    },
-    {
-      "title": "罕見公開徵求「創新」想法! 美軍戰事陷瓶頸軍方承認傳統空襲難迫伊讓步| 國際 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuNGt0a3RBcG9KVmxSQlBmMHVkbFNiQS1UcU04Y2RVTkZXaEI1cVJMclFnQWRfZlgtNmRTYWN2cTBYWW5PUEM1YmNmU1c0bDJCUnVyeGhMVnNJeDQ?oc=5",
-      "published": "Mon, 03 Aug 2026 09:58:26 GMT",
-      "summary": "罕見公開徵求「創新」想法! 美軍戰事陷瓶頸軍方承認傳統空襲難迫伊讓步| 國際  Newtalk新聞警告伊朗達成協議或投降！川普給「最後機會」：不同意就面臨斬首  Yahoo新聞伊朗拖泥帶水戰略成川普惡夢- 國際新聞- 旺報  中時新聞網伊朗強調未與美國談判 專注與阿曼達成荷莫茲海峽協議  經濟日報美伊談判陷羅生門！伊朗全面否認接觸 川普怒批表裡不一  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "08/03 17:58"
-    },
-    {
-      "title": "科技股強彈帶動全球股市，半導體迎AI新商機-財經焦點情報站 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHlvRHF5Uld3V3JuTEExSnVVRnZxaVNEbTB5MlJ6QUp2eG93RkxOdFlQLVNJUDAtWnYzXzRpRFp3V0JmREwtd3daUjFwVGVUeEJsczMxZXI2dDdTQy13MnN3d3BQLXQ5LUJhczNGc0hKdkMtQ1VaUVc3bVVDTzdlSm9R?oc=5",
-      "published": "Tue, 04 Aug 2026 02:52:39 GMT",
-      "summary": "科技股強彈帶動全球股市，半導體迎AI新商機-財經焦點情報站  CMoney投資網誌",
-      "source": "Google News Finance",
-      "display_time": "08/04 10:52"
-    },
-    {
-      "title": "紐時：荷莫茲海峽重啟協議接近成形川普恐付出大代價| 中東戰火連綿| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IQUJzMXo2cl9OMVk0aWl1YWlQZlJVTGhDNi0zSVB3Y0R2OHpETml3c2swNGpqTXZOM2tGM28yak9HX0h4V2VST0lHSV8xVFkzVVFr?oc=5",
-      "published": "Tue, 04 Aug 2026 02:39:31 GMT",
-      "summary": "紐時：荷莫茲海峽重啟協議接近成形川普恐付出大代價| 中東戰火連綿| 全球  UDN伊朗喊「沒跟美國談」！改與阿曼協商荷莫茲海峽 油價仍持續下跌  Yahoo新聞韓國記憶體為何慘變「失憶體」？｜川普要收海峽保護費20%  天下雜誌伊朗：與阿曼接近達成荷莫茲海峽新航道協議  rti.org.tw伊朗在荷莫茲讓步換川普收手？德黑蘭：與阿曼接近達成新航道協議- 國際  中時新聞網",
-      "source": "Google News Global",
-      "display_time": "08/04 10:39"
-    },
-    {
-      "title": "不理美股道瓊創高！台股早盤逆勢下跌 台積電開盤價曝光 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOZTh3dE15aXZGZWFiWTE2N0c1UWNPcmlXSk1ubDJDdlc1RE0yMGlNREZ4TnJzUF9IZ2JDOUdCcGtSbl9PeEQ2Ymg4TmQ2VVRHLS1nYnFUbmJ2LVh3REREMi1vZ0RIbHR6d0otZThxaF9wRUZfbjk2LVhKbm9ZZExGWXJXVWszVV9aTmdpeXI4MkRSQXVrU3JsdWZLa3lJdmJqS1NjUUpXMl9iUnZ1ZWJwY0hvaXpkVFpFZ2hBSG5OZG5zODdQUzFwajBpU1JZbmhZMHJwS1V2Y1FyT1pycWxXanM1Snd4WnJ4dFp1VmFzbkN2YjhwT08yOWZyaHB6U3EwcDc5MkFjZDVNX1c1Y2daV0xKRmtkR3VBcWxkUzZ6VlJYb3Z2eW80OGE1YlhYUU1wSVRBWTk1allnRXpBbmRmOWY1c3djS0dzTnRvRzhuVnVHT3RrUFdRZXZ2QnBoeGsxSkhvbmlzZVlEbG5ERHVLRHhxVzhZWHNneTRmNHN3?oc=5",
-      "published": "Tue, 04 Aug 2026 01:26:00 GMT",
-      "summary": "不理美股道瓊創高！台股早盤逆勢下跌 台積電開盤價曝光  Yahoo股市記憶體、ABF載板掌兵權 指數急拉逾千點翻紅漲逾500點  自由財經尾盤5千張買單救不回！台積電跌50元收2320元 分析師：買黑賣紅  Yahoo股市台積電跌35元至2335　台股跌近300點43K岌岌可危  ETtoday財經雲證交所：融資維持率採整戶管理 資訊誤解恐影響判斷  經濟日報",
-      "source": "Google News Global",
-      "display_time": "08/04 09:26"
-    },
-    {
-      "title": "跌到賣不掉⋯王世堅籲改革股票處置制度！網熱議：分盤交易早該退場 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jUkN3WWVyZEJ1WUtJYzg5dlM3MGdFRTRteEQzbHhYeW8xOVl6N3EzLVZiX1FxQWJhS01GMExLSmJzSXhXcDRHdGstQTQzajJiMVHSAVdBVV95cUxPN1BOWGgzVEpmRVZ0eWxKTC16YnhONlVUcmZQd1JuN3lqRG1LenlWZ0ZfSUluZHE5VXM2amdQSnpPLUIyY0ZEaWtkM1d5NjFUTnFaTGthMzQ?oc=5",
-      "published": "Tue, 04 Aug 2026 00:04:05 GMT",
-      "summary": "跌到賣不掉⋯王世堅籲改革股票處置制度！網熱議：分盤交易早該退場  UDN處置股大鬆綁、「台積電條款」也放寬市場流動性估增1.5倍新規8／10上路你該知道的事- 日報  工商時報台股處置制度大鬆綁！8月10日起關禁閉『砍半』 高價股也受惠  Yahoo股市20260803 公視晚間新聞完整版（無網路版權內容除外）｜有價證券縮短處置期、撮合時間新制8/10起上路  公視新聞網PNN跌逾40%遭抓去關！它成「刑期減半」首檔受惠股 關到8月10日  三立新聞",
-      "source": "Google News Global",
-      "display_time": "08/04 08:04"
-    },
-    {
-      "title": "台積電休兵聯發科頂上台股漲266點這檔亮紅燈逾3.7萬張買單高掛- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yeFo0UkQ0S0RrbjY5clBYcDZnTjlRaFA2SnhDQ21uMnZzOHZTWHhaQ010R3h1bkNlSlJoXzhlaHJSLXAwRTVwMGw2M3hYZUc1dkJwMzZTbUdCWUVSMzA0?oc=5",
-      "published": "Mon, 03 Aug 2026 06:06:00 GMT",
-      "summary": "台積電休兵聯發科頂上台股漲266點這檔亮紅燈逾3.7萬張買單高掛- 證券  工商時報日圓、中東情勢多空夾擊 台指期上半場一度大跌近千點  UDN台股震盪近1000點 記憶體、被動元件帶頭漲  Yahoo新聞台股下週剉咧等！台指期夜盤狂瀉超1000點 但美股卻全面大漲  自由財經〈台股盤後〉亞股一枝獨秀 受制月線反壓 漲點收斂至266點收43386點  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "08/03 14:06"
-    },
-    {
-      "title": "尾盤5千張買單救不回！台積電跌50元收2320元 分析師：買黑賣紅 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQRlhDd3NBcVlXX2RRMFlRS0hoajJMM2hvaHBOaVNhVGN5UjRLdjBUem5ES0U2WkRRM29mUG9vZVpoZVNoSnhqVm90OWFoM1JoWDB5eWxsTnBmZ2tUeFFwUk5nYklUdUxyalNNZDZub291RHZqS3ZJOTBXal90cWZDVG52ODJYNF81d21yRnVQR2ZoMnFTcGFPYWV4QXFlV3UyRzlsU2xPTDlHOW8tdFNNQ2Qtd0pBTnF6R0Y4UlRVVm1KRk5MZktITTRrWWFBcGdCaTJocy1lY0dKUkRuZmk1XzZqTnlEdG5qbkpYdFAxcWZFOHpBS1lkd1lrTGlSOXc1SHd0alFBdmlUdzh1NEtTUjJ4VkR2RWdOS1pURUx4N3hVTXRLbjVoRlZhRmpVbmVQXzIwNUdTM3M2ZE5jX2MtMTA3SjhzVk5qbmFNTXNPNEhEelViTE1mUWZ3aU5RVjhEak43b2p5eVM5aHhQdnkxVENkQkh5QmxXRDRaVkhFaXF6dFpKZEg2eHYzRjNwMWhYNnc?oc=5",
-      "published": "Tue, 04 Aug 2026 05:39:29 GMT",
-      "summary": "尾盤5千張買單救不回！台積電跌50元收2320元 分析師：買黑賣紅  Yahoo股市記憶體、ABF載板掌兵權 指數急拉逾千點翻紅漲逾500點  自由財經《台股盤後》震盪小跌25點，月線得而復失- 新聞  MoneyDJ證交所：融資維持率採整戶管理資訊誤解恐影響判斷| 證券  中央社 CNA〈台股盤後〉震盪逾千點成交量重回兆元 守住4萬3小跌25點未能站穩月線  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "08/04 13:39"
-    },
-    {
-      "title": "力積電、華邦電、南亞科、旺宏…記憶體第3天漲勢繼續，外資只剩它沒買超還大賣！力積電漲停原因曝光 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUTdlM1UxRkwxVnNCQ1JPUmtBcEtkX3FhaFJZeVlKOHNTVmJyRVVvblJDRnJGbkl2aGNabk9IenczTmtwNTc2NUw1cDd3czN6aDRSZFVlQzgwbkZfSjI4RUpQaElLN193LS1ubmpoTTRjdVBUUkhkTFY0Y3RxNnQ4Uw?oc=5",
-      "published": "Tue, 04 Aug 2026 04:23:21 GMT",
-      "summary": "力積電、華邦電、南亞科、旺宏…記憶體第3天漲勢繼續，外資只剩它沒買超還大賣！力積電漲停原因曝光  今周刊華邦電3顆紅燈照亮記憶體！力積電跟進鎖漲停 分析師曝多頭關鍵  Yahoo股市華邦電(2344)、南亞科(2408)、旺宏(2337)第二根漲停穩了？記憶體股只能挑一檔挑誰，杜金龍2理由喊選它  今周刊蘋果也缺貨！記憶體股持續轉強 4要角重返月線、外資喊南亞科上580元  UDN56萬股東笑了！華邦電強彈築底 最大功臣是「它」  自由財經",
-      "source": "Google News Global",
-      "display_time": "08/04 12:23"
-    },
-    {
-      "title": "00685L、00919、0050全上榜！台股ETF受益人7月增124萬人續創高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQR0tFUF9sVTl5LW1TMWkxSXhuejNqekRsd0M1ZEJleFdxSmFvWmVMYUJaQWoyWHAwb0JaZTEtMlZJV09nTDNNS2lqR0RtLUw1NHhuVVJMV1Z4TTdaM2xLUHFPRG9sNElhUUxMRlBrSnVYbUpoZlF3MjhScFBjUmpNU0VYUnp4RjlrRW5RbXRHSjNqWmZrakxrTFhOQlBpNjNvNE02OTV5bHdzWlhCSXNBWktFc2hqSUFGS2d6WEs0NDRFdklSbVZNYmt2NGVWY3ZSQnA4Z1BWLXdycWtTUXNIc05OSjZKM3ZYczRtYnVWbGlEWUdwSjE3U3NHY3pKZU1QRk14WjJPOUJ0OVVuTXZINjRLU2RSUzZndlgyODgzbUliYVlWRzN0bHJBR25MVjlFZkp1bENVaHhDSWlrZGN0LUZjZ3o4TjNqNkIyN0NmcUQ?oc=5",
-      "published": "Tue, 04 Aug 2026 04:01:11 GMT",
-      "summary": "00685L、00919、0050全上榜！台股ETF受益人7月增124萬人續創高  Yahoo股市史詩級倒貨來了？外資爆買6檔主動式ETF「這檔」2天瘋掃49萬張 卻狂敲「反1」9.1萬張  Yahoo股市台股ETF受益人數達1854萬人創高7月增124萬人| 證券  中央社 CNA越跌越買！ 7月投資人狂買這3類台股ETF  自由財經主動式別亂選！它上市1個多月績效贏00981A、00403A 達人曝「沒有踩雷頎邦」原因 - 基金  旺得富理財網",
-      "source": "Google News Global",
-      "display_time": "08/04 12:01"
-    },
-    {
-      "title": "川普堅稱美伊正談判 若沒協議伊朗會面臨「斬首」 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tdlZkLWwweDBOYWNUY3VTeE5jOHRQTWZLM0FnOVhQN25GX2ZJbHo1UGZXdU9WR3NGQ1BkR1p3MTBOV0dxWXlGTm5tQnRFS0h2SW9TY1hyVmdrZ3pnTzcw?oc=5",
-      "published": "Mon, 03 Aug 2026 21:23:00 GMT",
-      "summary": "川普堅稱美伊正談判 若沒協議伊朗會面臨「斬首」  中央社 CNA斬首前的最後機會！川普稱美國與伊朗正在談 今天或明天會有進展  UDN不願再陷入葉門泥淖 沙烏地王儲勸退川普「全面出擊」伊朗幕後真相  Yahoo新聞美伊戰爭最新消息》談判停滯川普嗆斬首前最後機會伊朗、美官員雙重打臉- 國際  中時新聞網美伊和談歹戲拖棚：德黑蘭打臉川普「沒有要跟美國談」，專家分析伊朗底氣何在  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "08/04 05:23"
-    },
-    {
-      "title": "外資空單驚爆90,038口新高 台股月線蓋頭反壓法人釋大盤重返多頭訊號- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GVnBldEZ4c3ZvMWpMaHVjQjR4N3BYX3R3NU0xeGtYcmlGYl9Eek5rOHowcHFCTDVCb3paM3YxREVGODI4NUlPdjhQcU1WTVpEU0JJSjhLZ0ptSXp5eFVn?oc=5",
-      "published": "Mon, 03 Aug 2026 19:00:00 GMT",
-      "summary": "外資空單驚爆90,038口新高 台股月線蓋頭反壓法人釋大盤重返多頭訊號- 日報  工商時報【Follow法人】台積電遭外資提款288億元！彰銀賣超3.7萬張居冠 金融股成重災區  Yahoo股市誰在買？上市櫃漲停家數近80家 但三大法人僅買超1.1億元  udn外資轉賣超187億元 期貨淨空單首度突破9萬口 瞄準兩族群提款15萬張  news.cnyes.com台股反攻劇本拿不穩！投信逆勢豪砸252億元連買 網嘆：大哥真的好有錢  Yahoo股市",
-      "source": "Google News Global",
-      "display_time": "08/04 03:00"
-    },
-    {
-      "title": "美伊協議傳接近達成、企業財報報喜！道瓊期貨勁揚600點 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15NU1Yb1FRMUdYZUlQNktSNFgyLW1hcVI3Q1RWa285SzNZdThQYmRzVUtyYXozVXJWUXkxRHdWMUZhOWdrU1VxV1ZfMG1TYTQ?oc=5",
-      "published": "Tue, 04 Aug 2026 12:24:49 GMT",
-      "summary": "美伊協議傳接近達成、企業財報報喜！道瓊期貨勁揚600點  news.cnyes.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "source": "Google News Global",
-      "display_time": "08/04 20:24"
-    },
-    {
-      "title": "黃崇仁治喪張忠謀任主委…兩人交情曝光！曾說Morris是老大：力積電能活都他幫我！遺屬發聲「明年定要配股」 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGRTMk1xUlRwX0swRTA5bTdJd3BwbEZGMldCU1NZUWZNV3R2V19sVEJzcUpEZERCUnExM3BVTTdJRFlLSEdOb1FScWxSeDc1Wk9zVnNKN2FCa3g5TEd6aHVvdzlnRmNwa3lkYlRuanlURnhEd185aGQyWTFMbHBDNg?oc=5",
-      "published": "Tue, 04 Aug 2026 09:00:00 GMT",
-      "summary": "黃崇仁治喪張忠謀任主委…兩人交情曝光！曾說Morris是老大：力積電能活都他幫我！遺屬發聲「明年定要配股」  今周刊遵從黃崇仁遺願！力積電獲利續增 謝再居重申：明年一定配息  Yahoo新聞〈力積電展望〉朱憲國重申「三個不變」 下半年每季營收估雙位數成長  news.cnyes.com力積電未來半年營收拚「月月高」　謝再居：下月董事會有望討論分紅  ETtoday財經雲台灣力積電創始人黃崇仁去世  日經中文網",
-      "source": "Google News Global",
-      "display_time": "08/04 17:00"
-    },
-    {
-      "title": "不願再陷入葉門泥淖 沙烏地王儲勸退川普「全面出擊」伊朗幕後真相 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPQTJkWnBCa2ZBXzFaX21KSGlvbVVneU14YlpzaTNmSGxpcUstNC1FVGtfLXNuVl9xbGpYaGJMSVJCYzZEbTAzMlRfMHR4SEpSWFJiRUptWVdRVnBZSjM5VFFYNkdfM0d4eFN2WlNMbTViY3dZNldNdTNFLWFmSVdBTGV0VGRPZWRCNXdYN2w2WFpPcVJOQWFjQWpEVUtBbFRTZ21zZVZoYmRLcTlXUkVTZkVYaWpILWh2RmVJTld3bFluWmtaa1ByQko5cWtUYjNwTFpCUlNvalllRW5wbzdaTWZXVmhwbkpfeUZXSTBPSTRES1lRWHdXbGp2YVYzb21FbjZ2aWJvc3g0Y0NXdHhUaFlhVmZqZUN1UWl1OGstNnVncmhrMWN6T3NUR3FFZFpGeF9rcGViWHJnTXBOdFZTQzdnQUNJZlRYaUVnUlhBQUZuV2RpU1NENkJXR2xVWGRiTEpCMVdoZ2JzXzlldXIwQk4wZ2p1NWtWcW1VdGJXTW1iRktpRDVnYmFZd042a1BrWFF5OE5zSGZHR2dGQTNPMjhWMlMzLWc?oc=5",
-      "published": "Tue, 04 Aug 2026 07:13:24 GMT",
-      "summary": "不願再陷入葉門泥淖 沙烏地王儲勸退川普「全面出擊」伊朗幕後真相  Yahoo新聞貝森特：荷莫茲海峽或許會在今明兩天開放油價應聲下挫| 中東戰火連綿| 全球  UDN荷姆茲將重新開放 貝森特：周二或周三「行動自由」道瓊期指大漲  自由財經油價警報要解除了？貝森特：美伊最快兩天內重開荷姆茲海峽  news.cnyes.com美財長貝森特：可能今天或明天就會與伊朗達成協議 重開荷姆茲海峽  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "08/04 15:13"
-    },
-    {
-      "title": "世界先進看好AI電源管理需求估Q3毛利率續升新加坡12吋廠明年首季量產- 產業 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTUlpFTjFzZ3JZQWVaZnZUVGw1T2c4Y1djb3NNNGxYVS1iWDk2NXEycHhXdTA3Q3hDMjRNeTEwc3RjV2JXMXh5SU9KZDdYOXp0MVhPekVvbUQwTDAzVE1J?oc=5",
-      "published": "Tue, 04 Aug 2026 07:05:00 GMT",
-      "summary": "世界先進看好AI電源管理需求估Q3毛利率續升新加坡12吋廠明年首季量產- 產業  工商時報世界先進Q3量價齊揚、毛利率上看34.5％　方略：2027年漲價無可避免  ETtoday財經雲世界先進新加坡12吋廠良率突破99%！2027年Q1量產，方略：營收、獲利貢獻將提前顯現  Yahoo新聞世界明年漲價幅度不亞於今年；VSMC進展超前 - 科技脈動 - 新聞  MoneyDJ世界先進董座方略：2027年價格調整「無可避免」 漲幅不會比今年小  自由時報",
-      "source": "Google News Global",
-      "display_time": "08/04 15:05"
+      "display_time": "08/04 15:59"
     },
     {
       "title": "美對台軍售有譜！ 美議員：相信川普很快追加140億美元裝備 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdE14eWx6RHdYU2ZvLVRNUXM4VW1vRk1LQ1FiUUtrZzEwRl9RMUNMUnkxRHl1UXVta2VIdFlLY3o0MFkxNnBMNmF6aHVxc0tB0gFWQVVfeXFMTi1rSmJxb1MzcGVJZDVId3NmQVpXQzhzSU0tLXd5Z3owZXM4ZXFvdm5tZnJsVUVwMEVCbGtvVXZoSWg5MDJxc1A4dHRCQ2RKQ3JfUjNZSkE?oc=5",
       "published": "Tue, 04 Aug 2026 06:34:58 GMT",
-      "summary": "美對台軍售有譜！ 美議員：相信川普很快追加140億美元裝備  UDN指川普將提出140億美元對台軍售 麥考爾：西方牛仔終將戰勝東方專制巨龍  Yahoo股市麥考爾榮獲授勳章 台美情誼永續發展  中央社 CNA總統贈勳表彰美國眾議院外委會榮譽主席麥考爾 盼臺美繼續並肩前行 攜手守護和平、共創繁榮  president.gov.tw麥考爾：美國對台政策不變 新一波軍售很快會過  rti.org.tw",
+      "summary": "美對台軍售有譜！ 美議員：相信川普很快追加140億美元裝備  UDN總統授勳麥考爾盼台美國防合作走向共同研發生產| 政治  中央社 CNA賴清德授勳 麥考爾透露：川普很快將提送國會140億美元關鍵軍售案  news.cnyes.com林佳龍午宴美眾議員麥考爾 盼台美共助夥伴國提升韌性  rti.org.tw總統贈勳表彰美國眾議院外委會榮譽主席麥考爾 盼臺美繼續並肩前行 攜手守護和平、共創繁榮  president.gov.tw",
       "source": "Google News Global",
       "display_time": "08/04 14:34"
     },
     {
-      "title": "台股處置股新制震撼登場！投資人反應兩極 有人虧：改一半很87 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOWjF4UDBUYlZVN0RSdlBMU2xTTVU3TWFadXhpU0hmYVB0MzRobG5QRmt6aFU4bHhheEFPRzRPNHM3bjhjNTRwQks5c1NWNDdSOGlncW1qQ0dkdmJPMzdhOUs4dXIyUW5BWWZqRGQ0NEs4M3ZZQ1pETkI0WElpY0g0eDBnczdYMFY3SkxEakh0VS1waUZtbWhnUnNraF9VbXhFUHllenFyVmVKRW5ZSDUwTTJzSlJnNnh2X0VrTnF0M3U1OWpLdlZrckpuSktrVEpPakpseW5GbVpKQTlOTWM3TTRSMGxjR0kzLVZYUGNVdUJLT1ZUR3A1eldURVE0OG9DRHNUSUIxMTA1NHdBbzBhUmllYklWWG5GRjJLZ0dfUlhIVlBfWTJvdGdJTFcxZHlvU1pYQWhfVF9DZWJWQmRYc2g1Wl9GWVFFUXhmdWt3TDF4RWlxX28yNy03NzR3ZTl4UTZ1MFFYY25QVzhXSS1HVXk2ZlI5cmR6bzE0?oc=5",
-      "published": "Tue, 04 Aug 2026 03:00:12 GMT",
-      "summary": "台股處置股新制震撼登場！投資人反應兩極 有人虧：改一半很87  Yahoo新聞處置股新制下週上路！專家分析利弊「三好兩壞」示警散戶1件事千萬別做  Yahoo新聞懶人包／告別20分鐘窒息量！處置股票減至5天、2分鐘撮合 新舊制對比圖解  UDN20260803 公視晚間新聞完整版（無網路版權內容除外）｜有價證券縮短處置期、撮合時間新制8/10起上路  公視新聞網PNN矽光子股先進光「抓去關」　明起處置到8／13  ETtoday財經雲",
+      "title": "鎢鋼大王陳屍自家豪宅！雙手遭反綁、頭部重擊慘死 凶嫌抓到了 | 張庭維 | 新聞 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MLWRjMVJqaE55LWg1WGFLaDBQemkzZTlXVVQ3cTRnYkVBWTZLczBvNDMxOEUwU1FZeXRQV2tDbkNyR1k4Q2xlNnBhYjY0QQ?oc=5",
+      "published": "Tue, 04 Aug 2026 03:58:55 GMT",
+      "summary": "鎢鋼大王陳屍自家豪宅！雙手遭反綁、頭部重擊慘死 凶嫌抓到了 | 張庭維 | 新聞  風傳媒原本關係佳…離職員工欠債「夜闖豪宅行竊」 屏東鎢業董座慘遭殺害  UDN屏東董座命案逆轉 前員工想偷竊變情殺? 爆與10女曖昧  Yahoo新聞殞落的「亞洲鎢王」！獨門再生技術驚豔業界 揭密半導體與國防的「戰略心臟」  自由時報屏東貴金屬董座遭虐殺！離職鐵工「膠帶捆屍」原因曝光　犯案後照陪妻小  三立新聞",
       "source": "Google News Global",
-      "display_time": "08/04 11:00"
+      "display_time": "08/04 11:58"
+    },
+    {
+      "title": "科技股強彈帶動全球股市，半導體迎AI新商機-財經焦點情報站 - cmnews.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHlvRHF5Uld3V3JuTEExSnVVRnZxaVNEbTB5MlJ6QUp2eG93RkxOdFlQLVNJUDAtWnYzXzRpRFp3V0JmREwtd3daUjFwVGVUeEJsczMxZXI2dDdTQy13MnN3d3BQLXQ5LUJhczNGc0hKdkMtQ1VaUVc3bVVDTzdlSm9R?oc=5",
+      "published": "Tue, 04 Aug 2026 02:52:39 GMT",
+      "summary": "科技股強彈帶動全球股市，半導體迎AI新商機-財經焦點情報站  cmnews.com.tw",
+      "source": "Google News Finance",
+      "display_time": "08/04 10:52"
     }
   ]
 }
