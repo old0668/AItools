@@ -1,229 +1,37 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "news": [
     {
-      "title": "台股重挫755點守住4萬6 專家曝美國CPI是短線小關卡：「它」才是真正大魔王 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQVE1mX0JGcWJ2WTBNWWdaWU4yMmRFUTJfS3VvMmRLMnM4RDFVUzFGRGZhbzUwZjlEeE5MR3gwU1FtOWx0TmktcFh5eWkza2J0d1Z2OWFxXzlBS1pBbGFsSkdyZllxWV9YOVFRRzlralFmUENmSmg3RjZPQWtVX3FnMklmcEZ1cTcxMGtDT1VWTDRwVTdZY2ZXR3JuVFZKeW90eGRvVDhGbkN0emU1dFpfV01tX3BRSlU5S1pnMV9FXzAxc3NlMm8xQUVtYTBWSHVRcWZoWlVPRm0wb3haZE9LX2RubTUzMDB4LXBVdWhWTmFSV1kyVldBbFVPM1lyR2lkenFhZnB5ajlob29xZHM1LVBvWW9DRUpsdm01dDhuQUdUT29uenBKdGlLbG5XUC03cnBQZW9IUDVyZkQ5dnh5M2dybmZtSzBlSVRJdWFhR3o4eHRWempxMzlfS19nVEthS1ZYM25vSk9pR215NHRweU1OZVBUdXd4NnE5UFJaTmplcUZRWmI0OTlzMVNJNUNRcWZLVWNFaHctaHF6LUx1QzFGWEhNZw?oc=5",
-      "published": "Fri, 11 Sep 2026 14:57:44 GMT",
-      "summary": "台股重挫755點守住4萬6 專家曝美國CPI是短線小關卡：「它」才是真正大魔王  Yahoo新聞台股將再度崩盤？專家曝撐盤全靠「2族群」示警了  Yahoo股市台股外資狂砍 打46K 保衛戰 國家隊即刻救援 低接台積電、世芯等半導體股  money.udn.com外資不演了！屠殺「這檔」10萬張　65萬股東隔著螢幕哭暈  三立新聞台股慘遭血洗下周一快逃？專家拆解CPI「2大結局」 大魔王在後頭- 財經  chinatimes.com",
+      "title": "中國鬧脾氣？日媒爆川普若批准對台灣軍售：習近平就不訪美了 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNLUkwSVNGS29NMV8xQmJQOVlkS09KTjZKVGhxek1nMWJ6VWFNS0hGN1FnMTZPN3ZveE1NazFOSU9nSmxLUTM4TmNUcVJ4NUptVGMwNGFKVWFOQVNrUmtlWlZYVkhCV2pIMFFOb2lyNVBnelVGUzlLV0t3WE9LODlrMEthNjlWb3VXLUhCSm10RjFUTF9VbFI1ZHFoQ1Bza19kSE40NTdNZE5sWlBTQkxTR1AzSE5FLUJ4YzZBTHZkdVgzOXI5ZE5US1N6V1Y1bE1naFFMM3lPcGtxTmZRb1FSRnNRX2FIREZZc3ZLX3UzcVVsNEVlWHNiOTdOZnA0bmRSUmNKLUYwLXlzNDN6WTA5bEU5a2ZRSGY2dC0zS25jdExQU3RzOFVJdkpIWWZZeTVkYmxLb1BzSWJnbGZ0cC02U2tKOGlUQ1pMdWFVY21WdTRIbHp5M1UtZkU0ajRqZWRIb1VkQVFELWhiMElIckRYWVdpRXpCWE1iUGNvekZOZ2lqY3RjUTNRZlNzNFJDZw?oc=5",
+      "published": "Sat, 12 Sep 2026 10:15:00 GMT",
+      "summary": "中國鬧脾氣？日媒爆川普若批准對台灣軍售：習近平就不訪美了  Yahoo新聞川習會倒數！日媒曝習近平祭「取消訪美」牌 施壓川普暫緩對台軍售  Yahoo新聞共同社：北京威脅華府若批准新對台軍售將取消習川會| 國際  中央社 CNA中國要求川習會前不要對台軍售 否則取消習近平訪美行程  自由時報川習二會將登場 陸學者認「台灣問題」仍重要：促達成更多共識  UDN",
       "source": "Google News Global",
-      "display_time": "09/11 22:57"
-    },
-    {
-      "title": "美國公布8月CPI「符合預期」主要指數強彈！道瓊開飆600點 台積電ADR、台指期夜盤齊揚 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQa2FxQjE3VzJMalJFVTFyUWxNNmRlY1N6TU9jVzBfVWtrTDJqcVdyMXZ3WEQtUHNHNWtaWTBRcVlqOHVzMEhVRzFZRmlJcW1pMFJvS0IwcGJKQm90T1N5eUxJTUhCUGJYS0dUVDFISVF5LV9jQkdoUkZqcXZHbC1uanVhUFVMV1NFVUExd3ZRdDBSTUhWS3J3UkdFc0tqd01obnJZeHhLcjkxZURKOHIzZWROTGtCaWhyemZUSWFZRDJQYWpiVHhKX0YyVkpEMWMwQVZ1dmtDTnJzLUJuTjBBd216QnV3TGlldG9wVzAyVE9WQWRILUFMMUZCajQ4dkFSVGUzQVFGN1VXSFpjbGxLMVRHNzhVSVhmdk4tNGFuZXhCRm9NeEUwTmRxVy1hTk1LZEdmLXNPU3RXM1pBSTU5amk2S2ViclF4NGVfYTVyb0ZNaFkxVlhQY2dHRHFvZjRUX3FmWGhFTHlSeC1NS2lTUlhuazgtZ1BUWnI2dXl1N3VTQQ?oc=5",
-      "published": "Fri, 11 Sep 2026 14:22:00 GMT",
-      "summary": "美國公布8月CPI「符合預期」主要指數強彈！道瓊開飆600點 台積電ADR、台指期夜盤齊揚  Yahoo股市快訊／聯準會升息機率破9成！四指齊漲 台指期走揚  Yahoo新聞通膨升溫！美8月CPI年增率3.4％ 貨櫃航運旺季提前  udn.com快訊／美國公布CPI「美股強彈」！道瓊漲逾600點　台指期同步走揚  ETtoday財經雲聯準會陷兩難賽局：升息治不了油價和關稅，如何在長痛與短痛之間抉擇？  TNL The News Lens 關鍵評論網",
-      "source": "Google News Global",
-      "display_time": "09/11 22:22"
-    },
-    {
-      "title": "台股大跌755點！AI休息金融股接棒 股添樂點名「這類股」默默大噴發 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kTW9ocWVTTy1MaEJWajFVdDJnak1Da2F2UnZJZVZXTkpQYzRWM2ZWdlhpZVZ0NXVqdk14QktEZGNoaDlFdm5mQ3ZRUQ?oc=5",
-      "published": "Fri, 11 Sep 2026 10:34:58 GMT",
-      "summary": "台股大跌755點！AI休息金融股接棒 股添樂點名「這類股」默默大噴發  三立新聞",
-      "source": "Google News Finance",
-      "display_time": "09/11 18:34"
-    },
-    {
-      "title": "習近平七年來首次訪印的三大看點：西藏問題、中印回暖與美國陰影 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1MzNMNVRpZkNPYVFCTWczSFZDSFNUWXN0d0NLTkljVjBwS2VuV3NTU1B3ZE1paERmMExMZEJxb2tSdUp5eDNlZk5SZVFpaFZMM0t0blVUX0IzZ0I2Ti15d3lwYTNZZ9IBa0FVX3lxTE1GN3VjajFjLUlTdndqM2V6c090SjEycEMwc2lwNkFLT2wwd2wzb1ZVZTlfOEkzWFV4UkdoQWd5UWdhbGJnaWxaNUdVcTZydjhpVW5KSXFNS2dTTmwzNWVHN0N6TjlOTDJNb1V3?oc=5",
-      "published": "Fri, 11 Sep 2026 10:11:53 GMT",
-      "summary": "習近平七年來首次訪印的三大看點：西藏問題、中印回暖與美國陰影  BBC德語媒體：中印關系回暖 特朗普功不可沒  Yahoo新聞俄羅斯與伊朗領導人抵印度 戰爭陰影籠罩金磚峰會  rti.org.tw金磚峰會推習莫會 普丁抵印  中華新聞雲／中華日報習近平訪印前 印度證實雙方已在東段邊境舉行2場將軍級別會晤  udn.com",
-      "source": "Google News Global",
-      "display_time": "09/11 18:11"
-    },
-    {
-      "title": "AI扛台股！8月證交稅540億年增94.5％ 連13月正成長 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80MWtTU0hMR0RhclIwclByNVo4V1d1SEIzYWZqOVdwSmxIQkpTWmdJX1FVRDlHYXFCZjkwU09QdzlMUlVvMWVJMnZaT3JsLVpBNFN0SklnZUJNVnJrVzdQTkIybUHSAWRBVV95cUxPNDFrU1NITEdEYXJSMHJQcjVaOFdXdUhCM2FmajlXcEpsSEJKU1pnSV9RVUQ5R2FxQmY5MFNPUHc5TFJVbzFlSTJ2Wk9ybC1aQTRTdEpJZ2VCTVZya1c3UE5CMm1B?oc=5",
-      "published": "Fri, 11 Sep 2026 09:20:38 GMT",
-      "summary": "AI扛台股！8月證交稅540億年增94.5％ 連13月正成長  自由財經",
-      "source": "Google News Finance",
-      "display_time": "09/11 17:20"
-    },
-    {
-      "title": "連丟戰略要地沙國2次急求援都被拒絕了! 川普政府稱目前無意打擊胡塞| 國際 - newtalk.tw",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WVlObmFXT1cwQ3pxUXZidm4tQWtKazJhMjJyMU9XMXVqYXBYWmREY1RucXBlY3VDbjZtOWFGemE0Tk53aG1rc3EtekwyMkt5cE11MGhlSzVXalE?oc=5",
-      "published": "Fri, 11 Sep 2026 07:59:23 GMT",
-      "summary": "連丟戰略要地沙國2次急求援都被拒絕了! 川普政府稱目前無意打擊胡塞| 國際  newtalk.tw葉門叛軍進逼曼德海峽！逾百人美軍顧問進駐沙國支援｜金磚峰會登場！中東衝突恐成核心裂痕｜2026/09/11 中央社全球晚間新聞  cna.com.tw20260911 8點新世界完整版（無網路版權內容除外）｜葉門青年運動攻占摩卡、伊朗勢力逼近曼德海峽，紅海石油出口將受影響  公視新聞網PNN紅海航運危險了！胡塞攻佔曼德海峽咽喉島嶼  Yahoo新聞紅海掀美伊代理人戰爭：伊朗再掐能源命脈 美憂另闢戰線拒不接招  udn.com",
-      "source": "Google News Global",
-      "display_time": "09/11 15:59"
-    },
-    {
-      "title": "台股跌破4萬6200點 收盤重挫755點 台積電跌40元 - news.nextapple.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3lLR3AxREFzNWtlRzNQb1BZSHhyNWlubVljX0lDUE9zN2EtdDdMRUdZSVM1UlNjNkxYVXVOWnJOc2liaEJuY2p4dVhYbjVRTUxvdHBZOU5WS3MwSmdiVnZaM2VIQU5iOVhnWmFrTW1YY25ZWm9XbkhnZTN2RUhsaUx3?oc=5",
-      "published": "Fri, 11 Sep 2026 05:35:00 GMT",
-      "summary": "台股跌破4萬6200點 收盤重挫755點 台積電跌40元  news.nextapple.com",
-      "source": "Google News Finance",
-      "display_time": "09/11 13:35"
-    },
-    {
-      "title": "台股為何又跌？專家曝關鍵：非看空AI、接下來持續高檔震盪 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qd2RpaHIyUl95dmNSZ203LWc2NW1vdUc0eDgyeVhFcl9BZnAxVUZkSXFiZnk1LW5NZldtNWlDaGxvQW9LVVlFU2w0Sk9qV2s?oc=5",
-      "published": "Fri, 11 Sep 2026 04:41:00 GMT",
-      "summary": "台股為何又跌？專家曝關鍵：非看空AI、接下來持續高檔震盪  TVBS新聞網",
-      "source": "Google News Finance",
-      "display_time": "09/11 12:41"
-    },
-    {
-      "title": "村田發停產通知 別只看台廠有沒有轉單 MLCC產業恐迎來大變局！ - ctee.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vYkhxVWlFcjh3YTNicnJ0cFg2RExvRXBKaVZKU3dLS3RUWm0tSHpqMTR5dmRaWEVORWRfU1dtWDV1THp4bndyYU5sQURHOUFwcTF6VnVuczR1MnJFQUZR?oc=5",
-      "published": "Thu, 10 Sep 2026 19:00:00 GMT",
-      "summary": "村田發停產通知 別只看台廠有沒有轉單 MLCC產業恐迎來大變局！  ctee.com.tw村田MLCC停產效應？「這被動元件大廠」明年EPS喊上27.53元 目標價曝光  Yahoo新聞國巨、華新科 認購亮眼  udn.com村田停產 台廠被動元件18強  三立新聞村田停產通用型MLCC 台廠喜迎轉單  自由時報",
-      "source": "Google News Global",
-      "display_time": "09/11 03:00"
-    },
-    {
-      "title": "美債殖利率飆升逼近5%警戒線 「這類公司」恐受牽連成最大輸家 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPYkUwRnBEVEpDb1gxeE9pZVN3THk2blQyLUQ0anpROTJMdUpYVWVvQnkzM3NDLXZZRFVnazVaR3dFTVUzNW50aW92ZUZzd2x1WXQyMVVWZXpKR3RNdmgzMnlsQ2h4MDBaakxaaWVKVm9FSDg4d3FTb1Jwc3VLYUZsR1hVblNNQkxZbmpWUkFWcG1GT1lzdW9ydWhZUTNkeVVQOERkQ0FrQ0JRZkstS3E5MzJENTFTU0FWeVJZdFBRWEZpaGUyaklvQmJWNzVleXhZajVLcFJBTThrRU9BTU00XzJSNTF1bEZobDgxa2JaazBDeWtMZEIyOFlvVEhVV0NuR0JWaWN3UUMxVldPeGU5RTJSUnhDcjY1ZWtQUEk3eUNPWkQ5eGlFazByc2lhZGF2emg2cEc2QlZZNGtPNU1JSk5oOVhDTlRQVW1iNlNpWkhNVTFyNDFWU0xha1RsMjZ3M0lwanFQVFBUXzNEVjl2NkhFUDRZWlhaYW5GQ09CMWhTUjdE?oc=5",
-      "published": "Fri, 11 Sep 2026 20:33:00 GMT",
-      "summary": "美債殖利率飆升逼近5%警戒線 「這類公司」恐受牽連成最大輸家  Yahoo新聞美債5%魔王關要破了？油價狂飆引爆全球債市風暴  news.cnyes.com4重壓力醞釀完美風暴 全球公債拋售恐引爆升息潮  自由時報MoneyDJ新聞 2026-09-11 07:58:21 郭妍希 發佈  MoneyDJ美債殖利率高掛原因找到了？澳盛：亞洲賺的貿易順差資金選擇有別以往| 全球財經| 全球  UDN",
-      "source": "Google News Global",
-      "display_time": "09/12 04:33"
-    },
-    {
-      "title": "華許躲不掉了？美國8月核心CPI超預期月增0.3% Fed下周升息機率飆破九成 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNZTZUUU1yS1c5Mzhjc1pCMFBWZXN4aHI3ZmxDdjVFVXVma1MtOW52RDRTdUprNEl5dnhDdndRUlZtNWYyc1B1M0tqb2hjY19ZRWc3UGtROFBKajZDU0dWNm4tOHFRWXBpWkFQV0Nkai1oTzgzVGJmMk9iS3I2bFNBN2ptb3hLSzBxSkV1NHNVby1NY3ZxcjlxU3hOV1kzMzBDRnZPVVBSbHlZVzRBbE1pc1Z0Yzd2cXJURHY4WGVjR3lyZ191d0pveFdheUhham9RWmRta0dpUFl6bkh4bHNKOG5Va2Z1enBOZFk0dTE4VEVLY1hGQmxlcVdydzlCVTMwOUk2UXlGdmlQQm9wOFl0UW9PMk53RHU1MHdEaDdSczRFa2RmRFhySVEwUXVZX0hPakg3cUp3cnZtcVdxaExoajlMQ1JTTmpPTXVkYUx2MFE2YllvN3dJbFRwZXY0UzBCMnVCVU15QTFMZlRUaXFwbE0zX29pNjV2SFVwd0pGNDlvTGVDNWsyN09UNFRIaE5zRkJaeENEa0MweGVJWHNzSmZGTQ?oc=5",
-      "published": "Fri, 11 Sep 2026 12:35:36 GMT",
-      "summary": "華許躲不掉了？美國8月核心CPI超預期月增0.3% Fed下周升息機率飆破九成  Yahoo股市Fed升息幾乎成定局反而大漲？美股接下來才是真正考驗  Yahoo股市「要嘛行動、要嘛閉嘴」火熱CPI逼華許兌現鷹派承諾 Fed下周升息箭在弦上  news.cnyes.com伊朗戰火推升能源成本 美國生產者通膨超出預期  PChome Online 股市聯準會陷兩難賽局：升息治不了油價和關稅，如何在長痛與短痛之間抉擇？  TNL The News Lens 關鍵評論網",
-      "source": "Google News Global",
-      "display_time": "09/11 20:35"
-    },
-    {
-      "title": "重開荷姆茲海峽有譜？波灣國家傳下周一會晤伊朗 討論航運協議 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEOFFyOC1HMC0zQUJQNFpaWWVkOUtRNkxIckJEUFM3T1dvTld5eDZFOTl6Nm9ZRk9JZ3FjbzY5TEhIdlNaZEJsYXpnSUx3dDA?oc=5",
-      "published": "Fri, 11 Sep 2026 08:40:02 GMT",
-      "summary": "重開荷姆茲海峽有譜？波灣國家傳下周一會晤伊朗 討論航運協議  news.cnyes.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "source": "Google News Global",
-      "display_time": "09/11 16:40"
-    },
-    {
-      "title": "AI把IC設計業績捧上天！全球十大營收年增73% 聯發科居第五、台廠3家卡位 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQYWJ6cWttSFJPSnJrUzJnTVZ0TTVUTHJ5eEZhcUhhWXFxVlJ6Y08xWHhNeVVSOXlWVy0yYTFSMGJ1UlJGLTJMYlREcTBmeE83bHh6UkRKVmdVcHVMaWhhUmVlVDZ4Y2t3eXNkOEN6Rm5rVDc0TVd5Unc3alV3LWkwY0ViMVhKWlZINGJYZnBJUGxmM2NTa3BIVk00aGY3QUFFLVd5VzhJdDNFZjRHOFlaSjhmWTl5dFMyM25zcnRWRU40SVUtX2FfQjFDQXllYjVpQjRxVGZ2V2diTWtrblFpQktFMTlLR2poRFppNmxNXzlneTc5VWFRekZLZjlwNnBQSUdVWmJaeldURUo4cnM0anZpaHN6YjNRMGM0RFE5bTBmcEM5SUQxUGFOOFF2RHJRTlFaZkZGOWxJeHByOHQ0cm13M21LNk9ZUWVNeVBGLU5NcXFISXJFdFF3VnlhRkJfVk4wM2E4QkJ6VC12RURqTzhFaU90ZnhsMUNCbDVIcVJ6eF9NMVNIaGVwVDU?oc=5",
-      "published": "Fri, 11 Sep 2026 08:00:10 GMT",
-      "summary": "AI把IC設計業績捧上天！全球十大營收年增73% 聯發科居第五、台廠3家卡位  Yahoo新聞集邦：十大IC設計廠Q2營收年增73% AMD擠進前三- 新聞  MoneyDJAI催旺IC設計 集邦：前十大第2季營收年增73% 聯發科、瑞昱、聯詠上榜  UDN全球前十大IC設計！ 輝達奪冠佔6成 聯發科、瑞昱也上榜  Yahoo股市全球前十大IC設計Q2營收年增73% AMD擠進前三名  news.cnyes.com",
-      "source": "Google News Global",
-      "display_time": "09/11 16:00"
-    },
-    {
-      "title": "台股下跌774點！貨櫃三雄滾量急拉 信昌電、華容也衝高 - 東森電視",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aRk53MVZnSWFiYnVXMjZaVHg4THhiVS1Xam05MTNmdVJWZk9lWlplM3BxQTJvaHdnOWQ4WHVVTU91M2hsanRvaEpjYW5hMl9zOC1QNHhR?oc=5",
-      "published": "Fri, 11 Sep 2026 01:12:00 GMT",
-      "summary": "台股下跌774點！貨櫃三雄滾量急拉 信昌電、華容也衝高  東森電視台股將再度崩盤？專家曝撐盤全靠「2族群」示警了  Yahoo股市盤勢分析》利空夾擊 提防短線回測月線  自由時報把握恐慌+大跌的甜甜價、大立光、國巨、華新科、建榮  news.cnyes.com台股量縮跌755點險守46K 這檔無人機概念股殺跌停10萬張賣單逃不掉- 證券  工商時報",
-      "source": "Google News Global",
-      "display_time": "09/11 09:12"
-    },
-    {
-      "title": "油價下跌！美股4指數齊漲 費半強彈1.8% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOY0hKVy0ycmVtd0hBN2YzUTNaWWFMTXpuNmtza2FjN3ZQSFppVXh6US1TT1FPZnJ6THpDbVFyUjYwbENlR1h2RFFfYUNITGo4U3hsSmdjNXlpRTNwYkVhT1hxYjJ0R0diaGxjSDBOOE1odE40YU9fNnlSWHJ1RlhoSktObUE2N0JVLUFWM20tX3kybkNMc09oa1RreDdBTnVuXzcxNGtHYzRZUVNJemI1c1hoQmtqTC1mVFdZUEFRaUpwVzEyVGxPeTA5ZVFkMFNIM2hGNWdHS2M3d24wRkZwZTNSeG5vNm5VTnNWUkpWUWs5UHBuemFVbVZNckxjZXhfSmxCajJ2MjZUY1U?oc=5",
-      "published": "Fri, 11 Sep 2026 22:19:05 GMT",
-      "summary": "油價下跌！美股4指數齊漲 費半強彈1.8%  Yahoo股市油價回落、華爾街看淡通膨 美股擺脫連4跌  Yahoo新聞〈美股盤後〉CPI揭曉 Fed升息機率逼近九成 油價回落助美股終結連4黑  news.cnyes.com台股盤前／台股下週一拚止跌！油價回落美股狂歡 台積電期貨盤後漲18元  三立新聞美股收盤》連4黑止步！道瓊強彈509點 台積電ADR漲逾1％  ec.ltn.com.tw",
-      "source": "Google News Global",
-      "display_time": "09/12 06:19"
-    },
-    {
-      "title": "美CPI揭曉台股夜盤先殺後拉 升息機率逼近9成市場緊盯聯準會 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNTFBubGxoUVZiYzQ1Y3puazBkMV9TZjFjZVBFVkRtT0F0ZFNFY2dCWUZ4Q1ZZU0pzMHo2V3dGNUpJX3hXMHhtUmVsYzVvdk9EcXN3ZXY3dmlQRGJySTFKNFR5dWhtd1lpTF9GZE8yUzBqaFF4OVlwTVU0ejA0R1BuQU9uX0pnU1RWdTR4UlB2LUR2bUFYT0hyVno5UlByaFRTM0wyaV9CRWdnbTNvbXFaOFd1ZGZYd0dYS3Jmd2tmeUxSZmhmRVpNdno1bmpQTVliVk5TUGVGdmJwNFM0LWpxX2JkVkNQRldMMXlaazByazVpa0U4UUlSZzdGS0pHZVBpZzZ1T2Q2VGxwMlZsY0tGRWlpc1hHOEpMQTdGVm1hQ1Mybmd2UjlycVBWVjluV054TzE1UnJqZDdtVTBIUVRxMk9hTGRhd0hZeG5xQ2UzOXFXQThYbmJscHBEWU9jS2NFNzFDSXlldjVTeVUyRnEza0V1UUhjZG91LUczajdRUHpMYktiN2c?oc=5",
-      "published": "Fri, 11 Sep 2026 21:20:00 GMT",
-      "summary": "美CPI揭曉台股夜盤先殺後拉 升息機率逼近9成市場緊盯聯準會  Yahoo新聞CPI年增3.4％ 華許掌舵後首次FOMC利率決策會議下周登場  Yahoo新聞升息警報大響！　專家：股票不用急著賣  ETtoday財經雲Fed升息幾乎成定局反而大漲？美股接下來才是真正考驗  news.cnyes.com美國8月通膨率停留在高點 聯準會升息機率增  rti.org.tw",
-      "source": "Google News Global",
-      "display_time": "09/12 05:20"
-    },
-    {
-      "title": "911恐攻25週年 罹難者家屬痛批沙烏地阿拉伯：停止說謊 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kRXVIZHI4TmhYT3BGQXR1bGdwMHI0ejlJSlpMN1VMekgtUEhaZVlmYW1naDVYamJZTjJNdENvN2w0c3lCbk5qamFrSkdtNHJM?oc=5",
-      "published": "Fri, 11 Sep 2026 14:33:07 GMT",
-      "summary": "911恐攻25週年 罹難者家屬痛批沙烏地阿拉伯：停止說謊  UDN911恐攻25週年罹難者家屬罕見批沙烏地阿拉伯| 國際  中央社 CNA川普出席911恐攻紀念儀式：那天我們都是紐約客  rti.org.tw倏忽過了1/4世紀 美國今悼念911事件、川普赴五角大廈與會  Yahoo新聞911主謀過了25年還沒受審！ 專家： CIA「這舉動」導致證詞無法被採用| 國際  newtalk.tw",
-      "source": "Google News Global",
-      "display_time": "09/11 22:33"
-    },
-    {
-      "title": "記憶體一片慘綠！三大法人倒貨「這4檔」10萬張 連砍華邦電3刀結帳181億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSlZIRmV0RmNMazc0c292Q2ZZbEFjcG9FLTJGak95dHhjdzVhT2ZQRWw4NXRnQVNKaHBCdUtPYzV1WEROZThLVXJFczVKaURPbzdQYVZJYWxEdzBTUVBVZ3MwX2R2RjB1a3BqNUJKYk8yeTNNQlFtNEJyWS1TTWY1Q1hLbjhGZ2c1eVgzVUE4dmRibHIxaTdaekNjU005NGVBdWxOb0FvRWlUeGF3N0dBNkN6NGVyckd4SXNzRmhsVlRhVWFTM1NRQWlFQXdydmQ1X0dIZVNYcmdYNnVqNE1qTHZCT0lkcWZKTk1uMnh0RjFYV215Y3ZXN1diY1pEMzd5MjhoZnRyWXBoby0tNUk3U3dCNjJwdjNVRVBTb1ZWREY4XzlR?oc=5",
-      "published": "Fri, 11 Sep 2026 13:30:00 GMT",
-      "summary": "記憶體一片慘綠！三大法人倒貨「這4檔」10萬張 連砍華邦電3刀結帳181億元  Yahoo股市【Follow法人】外資賣超892億元！重砍友達逾10萬張居冠 提款台積電近200億元  Yahoo股市外資提款892億元！友達遭砍10萬張 買超十大標的全收高、金融占8席  UDN外資和自營商聯手賣超近1200億元外資防禦操作轉買金控及電信股- 財經新聞  玩股網主動ETF連3天賣超60億！台積營收破5千億照砍健策獲3家搶買| 財經  newtalk.tw",
-      "source": "Google News Global",
-      "display_time": "09/11 21:30"
-    },
-    {
-      "title": "台股重摔 三檔金融及高股息ETF逆勢奔新高 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41YW9JcWYtdG0yeWVRd3dHY1NfQWpjLUVBTHVycElEUkVXZVdOT2JfOGFXUG4ybzlpbkFqNUtyT1YxNVVmdnAtTzB6ZnVaQkRpczh30gFYQVVfeXFMTVBuRTdqcXBJQ2dPdmltZXZIQ1VEZUtlTXZHdnV2dVVSbXVIUGNmcm04NlRYY0hNZ3FtQ0lhOXJMX1ZXUklkMFJFZTNqQ0NIWWNNZkpBZ0xkRA?oc=5",
-      "published": "Fri, 11 Sep 2026 12:55:42 GMT",
-      "summary": "台股重摔 三檔金融及高股息ETF逆勢奔新高  UDN台股將再度崩盤？專家曝撐盤全靠「2族群」示警了  Yahoo股市盤勢分析》利空夾擊 提防短線回測月線  自由時報台股量縮跌755點險守46K 這檔無人機概念股殺跌停10萬張賣單逃不掉- 證券  工商時報台股慘遭血洗下周一快逃？專家拆解CPI「2大結局」 大魔王在後頭- 財經  中時新聞網",
-      "source": "Google News Global",
-      "display_time": "09/11 20:55"
-    },
-    {
-      "title": "亞運籃球》中華隊小組賽第二戰交手伊朗 決戰第4節 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQM29IQmd0dFU5ZW9KOWc2Ny12YTQwZUxCZGM1eDFzbW5reEszUzBQOU05VF9HVkJKNFlsak9Oc3huWHBIUm10LXBSVmtLdUo2MldHclZINWpuOUt1bUNkZHVGWU5YUmRaODQwb1hXZUZZMTExZVF4YUhfN1JnY3ZKRlByaExLZ2ltYjhFeW54cHJYa0VYYUlrNjhqSGV5U3NCanFZa3lUZ1EyZGFHa1NHVXJ2dlluaWpjOWU4WG1VaXNxNXJPcm9lVTh6dmJORDBTYkxIQ01sOHc1WU1xRlF5RGtoZGkzYlVuN2s2NEtFS2w3N2RZUC1HYTdycy1YdWxIUnk4UW84Qzh3eS13QU81NU8tN2lfY05VVndYYWZuT2FfSGhIWFVTV18yOGFBRUY3NUNraTBvVkVyaGlSNjRBWVdGSEk5SGY1RzNQWFNQaDMxajNiY1d4OGNYeFB0QWNpelpwQzg5dw?oc=5",
-      "published": "Sat, 12 Sep 2026 03:00:00 GMT",
-      "summary": "亞運籃球》中華隊小組賽第二戰交手伊朗 決戰第4節  Yahoo運動亞運》高柏鎧5犯退場成關鍵！陳盈駿飆29分可惜操刀最後一擊未果 中華3分惜敗伊朗  Yahoo運動亞運男籃》可惜！陳盈駿轟29分、游艾喆10助攻 台灣不敵伊朗吞首敗  自由體育亞運層級已不如10年前！ 中華男籃「保四搶三爭金」要拚球運  UDN名古屋亞運／台灣男籃激戰伊朗69:72吞敗明戰卡達| 中央廣播電臺  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "09/12 11:00"
-    },
-    {
-      "title": "台積電跌40元能撿了？高盛喊3100元 陳重銘揭進場「1原則」 - tw.news.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQzltSDU0QzJoNDNTVjJqbU5XeE9LLXBDSm1lWmNzNDBGQTZBc09mNFp4Z3E0MExrSUtNNk9QejV5RGFmVmwydlBWdGRZT1NRLTRwOFVWRUdpU3Y2c0hCRGxCS2xsdEszWnRLSnlCVmNNb0RYbXpSeDhsbG5YcDZtb29jZlk4b3c2dWlfZ2gtX1diZGR2Tjl6cHdLR2JrVlB1czh1VE9RVWdnb3A3alMzTnZVeUFMdThvQ3NWZklZSDZiWElmMHYwTzhhbWYwWUdzWWRHVmwzS2gtM3FyOExZbUNoT09iNUZTRWpubWQ1eDRrLXVPblpZSkdZckNCQmRRU1Z2MVkxYzJlT3AyYjZkaTljVXhuQWNmMnhuTjNoT3h1RDVMREsyT3J4ZFZxcHZQYW1UVjdFQ3NaaG9NYXkzZEZ2RUlhZnUxODgzMXp1Tmo?oc=5",
-      "published": "Sat, 12 Sep 2026 00:44:03 GMT",
-      "summary": "台積電跌40元能撿了？高盛喊3100元 陳重銘揭進場「1原則」  tw.news.yahoo.comAI大趨勢尚處極早期！台積電高盛大會最新研判：智能體將把算力需求擴至CPU N3、CoWoS產能仍非常吃緊  news.cnyes.com台積電何時最好賺？近10年數據揭曉：長線投資人可鎖定這段時間 | 個人理財 | 理財  經濟日報台積電8月營收衝5148億 連4月創單月新高  自由時報中芯Q2營收季增20%居前十大晶圓代工之冠 市占5.4%升至全球第三  PChome Online 新聞",
-      "source": "Google News Global",
-      "display_time": "09/12 08:44"
-    },
-    {
-      "title": "川普出席911恐攻紀念儀式：那天我們都是紐約客 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xTVpMMk9ncm5fUENtUzE4bjgzUjRWTmRwWFJqczJNY2otRGhnVW1Oakh6RnJ6MW5XMExCUXJVZVNqR0lwYmJPN3pHakhNR1U0?oc=5",
-      "published": "Fri, 11 Sep 2026 23:16:00 GMT",
-      "summary": "川普出席911恐攻紀念儀式：那天我們都是紐約客  UDN911恐攻跨世代傷痛罹難機長女兒嘆父親無緣見孫| 國際  中央社 CNA911「三重倖存者」 從死裡逃生到縫合傷口  tw.news.yahoo.com911事件25週年：從世貿雙塔到政治兩極，美國如何走向無解撕裂？  TNL The News Lens 關鍵評論網轉彎！川普昔日痛批伊戰 911事件25周年致詞連結布希反恐戰爭  經濟日報",
-      "source": "Google News Global",
-      "display_time": "09/12 07:16"
-    },
-    {
-      "title": "〈美股盤後〉CPI揭曉 Fed升息機率逼近九成 油價回落助美股終結連4黑 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IT3plcWVxZTdnMFVBb2NWcmYybkd3V09WRFFZNElpV0lKTERfZ3ExT0dvVFp2QTFaUW96NGlSYkJhdlhKRHBxaExwMFU0Qmc?oc=5",
-      "published": "Fri, 11 Sep 2026 22:03:59 GMT",
-      "summary": "〈美股盤後〉CPI揭曉 Fed升息機率逼近九成 油價回落助美股終結連4黑  news.cnyes.com星期一開盤噴爆？美股全收紅 台指期夜盤暴漲401點  Yahoo股市升息預期已提前反映 美股反彈收高  經濟日報國際油價回落「美股終結連4黑」 台積電ADR漲1.22%  MoneyDJ美股｜油價回落 4大指數齊揚 道瓊彈509點 戴爾飆12％  工商時報",
-      "source": "Google News Global",
-      "display_time": "09/12 06:03"
-    },
-    {
-      "title": "美國8月核心CPI月增0.3％、超預期 聯準會升息機率破9成 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZTFFWVNSWU9HTkZLRGd6b0JBdzQtVlpPZ2ZfZnA1U0NlSzdrYWxJcEttZmNPOGdDeWhBX2dwVDhtbDRBZ0ZON0NYZlBGRTI2eFJVUDVEdzlVS2tJcE5z?oc=5",
-      "published": "Fri, 11 Sep 2026 13:36:00 GMT",
-      "summary": "美國8月核心CPI月增0.3％、超預期 聯準會升息機率破9成  工商時報美聯準會下週升息機率逼近9成 「Fed傳聲筒」預測至少升息3次  tw.news.yahoo.comFed升息恐非一次性！專家估最高升6次 華爾街警告：AI熱潮與私人信貸藏隱憂  news.cnyes.com升息警報大響！　專家：股票不用急著賣  ETtoday財經雲美國8月通膨率停留在高點 聯準會升息機率增  rti.org.tw",
-      "source": "Google News Global",
-      "display_time": "09/11 21:36"
-    },
-    {
-      "title": "FPS 新作《戰犬行動》搶先體驗首日銷量突破125 萬確認2028 年登陸PS5 及 Xbox 平台《WARDOGS》 - gnn.gamer.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oUDRzTUtReXB0SnlGRFB0clRwZXpGd29tQ29YVXdJNVllVHYwaEZuSjVGeng3TmNwb0hmc0E4QjZ0bmpsU0E4M2VBVThabUJidnRNMno4bGQ?oc=5",
-      "published": "Fri, 11 Sep 2026 07:56:45 GMT",
-      "summary": "FPS 新作《戰犬行動》搶先體驗首日銷量突破125 萬確認2028 年登陸PS5 及 Xbox 平台《WARDOGS》  gnn.gamer.com.tw一天銷量破百萬！Steam百人三方混戰FPS《WARDOGS》爆紅  game.udn.com戰術FPS新作《Wardogs》登陸Steam搶先體驗！封測破50萬下載，百人戰場正式燃起| 遊戲情報站  GANK 電玩誌首發衝破 33 萬人同上擠爆伺服器！擬真軍事射擊新作《Wardogs》Steam 上市首日崩潰緊急維護  ParadailyWARDOGS Season 01 Twitch Drops：獎勵總覽與領取指南  games.gg",
-      "source": "Google News Global",
-      "display_time": "09/11 15:56"
-    },
-    {
-      "title": "北京想孤立台灣沒那麼容易！《富比士》直指台灣真正「國際影響力」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zUE1WdDNRQ3pPQ0ppaVF6MzdxLU5MUFdxMG1LNlVvdHhpRTM0N1NFMlpuNzExVTd3Yk1IS0lMSWRXbkhPdkdiRFJ6aDh4Yjd2VmJjNTlGeHdDWEZXZmxj0gFkQVVfeXFMTzQtOXpvZUVXRUlzRHFBVzhVenNZSWkzckd2eWhndVprekdMUE5CWGVIaXBxQVdpRWtPOXJ5ZTVqV3JWcDRya0RERC02UjZ1NUluV3Qzdnc3UjJuYkpHcHgyNjFBQw?oc=5",
-      "published": "Sat, 12 Sep 2026 07:23:32 GMT",
-      "summary": "北京想孤立台灣沒那麼容易！《富比士》直指台灣真正「國際影響力」  自由財經北京打壓沒用！《富比士》揭台灣真正「國際影響力」  Yahoo新聞外媒：台灣的強大國際影響力不是靠外交部而是「這個」掙來的| 國際焦點| 全球  UDN台灣「矽盾」恐失效？外媒揭「這國」不必擊敗台積電 只要做到1事就夠了  自由財經台灣不必只做晶圓代工 曾獻瑩：下一座「護國神山」要從孩子中長出來  TVBS新聞網",
-      "source": "Google News Global",
-      "display_time": "09/12 15:23"
+      "display_time": "09/12 18:15"
     },
     {
       "title": "亞運男籃／「死亡之組」拚淨勝分太吃虧中華隊搶8強門票只能贏卡達| 名古屋亞運| 運動 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FbVkwTnR2ZzdiMzhNZGpJckVYZmdTbHpsS0tSWGZtWDVNUk4tSXFQVTMzMFlmOW9EQ3Nzc2d3ZnRpODJNVm5OblQyZy1mekI1enI0?oc=5",
       "published": "Sat, 12 Sep 2026 07:14:58 GMT",
-      "summary": "亞運男籃／「死亡之組」拚淨勝分太吃虧中華隊搶8強門票只能贏卡達| 名古屋亞運| 運動  UDN亞運》B組「死亡之組」4隊同為1勝1敗 中華力拼明勝卡達自力晉級8強  Yahoo運動亞運男籃》燃燒自我轟29分仍輸球 台灣隊長陳盈駿：努力以身作則  自由體育亞運男籃／陳盈駿29分苦撐、高柏鎧又犯滿中華隊3分飲恨伊朗| 名古屋亞運| 運動  UDN名古屋亞運／台灣男籃激戰伊朗 69:72吞敗 明戰卡達 | 中央廣播電臺  LINE TODAY",
+      "summary": "亞運男籃／「死亡之組」拚淨勝分太吃虧中華隊搶8強門票只能贏卡達| 名古屋亞運| 運動  UDN亞運/男籃死亡之組殺瘋了！4隊全1勝1敗 中華隊明戰卡達決生死  Yahoo運動亞運男籃》燃燒自我轟29分仍輸球 台灣隊長陳盈駿：努力以身作則  自由體育名古屋亞運／台灣男籃激戰伊朗 69:72吞敗 明戰卡達 | 中央廣播電臺  LINE TODAY亞運男籃／「解凍」的游艾喆大爆發！　戰伊朗狂傳10助攻證明自我  ETtoday運動雲",
       "source": "Google News Global",
       "display_time": "09/12 15:14"
     },
     {
-      "title": "台股夜盤飆400點！下周快逃或搶反彈？還有「一顆未爆彈」恐再殺- 財經 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PenhLOHVfdjJpU1dhWGYyd3N3ZU9PbjdNMzc3ZjQwczlqd180RHZ3S3RTUE9lTy1qREhFQUZOZ2RaRHRYUVR3WEp5UWJ4QVFBN3U3Mjd2UUtGSDdRVkZrTGl0ZzJjUDJnSEhPNTB3?oc=5",
-      "published": "Sat, 12 Sep 2026 02:18:19 GMT",
-      "summary": "台股夜盤飆400點！下周快逃或搶反彈？還有「一顆未爆彈」恐再殺- 財經  中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "title": "偷用美AI致解放軍資料被看光！北京氣炸 傳月之暗面創辦人及15主管全被抓了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xMmwtVDBOYlFMX3RSbTNUTjF5LS1ZanA0djMzcEhxZU1TM3dJcUU5S21rNU1nd1d1RHlKX05ELU1oQ3dzQmtIMlNINDVseXBIU21uMU9qTWRCTV80QlhB0gFkQVVfeXFMTjhEWldTeTZWOWJza2JUMU5RQm1CNWhoTFpwcW5DbHhmalFzOWo0V3AwY254YnN0VVpqaEJnVGN4MG03NVZYN2h4NjJSLTI1eFVZRFdGUHI3Tm4wdEFtTXZ1d2o3Yg?oc=5",
+      "published": "Sat, 12 Sep 2026 07:07:19 GMT",
+      "summary": "偷用美AI致解放軍資料被看光！北京氣炸 傳月之暗面創辦人及15主管全被抓了  自由財經中國AI企業憂遭制裁拒與美國訪團會面- 兩岸  工商時報中國軍方信息疑遭外洩 美AI巨頭揭敏感內幕  Yahoo新聞CIA指半導體中企成情報目標 中：將採必要措施  rti.org.twAnthropic：中國、伊朗濫用AI監控少數族裔和異議人士| 國際  中央社 CNA",
       "source": "Google News Global",
-      "display_time": "09/12 10:18"
+      "display_time": "09/12 15:07"
+    },
+    {
+      "title": "CPI成翻盤關鍵！高盛、花旗改口押升息 TD喊連升3次 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kVHlwZkJiYWxOOVVmVTZvMzFwOVhzZjZSbEcwcXNQN01rWWJLVjFzQkdNXzlaUWttRFdsN3FmVGMybl93RjJsUVlRT1g1Rmc?oc=5",
+      "published": "Sat, 12 Sep 2026 05:10:08 GMT",
+      "summary": "CPI成翻盤關鍵！高盛、花旗改口押升息 TD喊連升3次  news.cnyes.com聯準會升息一碼還三碼，台股怎布局？阮慕驊曝「買進訊號」：一類股首當其衝  Yahoo新聞升息表象下美三角困局| 民意論壇| 評論  UDN台指期夜盤飆401點週一穩了？ 網友吐心聲：看多怕被殺 看空怕被軋  自由財經若升息美股反有望迎「下一波多頭」行情？Fed升息機率飆至87%  news.cnyes.com",
+      "source": "Google News Global",
+      "display_time": "09/12 13:10"
     }
   ]
 }
