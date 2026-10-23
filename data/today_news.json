@@ -1,133 +1,29 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "news": [
     {
-      "title": "GPU只能用4年？CoreWeave債務有解？黃仁勳一次回應 再談DeepSeek高毛利 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSUY2REpFNXdGMndnQklKNDJyYWZkZnF1bDFZUDBaMFp3aWpsbzZIclJDTWhZLUhMcFB1UXVlTUs5VlBRTkE4M3RnYnJvLVE?oc=5",
-      "published": "Thu, 22 Oct 2026 14:50:05 GMT",
-      "summary": "GPU只能用4年？CoreWeave債務有解？黃仁勳一次回應 再談DeepSeek高毛利  鉅亨網黃仁勳欽點AI新勢力：它們「需求爆表」 卻被關鍵瓶頸卡住  Yahoo新聞抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲  TechNews 科技新報Nvidia公布Vera Rubin資料中心參考設計DSX POD，號稱最快2周可完成部署  iThomeAI終將毀滅人類？黃仁勳再嗆末日論「捏造又廉價」：打造AI，別試圖扼殺它  Yahoo新聞",
+      "title": "美股早盤／四大指數下跌！科技股賣壓持續台積電ADR逆勢漲| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vT3lnWUFwMHlIY25VWWwzYWhpQW9VREVmRnllUzBScEpoSGRYRFJnVWFBSXAzcXByNzRUZjU0U2tadlNWeU80Sjk3OVpNSENx?oc=5",
+      "published": "Fri, 23 Oct 2026 13:43:23 GMT",
+      "summary": "美股早盤／四大指數下跌！科技股賣壓持續台積電ADR逆勢漲| 全球財經| 全球  UDN台股下周開市慘了？費半日崩6.7%逼近年線 阮慕驊示警半導體3風險：關鍵不只股價  Yahoo新聞半導體暴跌散戶受重擊！摩根大通：資金未撤出AI交易 反而擴大布局  鉅亨網這波在跌什麼？費半血崩逼近年線阮慕驊揭3大利空考驗- 國際  工商時報美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％  自由財經",
       "source": "Google News Global",
-      "display_time": "10/22 22:50"
+      "display_time": "10/23 21:43"
     },
     {
-      "title": "外資重砍台股後怎麼走？ 歷史數據顯示科技市值型反彈強勢 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYU0lEWkx1aE5fcE1FOFoxZWhmM29JUWNGLTkxZ0Ixb0dHUS1NVmYwT2h4eFUtek42aHJqbldVdGNPZk5IbGF5bWNvM0xzVjZGTExPaDE4TVFvZDhZTWtv?oc=5",
-      "published": "Thu, 22 Oct 2026 12:42:06 GMT",
-      "summary": "外資重砍台股後怎麼走？ 歷史數據顯示科技市值型反彈強勢  自由財經外資大逃殺！一週狂砍台股5862億 3檔重災區賣超近38萬張  Yahoo新聞暴力洗盤求勝法則　外資單日賣超破紀錄散戶甩下車？  ETtoday財經雲外資近月高位變現7,000億！反手抄底鴻海、2類ETF「內資也狠敲00403A逾216萬張」背後算計全曝光- 上市櫃  旺得富理財網外資一個月大賣台股7000億元 主力低檔卡位這兩類ETF 最愛00403A  鉅亨網",
+      "title": "台股跌破季線原因找到了？陳龍喊「5萬點前最後洗盤」 預測下周報復性上漲 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOdnB5YldkWFpFTlJtd3hFVWRnTDV6RXN0bUtKNmg0UVJDZVNGRW5NVXhDNGxjSTE3TmcxVzlLQzlfRW1JSHhnTlctS1dLcnZ6Q2JXd01UVVhnTjNRdGtuUE8tVnJ2cjk4cGJXeU5jT1hCTEl2ZnJ0QWhIeV9XNkp4LTg1YU05a3dZMWdPVDNEQmlaeW5lcEZYZHAtcGgzY0cwRnEwQXhNLVVackxzVmUwUWd6MXBpUDdIQkRkYTJ5TVd2UEhMN2lDV2hVYXBpclRjZFFLYUNJZWhmVHVBZ0NDNWF0N3EtcEVqM0hHWTZSdmpEMlVBemhxRDNDejZFQWZFdEZmUDQyV3YyenNZZkd4WTAycTRxZi0ySmFjalpNMHpBQnVmWEdZYU1mLVFXVVQxYmltQU9GdlA5UTI4WFhGZXdrTi13aDBkZlBJS1FhT0s2T3JFWTN5T2txM3RDbUVMX1kxUGN5LVBmWDhieFZncXlyeEE0TTJFUTlpRVNmSzNmZFBkM1hSNU9oQllmcVFqX0phVUNtVXktd1cwSU1GTVJhNHF3WHFSWURxX1dfdmg2d2ltWU55eG5XTHlHa3Fkb3p6b2pqd0M?oc=5",
+      "published": "Fri, 23 Oct 2026 12:30:00 GMT",
+      "summary": "台股跌破季線原因找到了？陳龍喊「5萬點前最後洗盤」 預測下周報復性上漲  Yahoo股市台股要崩了？陳嘉偉示警：大盤恐下探22500點 曝「唯一獲利方法」  Yahoo股市台股暴跌846點免驚？ 郭哲榮：4天後將大逆轉  東森電視盤勢分析》跌破季線支撐 避免搶短  自由財經台股豬羊變色重挫846點 資安金融突圍 這檔傳產本月已飆60％  工商時報",
       "source": "Google News Global",
-      "display_time": "10/22 20:42"
+      "display_time": "10/23 20:30"
     },
     {
-      "title": "澤倫斯基受訪稱願凍結戰線保留75%國土與俄羅斯停火| 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92OUdKbEpxdG5lWkZLa2NlMnZEQWdfbE9JSHVZNE83a3cxYjVvTXJKR2hyRURNYkFkVW9jMFJhS0NaTHRWc2pQZEdOa2RmM3lMTnUtOEh3dGsxUVhlbGlv?oc=5",
-      "published": "Thu, 22 Oct 2026 10:44:00 GMT",
-      "summary": "澤倫斯基受訪稱願凍結戰線保留75%國土與俄羅斯停火| 國際  中央社 CNA停火曙光？澤倫斯基受訪同意「必須凍結戰爭前線」：願保留75％領土換和平  Yahoo新聞俄烏願重啟和談 和平仍遙遠  UDN20261022 8點新世界完整版（無網路版權內容除外）｜蒲亭同意重啟美俄烏三方會談，澤倫斯基:安全前提下願凍結戰線  你的公共電視1年前遭川普嚴厲制裁 普廷如今「零損失」換回美俄關係正常化  自由時報",
+      "title": "諾貝爾獎得主籲美國收回星鏈！台灣F-16也被點名 警告馬斯克不能左右國安 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQXzcyNDVZU1N6MWdsWHduQ3E2VlZSSGZaZU9VNUJkeHUyRVpwVGpvUmV4MlMxRUVDa1RhMmNBUHQzRm5MSFczUnpBZDBMOFBZM0ZObUpsMnY2WjV1QnFUbVI0bzNBXzlscXBlOV9KaUVlczdnUDc2Y0JiRTlKNW9VMzlHWUFoV29GOWRPd21vY25ZNXFyc2NFWDBPSzdqYmhhem5PY0FNREtCVTZWSnRpX3JxMERhY19xWUF3RnYzMFROR2xXa3JOY1NLdERVVWZ2RFdmVk1XemlsWjFPZTJhcGloajRVRUJpaTdRQ2ZOWlZ0TWFCQy1aZ3Y1WG9QXzBSN2FFenIxVzRlRldObW92RkxROEEzNk90Nk9mTXhJVjR0cUtQYjkzRWxOckZMdXkxSmF5dUhiX2RwZGVaeDEyNWJ4a0NLT3F0Y0tXbmpvVHRiNUpya3FWZHY0ZGRDRTI3d0YwWGx5ZlEyN3pUMTBEbmswYjRqclZGczg1RXNEbVlLWVRFRE9McWkyQTBFUTVOa3hKbDRydVFEYmlrVGlqdXYtV0ZJQmRmMXAxVmJMMk9xV09XbGVCczQ2S2VDRXE4OVBN?oc=5",
+      "published": "Fri, 23 Oct 2026 08:39:00 GMT",
+      "summary": "諾貝爾獎得主籲美國收回星鏈！台灣F-16也被點名 警告馬斯克不能左右國安  Yahoo新聞馬斯克星鏈「一鍵改變戰爭」權力過大！ 以台F-16戰機為例 克魯曼籲美收控制權  Yahoo新聞星盾突限速慘況曝！烏無人機群半空墜落損失3千多萬 士兵怨遭美拋棄  UDN川普拒證實是否促解除烏克蘭星鏈限制 稱重點在已恢復  Rti 中央廣播電臺馬斯克能決定戰爭通訊？克魯曼籲美接管星鏈 | NOWNEWS今日新聞  LINE TODAY",
       "source": "Google News Global",
-      "display_time": "10/22 18:44"
-    },
-    {
-      "title": "三大法人砍千億 台股摔破季線 網呼救：國安基金 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxONXoySlFQR0RWNUVSMlFTQTNlOUZFVWd2a0M1RnhCNlp6VWl2R28tajhWYWZ3UXRHTzYwYWVZWFBFcllsU0JnaFBZWFZWZzhwSE9vaHA3Q2tGY2twallzTVNEOUZEQ0hqUDQ3MHVoRjRzcHZWcXM3SnRhbXVTaTJFRFItajBjbWRGYXh0Rk51YngxMHgydUo0a2VWdHFMQzJBSDFselM3SEUwc0lzUzVKVEdjcFZVTF9sWkhOTWp3TjRrZHV4LWZ3UU5yZHc1NjZma1BuM1ZUUDlDZ1BDN3hxcmdHc0EyeEZRQ2puNGtWdnB1NkJ2RGEwZ1ZxXzZ3TF9qbXEyVVlGOVktZld2czBVaGVOTjdRajNkWFdLZl94aV9IMkZxdHVLSVByR3BEbWNZYThRaUkydVFRSjdGeDQyazJ1UEVUZmJ0N215MGlYUQ?oc=5",
-      "published": "Thu, 22 Oct 2026 08:33:00 GMT",
-      "summary": "三大法人砍千億 台股摔破季線 網呼救：國安基金  Yahoo股市颱風還沒來散戶先跑了？ 台股暴跌846點 專家揭資金逃亡真相  Yahoo股市台指期 底部支撐墊高  UDN台股下殺原因是颱風假？外資賣超擴大到816億！回測46K破季線「還有3訊號」…一堆股通殺誰被賣慘  今周刊散戶這波怕了？台股「溜滑梯」狂瀉846點摜破季線 專家：這原因讓投資人先賣再說 | 張大任 | 新聞  風傳媒",
-      "source": "Google News Global",
-      "display_time": "10/22 16:33"
-    },
-    {
-      "title": "星盾突限速慘況曝！烏無人機群半空墜落損失3千多萬 士兵怨遭美拋棄 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40dnE5ZVktWXY3QnpqNFV5ZWdBVkw0MU9PdUItZHRsTjR2Z0VteDkzazFrbnpGazczR2FfUHUyUzZFWGpXQ2tPWGU3S1RMTXZJ0gFWQVVfeXFMTmNPSW9BUkJyWkZWTUQ5clVmUUZGS2RCaGViRmRwWXR1VkNWSkxuT0pQRUN2QjNQZ1RaUW01Y1lqSi1ZUzg1amVXbFJEYXY3Vlp4RTlYb1E?oc=5",
-      "published": "Thu, 22 Oct 2026 06:27:46 GMT",
-      "summary": "星盾突限速慘況曝！烏無人機群半空墜落損失3千多萬 士兵怨遭美拋棄  UDN「我不知道是誰做的！」川普否認下令限制烏克蘭星鏈網速  Yahoo股市美星盾突限速 烏克蘭無人機集體墜毀  UDN美國國務卿：烏克蘭「星鏈」限速是馬斯克所為  鉅亨網盧比歐：美烏會談「積極正面」 星鏈限速為馬斯克決定  Rti 中央廣播電臺",
-      "source": "Google News Global",
-      "display_time": "10/22 14:27"
-    },
-    {
-      "title": "明天台股不開盤？郭哲榮預測大台北放颱風假 祭品文豪送5000杯珍奶 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuWjl2UU0yNTBRc3JqQnQxNUdpaFJkTVBsZl9McjRiWmlFR0o0bGVUcGF1SDFUb2dvUzdtOVJEWU9mVG1lZTQ4aGdyUFNNNG9UUlHSAVdBVV95cUxQUEpvbHYyZTlwcVdQMHhiUWtUVjJCUnp3UFlaUkk0N2x0NHh4NnlZRDJoc2lNQy1oUFRud190Ynczd01CUGpfbng1Qk5PaDlZU3hsZFpWRHc?oc=5",
-      "published": "Thu, 22 Oct 2026 03:55:57 GMT",
-      "summary": "明天台股不開盤？郭哲榮預測大台北放颱風假 祭品文豪送5000杯珍奶  UDN台北股匯休市！ 薔琵颱風停班 4檔個股除權息延後到下周二  Yahoo股市颱風假台股開不開? 券商公會這樣說  自由財經颱風假穩了？強颱薔琵逼近！郭哲榮鐵口直斷「就算下小雨也得放」：不放發5,000杯珍奶- 上市櫃  旺得富理財網4天連假 抱什麼ETF最安心?  三立新聞",
-      "source": "Google News Global",
-      "display_time": "10/22 11:55"
-    },
-    {
-      "title": "日韓股重挫！法人大砍千億、台積電跌35元 台股收跌846點失守季線 - 知新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Sd21NbzF1YTdYOGsxNFRFMVF1MmxYZ1JNREVNSmZ3Mnl1VHIyZ0pET1dZVFdrbTBoVVJPOXhTU0NIT1UwMTdXNkZWcVFBdDN6RDZ1MndkSFBXQzJDMjc1ejRldm1PZk1ieXlhWVZzVQ?oc=5",
-      "published": "Thu, 22 Oct 2026 01:06:00 GMT",
-      "summary": "日韓股重挫！法人大砍千億、台積電跌35元 台股收跌846點失守季線  知新聞",
-      "source": "Google News Finance",
-      "display_time": "10/22 09:06"
-    },
-    {
-      "title": "川普指法國遭移民肆虐！馬克宏怒嗆「愚蠢」：拿我們國家打選戰- 國際 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoUDFtbGhkTy1qYlF1LVg3NlNHV3A1WFFyel9RY3JfdGVTeUpLOVU2c2JQb0tPT3VGcU45ZmhzbDQ5cEtqdkJhTHphLUxzejN2cmM2M1BqbmozOGI1c25MYjdlN1ZfNjdHcVlxdGZ3?oc=5",
-      "published": "Wed, 21 Oct 2026 23:57:58 GMT",
-      "summary": "川普指法國遭移民肆虐！馬克宏怒嗆「愚蠢」：拿我們國家打選戰- 國際  中時新聞網法國／洗劫iPhone以為賺到了？開機傻眼「手機受到追蹤並報警」  Yahoo新聞「現在去法國安全嗎？」旅法台灣人親授指南：騷亂下旅遊、求學與生活，4 種情境教你應變  換日線 Crossing學潮暴動蔓延全歐?! 法國政府出動軍隊，延長宵禁｜公共電視 - 尖鋒對話  你的公共電視防暴力騷亂再現 法第3大城里昂24日禁「所有示威」 | 中央廣播電臺  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "10/22 07:57"
-    },
-    {
-      "title": "AI支出疑慮升溫！美股4大指數重挫 費半跌幅逾5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OQ3d4SzJjZGo1bGxIWFptVk9aQ1NLa2RlV2prcHJEUGFDVF9pUWxQckZ6eDAzR2xXR3dMcjFzaDdCMnJzenlKQ1BXYlVxVzZUOC1XMEhSSWdLeG4zdkQ00gFkQVVfeXFMT0hpS0NQdjY2RFp6RFI1akNWMWhyeFdHZGlpbTNUYjVhTEM4eUhINnoyYzNhSDVhc1hwUnE2YWgwdVZSaVQ5dXNJZ215TWlTbzg5NWlzNnNfdW5Ya2Fac21DOGJBeg?oc=5",
-      "published": "Thu, 22 Oct 2026 14:48:09 GMT",
-      "summary": "AI支出疑慮升溫！美股4大指數重挫 費半跌幅逾5％  自由財經美股早盤／Meta特斯拉財報好也難救 四大指數齊跌、費半重挫4%  UDNAI支出疑慮血洗美股！費半收黑773點　台指期夜盤大跌580點  ETtoday財經雲費半殺7%、台積電ADR崩4%！Meta燒錢無底洞、黃仁勳一句話引拋售、美伊亂局油價飆3%…台指期夜盤跳水逼45K  今周刊Meta重挫6％拖累 美股開盤三大指數齊跌 台積電ADR重跌逾2％  工商時報",
-      "source": "Google News Global",
-      "display_time": "10/22 22:48"
-    },
-    {
-      "title": "颱風還沒來散戶先跑了？台股大跌846點 專家曝資金躲進2題材：留下的全淪當沖絞肉機 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNR0lhR3RWM2lvVi1wTUxDd2RJWWhsT3NvWTVlZEF6QkZLN0licm5RNDlNVHhDLVp5UzFhakJFM3J2T3l2MGZsTkRsMFdBc1VtUzIzTk1uMkJpRFNzb2ZUWHI3SnlNOW1WQjZtR213clNtQmY1MDhrdEgwY0NWYzFicE5reUpWYWlFWk9xa2FvU3p0eDcxdEFnREtMdkFjaDNTUUg0UDlpTjB3ZDlEQm50ZEJMVmxOMndodVpzRXNseUpOZ05IM1ZPY0U3ZGpoWk5lN2dDaVhrODM2RllXdHd1SUIwVlJpTHQxR2RQTi1qOUpYbVV6N0lDY3ltc0xOSkt6YTBQWjNPdXVQOTAwbmVHb0lla0lEeUR2V1dpRlJ3Y1dkQ1hCUDEyeTRhaW0tdzA1UjFzY21nalFpekphRFZmbWFUcm1od3dJMkdFNzhjcGlrTllhQmNobGltTkZxeC1jUlhIQjBMdTdmVXN1T2NxbnQ3RmVpU2JjRFFJYTc3M2dra3hockFMQVRkQUJ1U2ozT2dPQ0FkT1BUYk15cFI5ZGduQk8xOE1VWWdqazREQ01KaGFydHZ0aHpGY3ByM19EMl9WbF9ValdRSERMeVE1TVB1Uk8xRm9TWHJudXV2NC1RcS1CUFRzd0xKOGhFMERVMlRlRw?oc=5",
-      "published": "Thu, 22 Oct 2026 10:58:53 GMT",
-      "summary": "颱風還沒來散戶先跑了？台股大跌846點 專家曝資金躲進2題材：留下的全淪當沖絞肉機  Yahoo新聞【盤前】外資投信加碼「這檔」3萬張！51萬股東大跳《妳是我的花朵》  Yahoo新聞外資倒貨 台股上沖下洗1290點  中時新聞網台股47K曇花一現！外資狂砍816億　續砍台積電1.26萬張  ETtoday財經雲盤勢分析》跌破季線支撐 避免搶短  自由時報",
-      "source": "Google News Global",
-      "display_time": "10/22 18:58"
-    },
-    {
-      "title": "化解罷工危機！台灣美光董座揭與台中工會協商細節 勞退衝10%、結構性調薪再增3天假 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQWVprS3NqaHJicC1JMXNZeGo2TlBSUEt3cEJMNkZTNmk5ZVo3NUdqV3dtZ21QZzFTQ3ROWUltZXVvUDVwVC11djdpSHhHZHpuYkstb0Vpa3hmTlVwNW83MWRjRXhmRFVIWkk0WmVlMmlRSHljNHdTZDlMd0lJWVJhS0Q5dG1mZlVnYzV2LVN5V3JVQThGVVJzdjJyVFFxYkw2aEFSeFhTTE5DQXptdFRpQjFRbVRVUV8tNVdtRkd6Y2taZHBXZmJJcW5LX1lMRUEzd1FqV3Z6anN1WVo3Z1dpcEN6bk5UMG5VTk1Pb1ktaHB6NElqVEFFX1UwWHd1WUpLMElNYXI4LUxVTk14QXJtV240OTFMRUdpN0NmMHhlWXVncm44NUR6X01EdklVZU9uZ3hHcmMzeDdCYWNHQ1dSeXVMLW1yVUlkQ0tFS1NDbWw2UEE1U1B3cnduMnFOTDROVGsxOVdZNHpfTmhuUk03TFdQV0lxRWI2ZkVRdnNmOXBUSkpxaHV4V2pOa0hzcmxWTExJN045MENlZVVOajVpZDhYbC1WMFpadzZRYW5oVWxoVFJsNVJDaGZObjNQM2tJY2gxSUVzUF9LYnFEaU03Y3FBR012dkFBNHIzZFFNNUtZNXJJZ3dubHNtMl9xZTdjT0lEUHRiQTRZRVE?oc=5",
-      "published": "Thu, 22 Oct 2026 08:34:00 GMT",
-      "summary": "化解罷工危機！台灣美光董座揭與台中工會協商細節 勞退衝10%、結構性調薪再增3天假  Yahoo股市美光勞資協議出爐 新增季度分紅 IPP最高5倍  自由時報記憶體大廠調薪 它薪資三倍起跳  三立新聞美光桃園罷工24小時 專家：勞資僵局延長恐衝擊HBM市況  Rti 中央廣播電臺台灣美光台中廠達成勞資協議  經濟日報",
-      "source": "Google News Global",
-      "display_time": "10/22 16:34"
-    },
-    {
-      "title": "馬斯克能決定戰爭通訊？克魯曼籲美接管星鏈 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNS2Nfd2lzVE91MmdRRGxtbG5hVUVDZlZBMG9RV2JXU1pkdXlUMmotLWdCRHVuT2lDdmZIOE02dVRLZENONS1KX3pXZG9RRDlYWGVnQV9FaFVITk54N2FiSUplOFUxWDBKWmFybXlqY1RPNV9oRndMbTlWWl83ZVFkUjE0RFlTd2IyUzJVTkU2TnFTbXpJTW9yblU3cVhRdXdZcmVlWG5BQmZCZHVqdGRwbm0xWG9YaWJhNXlXU1BteTFPeTNaMG9tTEt4QWtfNU5jZF91eXFFLUpkMGlhZS0xdmNMbG1CN1BKSFVSd1BwSjFWeHBxVHVLS1dQVHdyUVpaLUpxWUsyaVZHNEtIeE5pTGJnNVd4MVk5d2IxQkNDRngydGpicF8tcmNxYXFSbml2ejA0b19TTUI?oc=5",
-      "published": "Thu, 22 Oct 2026 23:30:46 GMT",
-      "summary": "馬斯克能決定戰爭通訊？克魯曼籲美接管星鏈  Yahoo新聞美星盾突限速 烏克蘭無人機集體墜毀  UDN川普拒證實是否促解除烏克蘭星鏈限制 稱重點在已恢復  Rti 中央廣播電臺美國國務卿：烏克蘭「星鏈」限速是馬斯克所為  鉅亨網馬斯克才是最有權力的人？傳川普致電要求他解除限速烏克蘭「星盾」  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "10/23 07:30"
-    },
-    {
-      "title": "〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQMkFGd1h5RTFOb0JYUHVJeFk2Q2EySjVRQXRrR3Zta3Y4R21fNThlUVU1aUpLNXRRdTFyWEswblhkRVdKQXlYUXBXbjM0YjRmSUxHMVRsLVlhSnYtdFZaeV9NZFVuT2pDbDJDRTNaNFdBOGItSTdBdS16X2JFZENMZmN5VXhkUHAxdTZvd0RBT1hOMjg4bG9jeWdGbXJjeFRzX3BHdXBZeWh1UjJOZGM1VjFEQkxJQUFCa3JmMWJvM1EtOXNpc2oxT2ZaUkVrTHJPTktfSktuci11SUpYSExlV3dtZnJrelRRQkFFNXptR0lrdVR2SHJZMkp2S3ZsV0RDSzJGZ0tuUGx0RW1DSXhXQ0ZDek9idEl0QWhaMHR6RFF3TjhHWDZPOGU4TkFGcG1PcTlJRXY1d0ZWRUNzdC00UHBOQjh4aERXTDVKeTI2RVZiN1B1TnJPaHNTVjRVOC1M?oc=5",
-      "published": "Thu, 22 Oct 2026 22:06:09 GMT",
-      "summary": "〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5%  Yahoo股市費半殺7%、台積電ADR崩4%！Meta燒錢無底洞、黃仁勳一句話引拋售、美伊亂局油價飆3%…台指期夜盤跳水逼45K  今周刊美股大跳水！4大指數下跌「費半重挫5.67％」　ADR一片慘綠  ETtoday財經雲美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％  自由財經〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低  鉅亨網",
-      "source": "Google News Global",
-      "display_time": "10/23 06:06"
-    },
-    {
-      "title": "防範美以聯手攻擊 伊朗揚言採「零紅線」戰略 攻擊中東7國油網設施 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiZ2NwdjBja2RrTnYyNHMtVENjSzBOUE5sUEZlSm1GaVpORUEtWnBIbG0yZEhmMVoySmJlNW9GTjVMdi1tU2hJbTF5NVpwWEpqcXFCSlFvLWNiMVZPU2Z3MF9CZnpuZ9IBa0FVX3lxTE9sZXhhTEtzM0dhYkRwMUdSYXFvU0VVQTFDX2RfVFRTNmdwelYxLVlGdW5mS05sMlJhdjcxTWIyZVM3NjYyTURvVFJmMXNEWGFDUnFxM1pfWFY4N3ZYX3JGOVZFRGxSVk9PWlZR?oc=5",
-      "published": "Thu, 22 Oct 2026 19:32:21 GMT",
-      "summary": "防範美以聯手攻擊 伊朗揚言採「零紅線」戰略 攻擊中東7國油網設施  自由時報川普怒控伊朗選前炒高油價！荷姆茲海峽運量真比戰前多？  玩股網川普稱美軍已痛擊伊朗 可能進一步行動重申阻擁核  Rti 中央廣播電臺紐時：美以兩軍密集演習 為期中選後攻打伊朗做準備 | 太報  LINE TODAY傳美以擬選後攻伊 伊朗警告：將打擊波灣7國石油與AI設施  Yahoo新聞",
-      "source": "Google News Global",
-      "display_time": "10/23 03:32"
-    },
-    {
-      "title": "俄烏談判 澤倫斯基願當前戰線停戰 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CUU40QTR2aDZCSDh2N2xYMFo3czV6Wlc3a1FhUVA5ZTh0aktscC1zQ00xNUR2SmVUdWNCWE0wZW1Zbi1LMmxuWjhBcUhEWWRG0gFWQVVfeXFMTlBVSjRtaVphdTIzWFlhUnd0S3BfV3BBRjB6ZXBGODZoc3BrT1Q3b2RNZmJ6Q3hVdTI5aHZqREROZ1k0cGpPN1RxQXdzWkN3RGRnNnJvNWc?oc=5",
-      "published": "Thu, 22 Oct 2026 16:00:00 GMT",
-      "summary": "俄烏談判 澤倫斯基願當前戰線停戰  UDN澤倫斯基愈發激進！烏歷史學家揭談判紅線：絕不「法律割讓」領土  中時新聞網停火曙光？澤倫斯基受訪同意「必須凍結戰爭前線」：願保留75％領土換和平  Yahoo新聞20261022 8點新世界完整版（無網路版權內容除外）｜蒲亭同意重啟美俄烏三方會談，澤倫斯基:安全前提下願凍結戰線  你的公共電視美俄烏11月重啟和談：川普對俄鬆綁制裁，分析認為普亭「不急著讓步」  TNL The News Lens 關鍵評論網",
-      "source": "Google News Global",
-      "display_time": "10/23 00:00"
-    },
-    {
-      "title": "連假前颱風來亂 台股早盤開低震盪走低 高低下殺近900點 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQkZlbjVSS2gxS2J6YUcxb2lnbktwXzlERmlTQ0pxQWRJN2tpNHd1T1ZJOHMtR3U3M2t2WmFqVDdGQmxMX3RaQ2dZdHFaRGlVaV9lUTFTaEd6NkhkdDh3?oc=5",
-      "published": "Thu, 22 Oct 2026 03:46:00 GMT",
-      "summary": "連假前颱風來亂 台股早盤開低震盪走低 高低下殺近900點  工商時報逾51萬股東要翻身了？三大法人猛掃「這檔」3.3萬張居冠 台玻、中鋼齊入補貨名單  Yahoo股市46K沒了！台指期夜盤暴跌580點薔琵休市還閃不過？專家見「2訊號」喊：麻煩大了- 上市櫃  旺得富理財網《台股盤後》開高走低、收跌846點，失守季線 - 台股 - 新聞  MoneyDJ理財網盤勢分析》跌破季線支撐 避免搶短  自由財經",
-      "source": "Google News Global",
-      "display_time": "10/22 11:46"
+      "display_time": "10/23 16:39"
     },
     {
       "title": "台股颱風假躲過一劫？美AI股崩跌 日韓股早盤慘摔、午後跌幅收斂 - TVBS新聞網",
@@ -138,92 +34,20 @@
       "display_time": "10/23 13:15"
     },
     {
-      "title": "烏軍逾600架無人機夜襲！川普斡旋未果 澤倫斯基轟俄動用「這炸彈」 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FaGhINXJCZGhpdTlmcEVCV0dtSGxqV2xaSlZnUUo0NVhtOWVlTXJsVVVyUWdEa0RHelFCSGg5R2wzVC1sM0p1ZEk5ckRsWmxvcUpueUU5bTQtRnF1SzRtVXJ5N0o5UdIBa0FVX3lxTFBFOWp6eFRpTGJ3RmpILVRwRUxrMVlGcjgyay1GWmkwSWo1WnFEazFLZnFlZ2pPajhlU2ljUE5QNWx2Wnpta0dzbDlXZHVGQ3B3YlF0SHJZLUdUclc0Y1NyTC1mMEtPNlIxSVVv?oc=5",
-      "published": "Fri, 23 Oct 2026 01:56:54 GMT",
-      "summary": "烏軍逾600架無人機夜襲！川普斡旋未果 澤倫斯基轟俄動用「這炸彈」  自由時報基輔校園\"地下化\" 砲火成為課堂鐘聲  Yahoo俄羅斯社群媒體巨頭VK資料中心遭無人機襲擊，大量使用者通報服務異常  iThome美特使訪俄後戰火持續 基輔與莫斯科相互攻擊  Rti 中央廣播電臺說好要和平談判？ 俄軍轟烏釀2死34傷 澤連斯基怒譏：飛彈來自「人道主義者」  Newtalk新聞",
+      "title": "AI識別PHP重大漏洞，多國政府和企業網站臨時關停- 紐約時報中文網 - 纽约时报中文网",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUW9qUHM4Q0d3aGZKUnVTa3NlMDB0NHNESTNOZFJSV2k4MUltbG9uOGM5dE9rSmpoQmQ0UjdPTXFBZ1dIVkJTREpkU2lIZmJXSkVOdlZram9jRDI1bkNHek1wNUFzZkpzTkg0d1BDN0hoUFZZMmw2ZDBna3BqV2VLcnIxNlp6LTJic1VCeDBYeXpUVHd2?oc=5",
+      "published": "Fri, 23 Oct 2026 02:55:30 GMT",
+      "summary": "AI識別PHP重大漏洞，多國政府和企業網站臨時關停- 紐約時報中文網  纽约时报中文网PHP2Shell恐源自20年前的嚴重記憶體錯誤  iThomePHP爆2項重大資安漏洞 網站面臨遠端攻擊風險  DIGITIMES只更新WordPress不夠！PHP兩大漏洞CVSS達9.2，趨勢科技籲企業緊急修補、慎防假更新  Yahoo新聞PHP爆資安漏洞！趨勢科技推「急救包」 中小企業免費用7天  自由財經",
       "source": "Google News Global",
-      "display_time": "10/23 09:56"
+      "display_time": "10/23 10:55"
     },
     {
-      "title": "費半崩近7％台股剉咧等！黃仁勳戳中AI痛點 說出市場最怕的事 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNTmUtU1J6TXhYVUJEMGlLT2hLU29MckY5bDdaV0otMFhPQjJZWktMS1pwQ1B3bHBBQWw2MndnNTQ5OXlxeFA0NUFzZVk2Z3pYMTgtRXB5aF9CeXRnY3VpdDA5VFNsNkx5SXhPSVRXNFdiaEplTHVlVnBoN3o4NFVuZkhTQUFKZnY5R25CWTZLQzRxUXppY0kwUE4zbElzejV0YkJ6NkhkdERZX2FGR2hFdHRNRjlUVWZxZkk4WTlxa1psdFJzMHl6TnlNcGNBbmNFMnUtWklJS2oybV9NWER2WEVGLXk2c1NDakFiNWFIRHFoakk1VERXejdKUXhXTzNUc29QbjBLUXhzQ21aSUY3M1NmRE81VU1RNDhnc2tnZjhVRFNMYlZZaVRrM0hMay04RXc5dzd5R1F4NzRBQmV4NFRFZ0ZobkFSSEc5Tkw5OHhiX040b2lzRjh6NmxIaWx0NFI3LVR0TFhfdUlLS0NsM1ptN09LVzBMU3lnUHdkT3U1S0U?oc=5",
-      "published": "Fri, 23 Oct 2026 01:28:06 GMT",
-      "summary": "費半崩近7％台股剉咧等！黃仁勳戳中AI痛點 說出市場最怕的事  Yahoo股市天下晨間新聞：費半崩跌6.7%！黃仁勳說出市場最怕的事  天下雜誌老黃失靈了？「這６檔」名列輝達背板股 股價卻同步翻黑收跌  Yahoo股市AI股拋售潮延燒！CoreWeave、Nebius陷財務疑慮黃仁勳點出新雲端最大瓶頸- 日報  工商時報費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球  UDN",
+      "title": "黃仁勳示警新雲端危機！需求「爆表」 成長最大瓶頸是「它」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xb1NlVWJvSjU5MTNJWlhReFFzS2RPZUtENWlVVFBTaGRVRlpCODBYWlVtd3FRTXNjbkhxTUdMM19icTNad1Q1Rlk3V0ZabGJSR0haX2FjNGlNQ25IQUU00gFkQVVfeXFMTVpXUkExRXlfYnJSemhnUVF6V1ItR2kxVkdDUzJRZnc2c19tN19GT0tQYkh5N1RFVmdnZW5ZbXlDX1FGUzRsV0hqQTA1ZTJZZEZFZjBEZmI3UkY3a2NGWGFPUlBzVg?oc=5",
+      "published": "Thu, 22 Oct 2026 23:50:20 GMT",
+      "summary": "黃仁勳示警新雲端危機！需求「爆表」 成長最大瓶頸是「它」  自由財經費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球  UDNGPU只能用4年？CoreWeave債務有解？黃仁勳一次回應 再談DeepSeek高毛利  鉅亨網天下晨間新聞：費半崩跌6.7%！黃仁勳說出市場最怕的事  天下雜誌台股下週慘了？ 陳重銘揭「3大利空」：先別想衝5萬點  東森電視",
       "source": "Google News Global",
-      "display_time": "10/23 09:28"
-    },
-    {
-      "title": "美股｜Meta財報嚇跑AI股費半急殺近7％ 記憶體大失血台股ADR倒一片- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lb2YyeVVJY1ZkMjBXdzBOQjlhNXFCNS1VQzh0SkdEMWxBcE02S0pLQkNySkZUSUJvU0dGT0luXzFJOW1HX0VJbWFnWnZxSHFiVWRCTWxZSTJLSzNJZ21Z?oc=5",
-      "published": "Fri, 23 Oct 2026 01:24:00 GMT",
-      "summary": "美股｜Meta財報嚇跑AI股費半急殺近7％ 記憶體大失血台股ADR倒一片- 國際  工商時報〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5%  Yahoo股市AI 燒錢過猛引爆市場疑慮，美股遇數月來最慘賣壓  TechNews 科技新報費半殺7%、台積電ADR崩4.5%⋯美股大逃殺發生什麼事？Meta引殺機、黃仁勳一句話變利空，台股3天後慘了？  今周刊「熊市陷阱」失靈！晶片股市值蒸發逾3兆美元 費半下一道防線在哪？  鉅亨網",
-      "source": "Google News Global",
-      "display_time": "10/23 09:24"
-    },
-    {
-      "title": "花蓮鳳林光電弊案涉賄近5千萬 上市公司董座總經理前鎮長等人全押了 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqOFJPYUh5bXR6a0haNzlIbzVEMzJjS05JOU1QdlVpYTVfenVKSFh1Z3lDVU9tRTlFUXJlcWZMazBEZ015bXhHVGJBbWxjZ0ZV0gFWQVVfeXFMT3YzZVVKVUUweERrMHBVVmRIZ09pZVFFMDlBY1ZtSTRDbGNkNTgxN05YZmFfUDBXODVKSGR2SGlHdnJnbDJwemJDNkl5bVNmeFZsS2NZT3c?oc=5",
-      "published": "Fri, 23 Oct 2026 01:01:00 GMT",
-      "summary": "花蓮鳳林光電弊案涉賄近5千萬 上市公司董座總經理前鎮長等人全押了  UDN上市綠能巨頭涉「花蓮鳳林光電弊案」 泓德能源董座總經理7人全數收押  Yahoo新聞花蓮鳳林光電案爆弊端！疑以地方回饋金行賄 蕭文龍等7人羈押禁見  Yahoo新聞2019年花蓮鳳林光電案涉不法 前鎮長蕭文龍等8人遭聲押  你的公共電視花蓮光電案搜索引政治爭議 姜文淑質疑司法操作 籲檢調查明開發始末  更生新聞網",
-      "source": "Google News Global",
-      "display_time": "10/23 09:01"
-    },
-    {
-      "title": "郭哲榮怒了！砸800萬買百支iPhone Duo 慘遭「延遲交貨」氣炸嗆蘋果 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObWtDVUVyNXRtdklPSXk4UC1sTF92NVhaVEdZOXdsSWlhRjJJV08yOTJNN3E4OUtxTnNXNkpCUkhrTUZFcUtQbzRnZUd6OGdSTG1LbWRaZUZjRjlaMlBMckd4S1FpVDdIWGNOazlweTNvQ29CMC13V1JXSGNLNFo0QlRqS2VRTkNkazRqQm5TMlNpdEFOdkM5MlNWaG1RV2NkNVh4ZGRBQ3Y1Smh5dE9CTW1DRFNNMHVYZUdzOGhaT25PZUhLSDBVVE1KNnpQVjJEeVo4RVFXV1dnQzFYckZ2dFhnRjZPeTlPTldQT3VBYUVaTXFKRWtFMkk1Tko2LVMyNlpuVEhpYU9LWS1pV0lJZXEwSUdHM3lyZC1fUmR4RHUxRXd3RTVJMA?oc=5",
-      "published": "Fri, 23 Oct 2026 11:43:00 GMT",
-      "summary": "郭哲榮怒了！砸800萬買百支iPhone Duo 慘遭「延遲交貨」氣炸嗆蘋果  Yahoo新聞不只5千份雞排！郭哲榮「1原因」再加碼5千 還訂逾百iPhone Duo送員工  東森電視颱風假要來了？郭哲榮預告台股休市 放話：沒放送5千杯珍奶 | 熱門話題 | 要聞  經濟日報大盤狂殺沒在怕！郭哲榮砸「5千份雞排」豪賭台股年底上5萬 | 民視新聞網  LINE TODAY十月買點就在這周？郭哲榮預言台股即將噴出：這天前逢低布局  三立新聞",
-      "source": "Google News Global",
-      "display_time": "10/23 19:43"
-    },
-    {
-      "title": "金正恩腦出血病逝？南韓最高情報機構正面回應 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOXzl3VUR3aUhCNXZOZHdHWVRSZm5JREJWX2I3Njk3UVA4cGpHRGwyM09GMlJCeXpEQU56SXl1VnFFUTZzMTgtZDBTREZ2aldRWk5J?oc=5",
-      "published": "Fri, 23 Oct 2026 10:45:00 GMT",
-      "summary": "金正恩腦出血病逝？南韓最高情報機構正面回應  東森新聞金正恩「腦出血」慘死北京？傳遺體秘密送回北韓 南韓國情院說話了  Yahoo新聞金正恩又「被死亡」！官媒急曬父女照闢謠　外媒揭死訊頻傳3原因  NOWnews今日新聞全球瘋傳！金正恩腦溢血病逝 川普被問下月見面突改口......  自由時報金正恩腦出血搶救不治？南韓最高情報機構說話了- 政治圈  中時新聞網",
-      "source": "Google News Global",
-      "display_time": "10/23 18:45"
-    },
-    {
-      "title": "台積電運動會取消 員工小禮物加碼每人3萬元創新高 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWHlERFhoLXp0RmlnRlE1RWxSWjdRbTV3eGZoSVYyX3UwQXRuOHFwdTBUUk84Q3BzeWRrdmdfcWV3Y2ljRl9iODRwWmtibjBH0gFWQVVfeXFMTlJzdG1pdUU4YkNXSnhfemJRWWZIMzI4bEVBallzbXdEaFgxVDhhSElDUXJ0MFVHZjFjaXZSQzIyTWltNjdyWHVnOXZRUDY4UzdqTURQT2c?oc=5",
-      "published": "Fri, 23 Oct 2026 09:15:24 GMT",
-      "summary": "台積電運動會取消 員工小禮物加碼每人3萬元創新高  UDN台積電運動會因颱風喊卡 「小禮物」特別獎金正常發放加碼到3萬元  Yahoo股市首度因颱風喊卡！台積電宣布取消運動會 魏哲家發信公布每人加碼發3萬元特別獎金  知新聞台積電運動會喊卡，特別紅包會加碼嗎？員工期待比去年更多  遠見雜誌台積電10/24運動會取消 基層員工每人發3萬元獎金  Rti 中央廣播電臺",
-      "source": "Google News Global",
-      "display_time": "10/23 17:15"
-    },
-    {
-      "title": "諾貝爾獎得主籲美國收回星鏈！台灣F-16也被點名 警告馬斯克不能左右國安 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQXzcyNDVZU1N6MWdsWHduQ3E2VlZSSGZaZU9VNUJkeHUyRVpwVGpvUmV4MlMxRUVDa1RhMmNBUHQzRm5MSFczUnpBZDBMOFBZM0ZObUpsMnY2WjV1QnFUbVI0bzNBXzlscXBlOV9KaUVlczdnUDc2Y0JiRTlKNW9VMzlHWUFoV29GOWRPd21vY25ZNXFyc2NFWDBPSzdqYmhhem5PY0FNREtCVTZWSnRpX3JxMERhY19xWUF3RnYzMFROR2xXa3JOY1NLdERVVWZ2RFdmVk1XemlsWjFPZTJhcGloajRVRUJpaTdRQ2ZOWlZ0TWFCQy1aZ3Y1WG9QXzBSN2FFenIxVzRlRldObW92RkxROEEzNk90Nk9mTXhJVjR0cUtQYjkzRWxOckZMdXkxSmF5dUhiX2RwZGVaeDEyNWJ4a0NLT3F0Y0tXbmpvVHRiNUpya3FWZHY0ZGRDRTI3d0YwWGx5ZlEyN3pUMTBEbmswYjRqclZGczg1RXNEbVlLWVRFRE9McWkyQTBFUTVOa3hKbDRydVFEYmlrVGlqdXYtV0ZJQmRmMXAxVmJMMk9xV09XbGVCczQ2S2VDRXE4OVBN?oc=5",
-      "published": "Fri, 23 Oct 2026 08:39:00 GMT",
-      "summary": "諾貝爾獎得主籲美國收回星鏈！台灣F-16也被點名 警告馬斯克不能左右國安  Yahoo新聞星盾突限速慘況曝！烏無人機群半空墜落損失3千多萬 士兵怨遭美拋棄  UDN美媒爆川普致電馬斯克 要求解除烏克蘭星鏈限速  鉅亨網沈榮欽國際視野》是誰下令封殺烏克蘭？  自由評論網馬斯克與白宮互相指控限速星鏈，究竟是誰害慘烏克蘭？  TNL The News Lens 關鍵評論網",
-      "source": "Google News Global",
-      "display_time": "10/23 16:39"
-    },
-    {
-      "title": "「酷斯拉」松井秀喜接讀賣巨人兵符！基迷歪樓狂敲碗：快來帶洋基取代布恩 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPZ20yQ1FBc29NODZMaGhpcmloT1l3Q1dBNEN4c2lud1U1Q0FscHhxdkJhRkN6dU9OSERTOEs2VjhtSHJFZ2E4c2MyRUtKUktyd3d2TlVEWkZURk9RQWFmc2JkREUzWkZFcUVpellIQ2VqUlRLQTJKN0Rja1BTZzJnTC1Ham5SWlZfU2ZMQVJHUHY0aEdBRV9lMGw4emxGeHJodDYyR2ZmNmlBSWNoYlNXRzZqUFRaQWZuM2FBNTluR0oySWl4eHZQVkItcWV2YWNoRzhzbjI0dVRpSUgwQl9HdjNkR0Q1aWltMmVleTItN09RaXJCVFJ6WnltNlM1cmh2R0NJckx4b1BQUjZMMi1ha253cFp2djVfQzFMak5lbDBubWEtM203ZkczcmZ6U0x4Wk5PRFh3MHVVSm5pU2R1d0V2RmxXdjNWV09GUGFNYi1IRHZOX0Vxb3dhcUtVNm14bmxnWUZlMXhTeTNUSV9OYi1hazN3VWJocHVDVlhVTVlLbDVKZ1NfSS0tTEd3cUh6NXNYeEh4eHllT0RCUmlLUW10MFVsNU43VnEwcjdObnJnWFN6cnhSSDJtYkVYR0tFZHJSTHc3U0Y?oc=5",
-      "published": "Fri, 23 Oct 2026 08:26:28 GMT",
-      "summary": "「酷斯拉」松井秀喜接讀賣巨人兵符！基迷歪樓狂敲碗：快來帶洋基取代布恩  Yahoo運動日本職棒》讀賣巨人新任總教練出爐 「哥吉拉」松井秀喜接掌兵符  Yahoo運動日職》松井秀喜為何選90號？藏著長嶋茂雄師徒情與「55＋35」巧思  自由體育讀賣巨人指名「不想留日」的怪物右投　球迷期待松井秀喜扮演關鍵說客  ETtoday運動雲國際體育快訊／松井秀喜傳掌巨人 川普批詹姆斯不敬 | 民視新聞網  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "10/23 16:26"
-    },
-    {
-      "title": "這波到底在跌什麼？費半血崩逼近年線 阮慕驊揭3大利空連環炸 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQOTZJMWF1a2xWcTJtanBuNGl1U1dXX1FNRWgwSURPRXlfckFQRU5Jc0d5SDZBdlctbkRaOUtpWWI1UTZSZ0VsZUVhdmhLZnpQU3VzVFI5Q2tSdVFKREZjRjhzb3RtUDNuZk45WC1keGxfY3JxOTJSNmUteFBaa0toWU81ZEstaXJFMXQ1aldlbDMtbFR3MXB1bzFYVWRyTHpQSm5Bamd6VHVub2hraEU3Znd5SUhVZ1drOGNoV1cxRk9mTWgya05QYjc3TmlLTi1LX3VVcFJZYVBybkswSnRLd3EzaVhLZEFBd1pEd0lIOGwwcm8zOENtdFdabVp4ZC1jQVpTUlNsMVF6VEtNSDJ6WW43V1hKWXNfd2lFM2VJaGJqLVduemJRSHZUUTE1SHlINzJUTmZNNC1mcXd2TGJzWkdBMnlrZjU1dms3eUgzRjd1d0tlZUFha2V1WHJkc3h5NGhHbGFFS19IcXhXeUJ1TzBGdU9fNV81VENxOW8zZUdxRlBoOXJZckI2R3NJRmt1bFkyMHlTQQ?oc=5",
-      "published": "Fri, 23 Oct 2026 07:16:30 GMT",
-      "summary": "這波到底在跌什麼？費半血崩逼近年線 阮慕驊揭3大利空連環炸  Yahoo股市〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5%  Yahoo股市這波在跌什麼？費半血崩逼近年線阮慕驊揭3大利空考驗- 國際  工商時報費半殺7%、台積電ADR崩4.5%⋯美股大逃殺發生什麼事？Meta引殺機、黃仁勳一句話變利空，台股3天後慘了？  今周刊台股下周開市慘了？費半日崩6.7%逼近年線阮慕驊示警半導體3風險：關鍵不只股價| 李瑋萱 | 新聞  風傳媒",
-      "source": "Google News Global",
-      "display_time": "10/23 15:16"
-    },
-    {
-      "title": "影／川普連大西洋都想改名！致電谷歌執行長遭拒理由曝光 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hdy1YX2h6Q0dtZmdHbkJsZGtoSnZRV21OUzc4Z3hKcjlSVWpFVi00dXk2T2xOMGtWY3hQS1BUXzRNREN2Qlc4SE9iUV9WVUNm0gFWQVVfeXFMTm96QS1Xc0hueXVjMDRPeThTdEZZcVU3WTZTRmxDYkJiNHBJT2hHMkgwU0d0U3FTbWJhWTgtQjVJY3FZbTJNNmtiLVMzLTh1S1FXbVpEVlE?oc=5",
-      "published": "Thu, 22 Oct 2026 23:52:30 GMT",
-      "summary": "影／川普連大西洋都想改名！致電谷歌執行長遭拒理由曝光  UDN川普親電谷歌要為大西洋改名遭連續3個不拒絕- 國際  工商時報川普致電提議大西洋更名，遭 Google 執行長拒絕作罷  TechNews 科技新報大西洋變「川普洋」？川普再起地理改名想法 致電Google執行長遭回絕  Yahoo新聞想把大西洋改成「川普洋」 川普自曝遭Google執行長一口回絕 | 太報  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "10/23 07:52"
+      "display_time": "10/23 07:50"
     }
   ]
 }
