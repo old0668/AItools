@@ -1,101 +1,69 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "news": [
     {
-      "title": "黃仁勳震撼辭職恐衝擊陸AI發展 美中貿易競賽雙雙減速 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15QTJFRzNrckdmRVEzUU16cW5KQmhjT0FrdnRESzRPdkZFOFRZN3FGNHp3SVM4UUc4Tjl3U2RhRmpKRENBdEFZMmNUWXphQ2p3YUNR?oc=5",
-      "published": "Thu, 12 Nov 2026 14:54:52 GMT",
-      "summary": "黃仁勳震撼辭職恐衝擊陸AI發展 美中貿易競賽雙雙減速  UDN黃仁勳辭職 中企憂美收緊監管 忙搶租海外英偉達算力  Yahoo新聞黃仁勳下台還有硬仗！國會議員要川普政府保存關鍵文件- 國際  中時新聞網昔遊說晶片輸中開放AI 分析：黃仁勳下台、中國或成最大輸家 | 太報  LINE TODAY",
+      "title": "美股早盤／黃仁勳下台陰影持續壟罩！標普那指翻黑費半愈跌愈深| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85amxuT1BRdG1VRFRrNURTeGVCTDFmc1V3bXFoNlVKRXBkZ1pyOVBRMDF6Y0Z1UFYxYV96ZkU3djgzY2RzN09pV2U3LUNrMzJv?oc=5",
+      "published": "Fri, 13 Nov 2026 14:56:36 GMT",
+      "summary": "美股早盤／黃仁勳下台陰影持續壟罩！標普那指翻黑費半愈跌愈深| 全球財經| 全球  UDN輝達利空逐步淡化？股價跌幅收斂 美股開盤多空拉鋸、主要指數走勢分歧  Yahoo股市〈美股早盤〉輝達回穩、PPI數據助攻 主要指數漲跌不一  鉅亨網美股開盤「費半重挫」！AI股倒一片…輝達苦守160美元大關  ETtoday財經雲黃仁勳效應未退！輝達反彈失敗盤中再翻黑　美股費半跌逾200點  NOWnews今日新聞",
       "source": "Google News Global",
-      "display_time": "11/12 22:54"
+      "display_time": "11/13 22:56"
     },
     {
-      "title": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHeVR1NXFWZVBJbnNuRXFVd19CWHlFYk9EY0lmQWdLazRERVpEU2xBRE83emMtd083aXA5WllFNTd4OFVDTGNnUUtrdFkyRWM?oc=5",
-      "published": "Thu, 12 Nov 2026 13:26:08 GMT",
-      "summary": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高  鉅亨網美重金懸賞伊朗核計畫情報 伊朗外長斥：令人不齒  Rti 中央廣播電臺中東衝突未能解決...川普放話不須與伊朗達成協議 油價翻漲1%  UDN川普再開炮 稱不必與伊朗談判 國際油價急漲逾1％  工商時報不必再跟伊朗談條件？川普：我拿了他們大筆資產與海峽，要范斯去調查「藍州祕密」 | 李靖棠 | 新聞  風傳媒",
+      "title": "「仁勳黃黃」衝擊台廠！法人推演最壞情境「輝達砍單30％」上市櫃總獲利恐少6400億元緯創、鴻海、欣興…8大承壓股與7檔轉單黑馬一次看 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPd0Q4bFhiSG9pSGhyRVdwWm42enlGTkZ4Q3NhMkVrVXB2XzQxTmRDcUNQSEdXM1F1VjJJYkZJNm41bzVVc3Uxb1pKVzI0a29iWmVOYURWcjJDSGJGZ0JXSmV2a19iQ0V6RWFBd2p4V1pSRFhZOWtEQ2RJbzl4UGZQTUpXSXNsRE5ad3hUMm5lUVJ1MURJRlBCUml2YjN1QTh4VDYwVVpyRTlnVVlQYmRCdHVBNW4xZHRSSmRuUGNQOFdFemoxX1NrU2xJNEl2YVl2c2ZmNGFxaTFMMVJ5NmJZNTJUUjBTM0ktVDZHTHRQRmNLUDFtcEZYQl9mbFBucENRcC14bUZXSWhsX3E3TjBnVm1JazFNSGZPcFFUeWNXaUxIWml0RkpVQV96cmJlTkFpY19sZl8zMEdDdTNvLTNrVXFnYzBMM0JfRHF1SmlUVXF4eHh6ZExMOG9JZE0yTkcwY0NlWGdndTdZOGJMM0NEY0JEUlRmb3JnSnVFWVRQaVRwNy1xbmhHQkg2dWdvOHQzWUpSM3lKU0xMYnY0ZThqbzlZdkRYS0VMNFpKVWo2UXQ5SUJDWThqbHp5dG1kc2Z6NjQyQnpaUGhVc3pwQ00zYQ?oc=5",
+      "published": "Fri, 13 Nov 2026 11:47:43 GMT",
+      "summary": "「仁勳黃黃」衝擊台廠！法人推演最壞情境「輝達砍單30％」上市櫃總獲利恐少6400億元緯創、鴻海、欣興…8大承壓股與7檔轉單黑馬一次看  Yahoo股市【Follow法人】外資終結連11賣！狂敲聯電4萬張、續賣台積電 分析師：空單破10萬口藏玄機  Yahoo股市盧市長關懷台中AI供應鏈 經發局：長單合作關係穩固 主要企業營運穩定  臺中市政府全球資訊網黃仁勳請辭引發輝達動盪 美媒：台積電、超微與博通有望受惠  Rti 中央廣播電臺政府雙箭救市 台股本周反彈漲幅10%  公視新聞",
       "source": "Google News Global",
-      "display_time": "11/12 21:26"
+      "display_time": "11/13 19:47"
     },
     {
-      "title": "鴻海財報／第3季獲利775.24億元、創新高 上修全年展望 2027審慎樂觀 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSnB1TjJzSWQ2YXFwMW92S2xMc1hRc0FUcFBtXzdTZENNS2pjTzZUYi0xV2o1LUdrc1NUVVUzSXVqdFU1b1ZnSUJtbmVKbjRUcDA5dzVYX2RRUdIBX0FVX3lxTE5hbG1BS1M5N2pkdXpxZ21PMWp0ZDB6QVl0REpLalF3dlAteXgwcGZGdWVHY0t6ZVdiNzNqWlpRV3hXdUFZaXFVUDNpVDJtcVpnbVM3WnBFUE5tbnY2MHlV?oc=5",
-      "published": "Thu, 12 Nov 2026 06:36:51 GMT",
-      "summary": "鴻海財報／第3季獲利775.24億元、創新高 上修全年展望 2027審慎樂觀  經濟日報AI助攻鴻海大賺 Q3營收年增46% 前三季EPS達13.35元  Yahoo股市〈鴻海法說〉雲端網路產品比重未來3-5年上看6成 AI業務規模擴大帶動EBITDA同步成長  鉅亨網顧及輝達客戶關係 鴻海事前低調溝通讓法說會不失焦  UDNAI帶動獲利、資金運用彈性看增 鴻海ROE朝12%邁進  DIGITIMES",
+      "title": "台股大漲三天還沒解套！ 她帳面慘虧13% 一票苦主嘆：還很遠 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQU1dCamFPVUpQVjBxTHBHUWdWcFZaQXhMcGYtSFJrcmUxTW9ET2MwZk1SdFFhNkc0djNsTnNnWUtnWjI3cVpQdjJjWjExeVJrcFppcTlzdF8yT3FiZmd1bXVJWVo4WC1oZEFKRVJxa0wzbGdETUI0ZXpwSEJnQWdhMWxKeThhUnJSeFRvSGpDbF9GdE9FY0RfbmhTcU9Sa0tYc1lrWXp1TV9aZnVRdEFxeDdPYlB2amxFSHZfUnlBZEhfdnk3c1dMWGN5aXlPbnJWcVpVVThPMHMzLWVPaHI4NVI1WTNDbTgwSkdKUVhKREtMUEx5b2JKOFM3Yi1zWjRIZVltLV90ejVpVWxTZm5hV3ByNE11R0RsTUozZXJrR3RjU2tRaHZDOG4yOWNXWU1sTVduUkU1LVJlaFp3WDVlZFZnbHlZRlZkcEpnQTVRLU9RbUdkR1k4aFFDYXVNX3M4UDA4WVZQNXJpUQ?oc=5",
+      "published": "Fri, 13 Nov 2026 10:48:00 GMT",
+      "summary": "台股大漲三天還沒解套！ 她帳面慘虧13% 一票苦主嘆：還很遠  Yahoo股市美國AI資料中心恐踩煞車！台股卻迎政策護盤 專家揭下一波反彈目標 | 個人理財 | 理財  經濟日報電子五哥全倒！英業達重挫近9% 廣達法說後跌逾6%  聚財網護盤大漲6100點！陳嘉偉警告「無量急彈跌更快」：回撤年線再崩5000點  三立新聞網SETN.com台積電超強業績當靠山／台股連4紅收復4萬4大關  自由時報",
       "source": "Google News Global",
-      "display_time": "11/12 14:36"
+      "display_time": "11/13 18:48"
     },
     {
-      "title": "俄烏同意大規模換俘！川普女婿曝「1分歧」難解：雙方毫無互信 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CbXI3WEZVU19BLXI2S2JNbFpfSHMzallnN1A2YlUzNnpLbk81NzVERUZ5aWhhd210cUFqdVBCNE9MeU1qV2JXNkJjeU84YjAzV1prM29SU1FWUEliNHpCamlFSVhLZ9IBa0FVX3lxTFBrWGRsdk1MbXd3aXdDZU9vYnlUcG1NOTVsVGVOSW85UUVNV2VTd01LelVYc29iQW5fUnduUFRKU1FtMm1OT3JmVE1CeC1DcDBqVmd4aVM2YkIzUHpsd1hIbzZxYXUtU1Foc2o0?oc=5",
-      "published": "Wed, 11 Nov 2026 23:40:44 GMT",
-      "summary": "俄烏同意大規模換俘！川普女婿曝「1分歧」難解：雙方毫無互信  自由時報俄烏阿布達比會談現轉機 美特使將分晤普丁澤倫斯基  Rti 中央廣播電臺美俄烏重啟三方和談：川普推「全歐安全架構」，烏克蘭電網被斷迎來最寒冷冬天  TNL The News Lens 關鍵評論網澤倫斯基：俄烏終戰談判2027年前有望迎來機會之窗| 國際  中央社 CNA俄烏美三方會談結束 僅就交換戰俘達成一致 | 德國之聲  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "11/12 07:40"
-    },
-    {
-      "title": "黃仁勳風暴延燒！傳白宮討論是否撤換商務部長盧特尼克 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hLWhlek5zcFpiVGY0NmRoV2dFMEVhS2gyZzhkSVctcTVBNHA1a0t4aUlOM1cxTTh2cVNQMG9SUmo3R0xGTi0zN2FwVDZySWc?oc=5",
-      "published": "Thu, 12 Nov 2026 19:04:44 GMT",
-      "summary": "黃仁勳風暴延燒！傳白宮討論是否撤換商務部長盧特尼克  鉅亨網黃仁勳下台「輝達估值將打折」 專家示警：3台廠恐遭衝擊  Yahoo新聞川普首談黃仁勳請辭「看到這樣的事很難過」憂美國失去AI優勢  鉅亨網NVIDIA 宣布共同創辦人黃仁勳辭去總裁暨執行長職務 財務長柯蕾特·克雷斯出任臨時 CEO  GNN 新聞網黃仁勳辭職了！財務長接掌輝達台供應鏈關注GPU迭代風險- 產業  工商時報",
-      "source": "Google News Global",
-      "display_time": "11/13 03:04"
-    },
-    {
-      "title": "黃仁勳下台衝擊明天台股？台指期夜盤嚇跌逾700點後 驚險翻紅狂拉近千點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPQ0xsQ1pRaGlRZ256TENzVlRPdlJvcmRLaEpGQ3lOSW40WWVldS1FcHA1di0xUGc4ZlZQbjI2X1VvVTNoRThLZnFXaVlFTU5Dc3FraXZVRjJOZUVOdjlLb0lIVFRydXVtVkc0V1dieEZaNDRycEgtZFR6WGtoXzljWTFlUDRaZjQxZUthN1dReUZSblp4SGYtOE1tQ0JXNUl6VVBCVlk5ZnVmZ0Vmd0x5NnU4MXA2VVZPMVU5dnYwWHdTVjYwbEllVE5SZjNoaDdBRTB0djdkcU9vOHNTVGhxWEkxeTI3a2puWWVDRUpMY1pIZ05VSHdMajhEY3NXZHZPc3BxN09hOXI3VTVfb0JCNC1BTW5lUmo5cXlubDQwd25kcTVnc2hHZXFPdHg5TWhSWjBPOFJTaVc3d0VaU3dVWWFZWjg5Z2NUa1BjeUNhMXdGMklOWkhtanBuaVlWc2dWbWtUUHZjWlpMeUl0OVVrSXRlNjYzRmFRWnB3V2hCTkxQWkVlaGtSaXN3SFUwdWNRSldnMTdVQk05RThPN25ndVBHTXNvbzJTeE1KZld6Nno4eVFYU0lib0N6dXBJcTVPTWRNS1V4aU0zUVhhd1JNMzNocnc?oc=5",
-      "published": "Thu, 12 Nov 2026 15:01:49 GMT",
-      "summary": "黃仁勳下台衝擊明天台股？台指期夜盤嚇跌逾700點後 驚險翻紅狂拉近千點  Yahoo股市【Follow法人】外資狂掃台玻14萬張！反手砍台積電92億元 群創也遭賣逾3萬張  Yahoo股市盤勢分析》盤勢波動加劇 靜待外資轉買  自由時報外資連11砍！今群創賣超最兇　買賣超前十大個股一次看  ETtoday財經雲討論牆 | 盤中賣壓出籠！台股終場狂瀉1165點 台積電挫跌55元  LINE TODAY",
-      "source": "Google News Global",
-      "display_time": "11/12 23:01"
-    },
-    {
-      "title": "華碩法說1》新高！第三季大賺近3個股本 第四季營收可望再攀峰 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQVWprLWVPWWlHXzg4WVhZSG1PTzBWR1Nsd3IyYUlHS3czc3lsazN5c1pHVS1ZN2RBYkIzTHBmcW9uOFQ3RkpiYUdlY2ZVbENPdzdRN3o4OUpybFl0QlNyem9GNGF4eXpPREtUbzIxNnJieGktVWxtWngwR2xYQVZOSDQwbEV3bURuT2x5VWFSMWhhMm5sZjhDY28xbzJlSkM3WTNnYlpmVkJ0Z19HekhobHlZaWxlazd2MU5HVk5pNy1fM3RNLUNBRTF6TXhSeW5fTFVWUzJPbnFzVUc2cDFfbWNnWk92VnI4OXBlQ2VsajRRT0xnUjdnb1kyRlRwaFk3ZTZOR1FCZGV5NFBVZ1Y2czVGaFRraGcySzlFaGxQU2RBa3BaaG5MSnJGQmEyY2dJZWg2bzdoU0dxZDVXVExscFZFS2h1QVA4S0liREdycVgwQ1FNbmdyZGdqSWxTS3hsczFPVy0xOWszUmcxUHdINXNDeG9uLTk5OS0zMFlFdUlVYWVCaTgtV0xRNjZHbnBLVlNFdWlwQzRKdEZWNHVCS1MtVQ?oc=5",
-      "published": "Thu, 12 Nov 2026 09:35:55 GMT",
-      "summary": "華碩法說1》新高！第三季大賺近3個股本 第四季營收可望再攀峰  Yahoo股市〈華碩法說〉第三季賺近賺近三個股本創新高 伺服器與AI PC營收皆翻倍成長  Yahoo股市華碩明年伺服器拚高雙位數增，監管趨嚴尚未感受影響- 新聞  MoneyDJ華碩第三季每股大賺29.1元 伺服器營收第四季將暴增2.8倍  自由時報華碩冰火局1》記憶體飆漲「這些電腦」面臨降規 明年PC市場恐跌15％  民報",
-      "source": "Google News Global",
-      "display_time": "11/12 17:35"
-    },
-    {
-      "title": "台股收盤大跌1165點退守4萬3 台積電跌55元 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTQ3cGtxT3JpRHpCSjNubS15cEc3b3F4dG1pQUhTdzFTM1VpbGQxNHdHbTJ5OG1aNENnM01CZmZpZHBrSDd1cVdicWl1dHROTHFyUlB1dGF0c0wzUGtyZ29aaU9iYy1MOEZ4czBtT0llVmNJS1U4MzJoampGR1drUzZn?oc=5",
-      "published": "Thu, 12 Nov 2026 05:36:00 GMT",
-      "summary": "台股收盤大跌1165點退守4萬3 台積電跌55元  壹蘋新聞網",
+      "title": "黃仁勳辭CEO恐掀輝達減單危機！投顧估台股獲利最多下修6.6% - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXNNd3Z6UmRpUjNwQjVvUzI1b194N05RbWpIMEtlQm9JdWZOc2phN0FWd1N4aDg0bXFfb0NHZEhzcmUyLV91aE9yem1Ta2duak9obWNFaTNtMVJYNGZ3SlJUZVF6WUZFa3lwNmlrdFVVQUpCZ21LeUY2dXZyMkhEUTh3?oc=5",
+      "published": "Fri, 13 Nov 2026 09:21:00 GMT",
+      "summary": "黃仁勳辭CEO恐掀輝達減單危機！投顧估台股獲利最多下修6.6%  壹蘋新聞網",
       "source": "Google News Finance",
-      "display_time": "11/12 13:36"
+      "display_time": "11/13 17:21"
     },
     {
-      "title": "台玻連四根漲停！玻纖布缺貨看到2028年外資狂敲近12萬張- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VVnB6X0QycmZxMHU0MzRzM2tQellWNHNXQU01R3RaYmhjUjQxWkxLNmt0M0JEM0lUaGhVQ3ZYc2o5SzVsZmxEMmFfQmIzek9tUFNWcldzTzNua1NWdXk0?oc=5",
-      "published": "Thu, 12 Nov 2026 02:48:00 GMT",
-      "summary": "台玻連四根漲停！玻纖布缺貨看到2028年外資狂敲近12萬張- 證券  工商時報【Hot台股】台玻炸40萬張巨量再鎖漲停寫天價！網傻眼「是挖到鑽石喔」 分析師：還有空間  Yahoo股市玻纖布帶頭衝！　台玻連拉4根漲停創36年新高  ETtoday財經雲【盤前】外資投信點讚 連兩日加碼「這檔」24萬張！它連飆漲4天  三立新聞網SETN.com台玻、富喬四檔搶鏡| 權證期貨| 股市  UDN",
+      "title": "純屬巧合？美眾議員卡納和川普在黃仁勳醜聞爆發前拋售輝達股票 | 信傳媒 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jT3BoVDM1ZU5ENmttV1FMSXNtMWtaSVBEeFVQZGV2bkxlZWdFMUMyVXdQdXl5RE5tVHVpeUdEYmluN1lwVEJic2hhSFBDR2VUWnJRWENB?oc=5",
+      "published": "Fri, 13 Nov 2026 06:54:59 GMT",
+      "summary": "純屬巧合？美眾議員卡納和川普在黃仁勳醜聞爆發前拋售輝達股票 | 信傳媒  LINE TODAY川普先跑了！8月拋售輝達股票 進帳逾百萬  Yahoo股市跌時加碼！輝達開盤暴跌逾14% 散戶半小時買盤超正常40倍單日淨買入破1.1億美元創九年新高  鉅亨網富邦投顧：輝達若砍單恐衝擊台股 AI供應鏈面臨重整壓力  自由時報伺服器台鏈主動查核客戶 怕掃到輝達事件颱風尾  經濟日報",
       "source": "Google News Global",
-      "display_time": "11/12 10:48"
+      "display_time": "11/13 14:54"
     },
     {
-      "title": "黃仁勳辭任效應？鴻海法說「單季獲利寫最強」卻一度翻黑 分析師：要長線釣大魚 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijARBVV95cUxOdDUxZWVZS3RiRzVCMVlCRXZ6TWVGQmpTQ1k4eFUxdzBjZGVqTzdBaDN5ak82NjItZ0szWm11SHotV1RvZnN0ZTI4R0Zrd0tkM2VfVW83NEhUajZCeVpkOVM1WmVtV09yOWFwRWtiRGM3eGIyYXEySDhkRmxKR3QyX2VhZ2hJcEpHZjFOcE9LRU5RNnI4RzQ2RlpkNkNRTGNQYzkwX0xzNFk3NkQ2VE94Qkx5emlwbUxwbXYyQVptblNWWC1hcWVTWV9BTy1UR2t0cUFaTS1aWXVxYUdrZWZYd2dlLUdZTFN5RWNSMnNFWDY1SHFydUdIT1JVM0RRNWdNWGdLbXNkbzJZOEFYUXVvM2Rab2p5ekJWb2dkMm03V3pZRzZ3Mk82c3VZWHBZSXJGcEstSTFyQUlHbkszX2U3ZkNBaHVaNzlkT1RDZHFQOFdmWVpDZjh0MC02NXM2RGpqWVYtQjZyeW15cUpXU0IzZTZlZ0dHNG9QMWlUWHlsN1l0eFNJUGNCUEF5ZXpCZkpEdHdEVGVxVUFVTGZZMHVxMnR3Y045NzYzYVBKRFN4cldvX1o5TngxVkNEOEFSWEtvbzNjenJPU1p6bkxWUEJwTlJteXNXT1o1SjVmemFRbmJ5QS05Y0RXLWROdjV4WExqNmlZRFJPM19RSFR2QUxLejJjZVVXVkRUN0RkZg?oc=5",
-      "published": "Fri, 13 Nov 2026 03:51:35 GMT",
-      "summary": "黃仁勳辭任效應？鴻海法說「單季獲利寫最強」卻一度翻黑 分析師：要長線釣大魚  Yahoo股市鴻海看好ASIC伺服器高速成長，搶客製化零組件商機  Yahoo股市鴻海AI大轉骨3》大啖輝達AI訂單 ASIC出貨暴增藏營收玄機  民報鴻海釋強勁成長訊號！四大部門展望全上調 董座劉揚偉看好明年營運  經濟日報鴻海、和碩同步看旺 明年AI伺服器出貨大增  自由時報",
+      "title": "民主黨展開輝達調查：質疑黃仁勳與川普的晶片交易與2600萬美元政治捐款 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wclBnc1NyWnN5d3BEZ3QxajNNWnJCLUNxRm5xamJGdXJUaTRzUmpRZTlxRjZFQ2tkVmFWckZZMkFNUjJuZmUtZjhfMkRPTkk?oc=5",
+      "published": "Fri, 13 Nov 2026 06:50:03 GMT",
+      "summary": "民主黨展開輝達調查：質疑黃仁勳與川普的晶片交易與2600萬美元政治捐款  鉅亨網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "source": "Google News Global",
-      "display_time": "11/13 11:51"
+      "display_time": "11/13 14:50"
     },
     {
-      "title": "【Hot台股】黃仁勳辭任...聯發科直鎖漲停？網笑「發哥忘了有跟NV合作」 分析師：先以短線為主 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOZ0RkOTE1bkxzMDlQcnhROGdKRnRldVlNYmRYNEljUElzb1kwRHg2dGF2TmxFZ2w3ZTBTZk5TcjdXaUtUcllvQXdGVFNLRzJIUnZ5V2M1dVlLODQyTzNabkx6dFlmOVJwMVptNlFOZE1RazRJaUt0NzY2cFVYNk9YeDB6eVltYTZqSDF2X0N3eUlZMmtLbEh2MWxlS3djSWNNXzFpWGtWXzJFYmRLb2tudGZvVnMwOTAxdHYzWUVDS09tY2lDY051R1BRcHpuUGtVMFhkMEZXVC1EeWxPdzJ3WGJueUZiRDR4cnAyX3UxRWpnbVhVbHNvOG8wdWFuV3NMTlhJWXRPNUgyVExWUlA0NzJkU3JlNlhheHp5bnAyUVJUOUF1MVUyd2Y0Q1ZmTnNJQ1lvWTRpcTIxN182UkQ3Q0pDODBVaWhSQzZySk9ZQ3A3dTZMMzdTWVdCd3VNWm43RkN2cXZlbEJnM2k3dVRzUlRlOVNVd0EyVkJSM3RhQjBlUzcwMWVMcGZOVllXOV9EMUpBQThoRXgxTEpjcUJlcWx4aEtFSzBEbXA0cDJsbE12S3BUTWpxbDA3ZmpEa3BRbjIweHZUYzZSVXExaFNTTnEtOEVKTXdZMzlqRmFqQUgxd0tyaDZMMmZMV3JfU3hBTWhEUXRCY2h3ZnBNNzlDdkJyRmR5TlVXTGllUzl2UFZtLWNZbkxNSDJ1czNLaWdDamlKRUpaeWhOMDktZUZpLUVtSElwQ2M?oc=5",
-      "published": "Fri, 13 Nov 2026 03:45:06 GMT",
-      "summary": "【Hot台股】黃仁勳辭任...聯發科直鎖漲停？網笑「發哥忘了有跟NV合作」 分析師：先以短線為主  Yahoo股市11／13盤中熱門焦點股- 證券  工商時報「後黃仁勳時代」引爆ASIC行情！聯發科開盤秒鎖漲停 創意、世芯-KY也跟著亮燈  Yahoo股市黃仁勳離開輝達引爆晶片輪動！IC三雄漲停、00947飆7％…股添樂：市場嗜血  UDN輝達利空出盡？台股一度強彈逾千點 新台幣翻升、暫收32.859元  自由時報",
+      "title": "俄烏談判有突破！普廷同意歐洲加入 澤倫斯基：美俄談「1事」很奇怪 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ydS1rbUgyV2dacmN0TkhYeS1WYjFyVTc3ZFNIRzNqUy1FN2JycTdkS3R2ckU3a0piVkh1T2MtYW94bTlUUUVWdWpYdVRCR0VFamRqZ01QNTBfbDNuQnVPZHcwOGUyd9IBa0FVX3lxTE00cWF2a0RtN1d3SXF5Z1VBQ3VabGpjTGlzczc3bk4wVko3ZHFfWVZkWEFfNjVaS2R6S01QZERUYVUtYTRzY3JPaVlXTkpHejJRbklPcU5DcTFyYjQzbEZLTTN6TE92ZVFtSU9n?oc=5",
+      "published": "Fri, 13 Nov 2026 03:22:43 GMT",
+      "summary": "俄烏談判有突破！普廷同意歐洲加入 澤倫斯基：美俄談「1事」很奇怪  自由時報澤倫斯基稱歐洲將參與和平談判 俄方稱尚未同意  Rti 中央廣播電臺美俄烏重啟三方和談：川普推「全歐安全架構」，烏克蘭電網被斷迎來最寒冷冬天  TNL The News Lens 關鍵評論網美國斡旋俄烏議和談妥換俘 至於停火仍沒進展得繼續喬  中央社 CNA普丁同意歐洲參與烏克蘭和談　澤倫斯基表示樂見  經濟日報",
       "source": "Google News Global",
-      "display_time": "11/13 11:45"
+      "display_time": "11/13 11:22"
     },
     {
-      "title": "台股重返44K 台積電漲45元、聯發科漲停- 財經新聞 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1V4TG1CLXFLTExoYmZTLXp2ZW95dm5UVDJESDRWdy12dHdIRGxVX2lUamFINDdCSmRjQWhUaGRLM01yY3JsaXRRYWxWNWZGdi1nS19QN3lfMFlfM1V4MG5jdzZPVjdhQU5CR0NtUUd6RllWMU52RExaMUVoV3J0MzU1VjNzS1NnbUVN?oc=5",
-      "published": "Fri, 13 Nov 2026 02:33:47 GMT",
-      "summary": "台股重返44K 台積電漲45元、聯發科漲停- 財經新聞  PChome Online 新聞",
-      "source": "Google News Finance",
-      "display_time": "11/13 10:33"
+      "title": "川普3度點頭、為何盧特尼克卻遲不動手 ! 外媒一文驚爆「白宮內幕」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XZnpONVJCTHJCdXFCamVnajlQR0xpeTFHMmlFRmY5SjBOVExJN3pIUHVDQ3VPS2tPS2tBd1BfVGVnWUp5c2xnbnpDaUhlVVc4b0dCdGtxQm5FWlNjb3Yw0gFkQVVfeXFMT3ZENFJTdFhUZGpHeEFuY1cyNld5OG50SXBHaHNSbGNZc0tQOVFPUzg4QUtPR3ZUNlZoNGtmNHZfcG43S2FWWWZ6SVdOdEozdUlnRWEzdnpTMDVjTUoyeTU0ZnIxVQ?oc=5",
+      "published": "Fri, 13 Nov 2026 03:05:31 GMT",
+      "summary": "川普3度點頭、為何盧特尼克卻遲不動手 ! 外媒一文驚爆「白宮內幕」  自由財經黃仁勳走了還沒完！美財長開砲商務部 輝達也得說清楚  Yahoo股市彭博：黃樂創辦的中國公司曾取得禁止輸中輝達晶片  Rti 中央廣播電臺多年來的輝達的新加坡轉口走私管道，正式封堵受阻  鉅亨網馬來西亞查晶片流向 澄清未認定Megaspeed無違規  自由時報",
+      "source": "Google News Global",
+      "display_time": "11/13 11:05"
     },
     {
       "title": "台股強彈逾千點！黃仁勳概念股翻紅 聯發科、創意攻漲停 - 壹蘋新聞網",
@@ -104,70 +72,6 @@
       "summary": "台股強彈逾千點！黃仁勳概念股翻紅 聯發科、創意攻漲停  壹蘋新聞網",
       "source": "Google News Finance",
       "display_time": "11/13 10:14"
-    },
-    {
-      "title": "台股開盤強彈逾千點 台積電漲35元開2,375元 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVhaa1ZYSmxMZ21LUFJDUUxjOVA3WmtJcUVMVDRGWGxjVThoS2lkZEo3UVNNeGtkZUtEdG8wc01HWm5NbDlaUFFaeFpySmZjd0xqV2thcXJvUzZYTWVKNGQ3Y1d6Vnhmd0drMW1FdjIxM2VON3lIdFpER1ZSQU9zRE53?oc=5",
-      "published": "Fri, 13 Nov 2026 01:05:00 GMT",
-      "summary": "台股開盤強彈逾千點 台積電漲35元開2,375元  壹蘋新聞網",
-      "source": "Google News Finance",
-      "display_time": "11/13 09:05"
-    },
-    {
-      "title": "AI教父黃仁勳閃辭！　台股恐受衝擊 | 財經 | CTWANT - CTWANT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGLTJqY2p5Q1VkQWRqaWpVOTYzMjJ5azBiLTJPdzBGYlFhYVA2Zlg1VURaMDZmZDNUUEhVX3lXVlQ2aDdOUXdpMTloTjRvU2fSAVRBVV95cUxPRGJobXVBRHVJSUYtYS1aSGl4Y2JTQlpRLU11ZlQ5R0h2UlVWR3FCcGxhZk1XdWxvcXF2RHRhel9qMWFLbWpkZ05KMXVna3daUFBUNVQ?oc=5",
-      "published": "Fri, 13 Nov 2026 00:03:32 GMT",
-      "summary": "AI教父黃仁勳閃辭！　台股恐受衝擊 | 財經 | CTWANT  CTWANT",
-      "source": "Google News Finance",
-      "display_time": "11/13 08:03"
-    },
-    {
-      "title": "曾莞婷台股慘賠千萬！自封「曾菲特」補到沒子彈了 每天起床只剩「這個念頭」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOb0pzYklfSElENlN4Q1ZjNDkyOFd6am5KNXoyX2I5SmxnQ1UtZFpLYjBjWjlBa0xwZVplbnNyNXZpbW1jX2pzRnpESHlDVnZ0OXQtSmFOZ3ViTjJVdVZqWFBzOXMzU1VVMDZoeWh4cHNYQWFwOGY3OUlLOUtFWjh0N0gyNldqZXRaVHc1WGt1akFZZExSZnNaSHdERnZJTHhmV2xUR3B0SzE2Rk1hZm9JSmV3NnBSZUtCTG1HV2x2T2pZalgwOHg0Ui1JMzlfaXVGMEt2aFhabXdMTncwYm42ZHRJWWJTMzlNTFhEQTdiUmFWQW8zSnZZS3dkLTFxbzcya1EteUprNXhVZFZwbkd6UUFrNGlUek1iTXEtc1FmX0UwTjJ5?oc=5",
-      "published": "Fri, 13 Nov 2026 10:18:02 GMT",
-      "summary": "曾莞婷台股慘賠千萬！自封「曾菲特」補到沒子彈了 每天起床只剩「這個念頭」  Yahoo新聞曾莞婷股市慘遭血洗！　8位數千萬資產蒸發　「曾菲特」自嘲  噓！星聞曾莞婷股票蒸發千萬！一路加碼到沒子彈　虧爛急掙錢：有動力上班  NOWnews今日新聞外資狂倒AI股 曾莞婷「蒸發千萬」自嘲陷萬丈深淵 | CTWANT  LINE TODAY曾莞婷手握6房！認了台股震盪「蒸發上千萬」 談黃仁勳跌落神壇回應了  自由娛樂",
-      "source": "Google News Global",
-      "display_time": "11/13 18:18"
-    },
-    {
-      "title": "黃仁勳請辭股市卻大漲？ 他見聯發科漲停超傻眼：不是該跌嗎 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPazVnUHdzbzFwQU54dlg2TUxQd0V5V0NaUG5Xa1NFWkpQT1RkNXJVcTEwc3gwVzRIYWNSM3dlM0Z4M2VWU2p4dk1ZSW9RLWFDa25qUU5YZFJaMnNldjFCYjJLemJraWNHZENGdkF5X1pKemI0cm9HSlo3UC1SMERuU1cxS1VaM2JwYXNWeV9VeXdvZ083TkNxZkNNdThoUmd3cU42Vy1uenZpTmI2Zk43V1d5RndHYkx4ckdlLVNVN0JEOVhBT2I5SWdyb2RTY0RlWFF5enI4endlMEZ3NmIwczVSa3BvMFdsOXRaRnlYRF82WnU1eDM5WC1CX3lBeGlEZTJMZTFReXhkSHJMYWRRbExvOVdodGo1OU5wUVNsN0NGQ0JQRndfUllqTmJQYlRaZkxrWFQ2MnZRamNNdzFPTno3UmZHNFptY21ELTRHVjNCeXA5cm9zWHVhRktmNktwSWttX1YtdWwtS0d0bnJMSXVCUVJpZDdqYWZRS1IwVF9uSFhjTVpJZEZn?oc=5",
-      "published": "Fri, 13 Nov 2026 08:15:00 GMT",
-      "summary": "黃仁勳請辭股市卻大漲？ 他見聯發科漲停超傻眼：不是該跌嗎  Yahoo股市玻纖布行情旺翻天！「這2檔」遭外資趁高提款33.4億元 轉賣台玻1.1萬張抽回逾9.5億元  Yahoo股市華爾街變心了？輝達失寵 3檔個股受惠、台積電入榜  自由財經政府雙箭救市 台股本周反彈漲幅10%  公視新聞黃仁勳請辭引發輝達動盪 美媒：台積電、超微與博通有望受惠  Rti 中央廣播電臺",
-      "source": "Google News Global",
-      "display_time": "11/13 16:15"
-    },
-    {
-      "title": "跌時加碼！輝達開盤暴跌逾14% 散戶半小時買盤超正常40倍單日淨買入破1.1億美元創九年新高 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhS1B0TnBCRUdBSXVseThJNkdGNU1RYTFjY0lqa1BWUTc2OXlMZ0pEdDdTcHdzQllRbUVXcV9PVjdfUXNqdVpUUEJqaHNsaTQ?oc=5",
-      "published": "Fri, 13 Nov 2026 07:00:07 GMT",
-      "summary": "跌時加碼！輝達開盤暴跌逾14% 散戶半小時買盤超正常40倍單日淨買入破1.1億美元創九年新高  鉅亨網川普先跑了！8月拋售輝達股票 進帳逾百萬  Yahoo股市純屬巧合？美眾議員卡納和川普在黃仁勳醜聞爆發前拋售輝達股票 | 信傳媒  LINE TODAY市值蒸發逾1兆美元後誰在買輝達？散戶單日近40萬筆買單力挺 限縮跌勢  鉅亨網富邦投顧：輝達若砍單恐衝擊台股 AI供應鏈面臨重整壓力  自由時報",
-      "source": "Google News Global",
-      "display_time": "11/13 15:00"
-    },
-    {
-      "title": "群創連五季獲利/Q3賺0.96元；Q4營運估放緩- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTdacFFoTEtsUTJ2RGg2Wm5XVjlOeXI5R2pKX19XbzJZclUxU0FLZkxxM3lzY0lWYnJXaGhaSDVKM1pEb29uSzVHOWRWaUxuZ2hjdG5jYmdqd1JsU3dhR0FBRVExVExIeHZMdEY5dldNN3RwV280QVU2M2Q1SGFzYWpqZC1zN1JIMnVCNk1NU1Z4Zw?oc=5",
-      "published": "Fri, 13 Nov 2026 06:55:00 GMT",
-      "summary": "群創連五季獲利/Q3賺0.96元；Q4營運估放緩- 新聞  MoneyDJ群創Q3每股賺0.96元連5季獲利 Q4面板需求估持續趨緩  Yahoo股市群創連5季獲利 4Q26淡季非顯示器營收力拚持平  DIGITIMES群創第3季獲利年增約114倍 估第4季需求趨緩  經濟日報連賺5季！「面板大廠」Q3淨賺76.91億元、EPS 0.96元 迎戰Q4傳統淡季、深化非顯示器布局  Yahoo股市",
-      "source": "Google News Global",
-      "display_time": "11/13 14:55"
-    },
-    {
-      "title": "日月光首進南科！路竹廠千億投資案正式啟動 滿載年營收上看800億 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcXI0Y0s5ekViNkZGUjN3eUwzQmR3M19xLW9TTjlYaFVXNXRTdmFtMUR0NmRUZkZtTTdjZEFmZ2JHRGQtbUxnZXVWSkVEZkk5Nm5NQTEtNF9RbmVBZ2ZJbGJvQWVtMVU5R0RkU3JtZk9mRTVjVC1oRlJSUHZSMU01SEQydTBfbUZXVUN4MTZCLUE0NHRkNVktVzVyc21hRFRuTVFCQ2ZORDgtTHdQaHVpODBvaFNDZjFMNXdyUGgtY1FJOTE0WEJidERSSmhWUGlSM1AwZ25Ic1M5eFBEaHVUaUlNN1RmU2F3WVRTcFl3R3M3QnhneE9KaE1tVUgtLU9wemFIVnBFczFQZXhlclJVaHZvWFpzeWY3NHF3aUpJYzZUNTlSang1WmVEZmRCRnVaLTZlbjZhUEx1ck5HazhwVVFvNGdaMU5FcGI4WjktZHFGZTNrbzRXcElXRzdjMWhQRVViNWdETkR2SlI4S0lDc3c3bjdwUDJUVTNKa3dxUWlyNHdfUXM4eGl6a2ZxSExFT3Q0OXhjLWRYc2hiSHc?oc=5",
-      "published": "Fri, 13 Nov 2026 06:13:01 GMT",
-      "summary": "日月光首進南科！路竹廠千億投資案正式啟動 滿載年營收上看800億  Yahoo新聞日月光投控擴大導入智慧感測 加碼採購5000套Ainos系統助攻先進封裝  Yahoo股市日月光擴大部署AI氣味感測 助Ainos加速AI Nose商業化  DIGITIMES日月光千億先進封裝布局，路竹廠一期啟用二期動土 | MoneyDJ理財網  LINE TODAY半導體大廠打造Agentic AI 智慧營運中樞：推進「全員 AI」規模化- 生活新聞  PChome Online 新聞",
-      "source": "Google News Global",
-      "display_time": "11/13 14:13"
-    },
-    {
-      "title": "俄烏談判有突破！普廷同意歐洲加入 澤倫斯基：美俄談「1事」很奇怪 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ydS1rbUgyV2dacmN0TkhYeS1WYjFyVTc3ZFNIRzNqUy1FN2JycTdkS3R2ckU3a0piVkh1T2MtYW94bTlUUUVWdWpYdVRCR0VFamRqZ01QNTBfbDNuQnVPZHcwOGUyd9IBa0FVX3lxTE00cWF2a0RtN1d3SXF5Z1VBQ3VabGpjTGlzczc3bk4wVko3ZHFfWVZkWEFfNjVaS2R6S01QZERUYVUtYTRzY3JPaVlXTkpHejJRbklPcU5DcTFyYjQzbEZLTTN6TE92ZVFtSU9n?oc=5",
-      "published": "Fri, 13 Nov 2026 03:22:43 GMT",
-      "summary": "俄烏談判有突破！普廷同意歐洲加入 澤倫斯基：美俄談「1事」很奇怪  自由時報澤倫斯基稱歐洲將參與和平談判 俄方稱尚未同意  Rti 中央廣播電臺美俄烏重啟三方和談：川普推「全歐安全架構」，烏克蘭電網被斷迎來最寒冷冬天  TNL The News Lens 關鍵評論網普丁同意歐洲參與烏克蘭和談　澤倫斯基表示樂見  經濟日報美國特使與川普女婿庫許納會晤普丁 美俄烏同意歐洲加入新一輪會談  信傳媒",
-      "source": "Google News Global",
-      "display_time": "11/13 11:22"
     },
     {
       "title": "AI教父黃仁勳閃辭！ 台股恐受衝擊- 財經新聞 - PChome Online 新聞",
